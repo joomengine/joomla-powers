@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormRuleEquals",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Rule\\EqualsRule",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "c8a86e8f-a573-4906-8f82-f8d0e369c16a",
+    "description": ""
+}
