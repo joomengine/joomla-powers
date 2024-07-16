@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldMenu",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\MenuField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "2455bac2-ed24-4c40-9bd2-2c8c89d25d76",
+    "description": ""
+}
