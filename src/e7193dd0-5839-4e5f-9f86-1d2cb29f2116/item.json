@@ -1,0 +1,11 @@
+{
+    "system_name": "JAuthentication",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Authentication\\Authentication",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "e7193dd0-5839-4e5f-9f86-1d2cb29f2116",
+    "description": ""
+}
