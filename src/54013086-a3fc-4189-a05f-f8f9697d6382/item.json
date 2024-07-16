@@ -1,0 +1,11 @@
+{
+    "system_name": "JCacheStorageHelper",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Cache\\Storage\\CacheStorageHelper",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "54013086-a3fc-4189-a05f-f8f9697d6382",
+    "description": ""
+}
