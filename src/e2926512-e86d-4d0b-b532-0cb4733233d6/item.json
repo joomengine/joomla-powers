@@ -1,0 +1,11 @@
+{
+    "system_name": "JCacheExceptionConnecting",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Cache\\Exception\\CacheConnectingException",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "e2926512-e86d-4d0b-b532-0cb4733233d6",
+    "description": ""
+}
