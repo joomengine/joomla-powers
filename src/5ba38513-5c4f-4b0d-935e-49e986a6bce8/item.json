@@ -1,0 +1,11 @@
+{
+    "system_name": "JSession",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Session\\Session",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "5ba38513-5c4f-4b0d-935e-49e986a6bce8",
+    "description": "The Joomla core session class."
+}
