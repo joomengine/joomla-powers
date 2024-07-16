@@ -1,0 +1,11 @@
+{
+    "system_name": "JControllerAdmin",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\MVC\\Controller\\AdminController",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "10c86913-be3b-4642-ad75-d7e98e297859",
+    "description": ""
+}
