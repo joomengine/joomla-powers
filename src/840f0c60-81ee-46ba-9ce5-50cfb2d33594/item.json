@@ -1,0 +1,11 @@
+{
+    "system_name": "JTableMenu",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Table\\Menu",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "840f0c60-81ee-46ba-9ce5-50cfb2d33594",
+    "description": ""
+}
