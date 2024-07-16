@@ -1,0 +1,11 @@
+{
+    "system_name": "JControllerForm",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\MVC\\Controller\\FormController",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "907ccae5-57a9-44b9-a8aa-5b905d1cd70f",
+    "description": ""
+}
