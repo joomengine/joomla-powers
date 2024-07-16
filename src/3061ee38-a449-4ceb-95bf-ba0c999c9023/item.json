@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldChromeStyle",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\ChromestyleField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "3061ee38-a449-4ceb-95bf-ba0c999c9023",
+    "description": ""
+}
