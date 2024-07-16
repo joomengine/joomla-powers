@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldInteger",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\IntegerField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "ccb4a7a6-67f6-4db5-b89c-324bfbed3981",
+    "description": ""
+}
