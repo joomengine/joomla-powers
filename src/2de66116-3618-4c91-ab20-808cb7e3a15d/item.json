@@ -1,0 +1,11 @@
+{
+    "system_name": "JLogLoggerEcho",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Log\\Logger\\EchoLogger",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "2de66116-3618-4c91-ab20-808cb7e3a15d",
+    "description": ""
+}
