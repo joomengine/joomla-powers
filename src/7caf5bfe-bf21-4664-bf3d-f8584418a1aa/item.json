@@ -1,0 +1,11 @@
+{
+    "system_name": "JFilterWrapperOutput",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Filter\\Wrapper\\OutputFilterWrapper",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "7caf5bfe-bf21-4664-bf3d-f8584418a1aa",
+    "description": ""
+}
