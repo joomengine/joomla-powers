@@ -1,0 +1,11 @@
+{
+    "system_name": "JDatabaseImporterPdomysql",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Database\\Mysql\\MysqlImporter",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "4481898b-7cdc-496a-b717-a245d494de64",
+    "description": ""
+}
