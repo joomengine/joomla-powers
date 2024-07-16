@@ -1,0 +1,11 @@
+{
+    "system_name": "JLogger",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Log\\Logger",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "90434d94-46bd-4262-abd7-050993eb1ce8",
+    "description": ""
+}
