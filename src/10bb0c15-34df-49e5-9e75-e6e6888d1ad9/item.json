@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldOrdering",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\OrderingField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "10bb0c15-34df-49e5-9e75-e6e6888d1ad9",
+    "description": ""
+}
