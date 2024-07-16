@@ -1,0 +1,11 @@
+{
+    "system_name": "JHtmlContentlanguage",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\HTML\\Helpers\\ContentLanguage",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "305d5b6f-6ebf-40f1-b9f5-b44aa27c3925",
+    "description": ""
+}
