@@ -1,0 +1,11 @@
+{
+    "system_name": "JHtmlString",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\HTML\\Helpers\\StringHelper",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "86a9e60d-ae43-4e29-8f33-78b9206e2145",
+    "description": ""
+}
