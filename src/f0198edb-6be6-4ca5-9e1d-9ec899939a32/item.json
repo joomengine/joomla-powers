@@ -1,0 +1,11 @@
+{
+    "system_name": "JDocument",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Document\\Document",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "f0198edb-6be6-4ca5-9e1d-9ec899939a32",
+    "description": ""
+}
