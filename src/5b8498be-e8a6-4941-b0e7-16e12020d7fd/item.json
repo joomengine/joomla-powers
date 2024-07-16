@@ -1,0 +1,11 @@
+{
+    "system_name": "JComponentRouterLegacy",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Component\\Router\\RouterLegacy",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "5b8498be-e8a6-4941-b0e7-16e12020d7fd",
+    "description": ""
+}
