@@ -1,0 +1,11 @@
+{
+    "system_name": "JFeedParserNamespace",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Feed\\Parser\\NamespaceParserInterface",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "47aab0ce-f4e7-4b7e-896d-0acfa5bd44b5",
+    "description": ""
+}
