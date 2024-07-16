@@ -1,0 +1,11 @@
+{
+    "system_name": "JHtmlDebug",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\HTML\\Helpers\\Debug",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "966aae72-5e2e-4844-a34b-af7ad670208e",
+    "description": ""
+}
