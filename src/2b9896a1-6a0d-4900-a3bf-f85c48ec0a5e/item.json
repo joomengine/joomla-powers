@@ -1,0 +1,11 @@
+{
+    "system_name": "JCategories",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Categories\\Categories",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "2b9896a1-6a0d-4900-a3bf-f85c48ec0a5e",
+    "description": ""
+}
