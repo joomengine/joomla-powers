@@ -1,0 +1,11 @@
+{
+    "system_name": "JLogLoggerW3c",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Log\\Logger\\W3cLogger",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "6a789af7-bd8d-4431-b1f3-7df40ace53ee",
+    "description": ""
+}
