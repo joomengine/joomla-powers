@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldPassword",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\PasswordField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "b190bdbe-1868-4c7c-bbb8-af66e1d78191",
+    "description": ""
+}
