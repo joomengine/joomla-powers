@@ -1,0 +1,11 @@
+{
+    "system_name": "JLanguage",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Language\\Language",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "4256a427-9bfa-4572-b539-cc699ab8f18b",
+    "description": ""
+}
