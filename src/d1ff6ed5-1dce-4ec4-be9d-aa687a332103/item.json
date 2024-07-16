@@ -1,0 +1,11 @@
+{
+    "system_name": "JFeedEnclosure",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Document\\Feed\\FeedEnclosure",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "d1ff6ed5-1dce-4ec4-be9d-aa687a332103",
+    "description": ""
+}
