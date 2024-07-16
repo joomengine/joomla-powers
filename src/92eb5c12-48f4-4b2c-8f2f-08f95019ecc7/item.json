@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldGroupedList",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\GroupedlistField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "92eb5c12-48f4-4b2c-8f2f-08f95019ecc7",
+    "description": ""
+}
