@@ -1,0 +1,11 @@
+{
+    "system_name": "JCacheControllerCallback",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Cache\\Controller\\CallbackController",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "4166425f-552f-4763-adcc-ca443ff4bbd4",
+    "description": ""
+}
