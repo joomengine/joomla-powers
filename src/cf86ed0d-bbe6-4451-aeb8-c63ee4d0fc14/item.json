@@ -1,0 +1,11 @@
+{
+    "system_name": "JDatabaseQuery",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Database\\DatabaseQuery",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "cf86ed0d-bbe6-4451-aeb8-c63ee4d0fc14",
+    "description": ""
+}
