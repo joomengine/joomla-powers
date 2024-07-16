@@ -1,0 +1,11 @@
+{
+    "system_name": "JDatabaseQueryPgsql",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Database\\Pgsql\\PgsqlQuery",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "ec48cc53-4a90-47a4-bb8f-6b496cfacf43",
+    "description": ""
+}
