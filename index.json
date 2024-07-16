@@ -2798,5 +2798,593 @@
         "path": "src\/7310b31c-a886-4e81-a3b4-c74f41da071b",
         "jpk": "Joomla---7310b31c_a886_4e81_a3b4_c74f41da071b---Power",
         "guid": "7310b31c-a886-4e81-a3b4-c74f41da071b"
+    },
+    "39403062-84fb-46e0-bac4-0023f766e827": {
+        "name": "JFactory",
+        "settings": "src\/39403062-84fb-46e0-bac4-0023f766e827\/item.json",
+        "path": "src\/39403062-84fb-46e0-bac4-0023f766e827",
+        "jpk": "Joomla---39403062_84fb_46e0_bac4_0023f766e827---Power",
+        "guid": "39403062-84fb-46e0-bac4-0023f766e827"
+    },
+    "ba6326ef-cb79-4348-80f4-ab086082e3c5": {
+        "name": "JText",
+        "settings": "src\/ba6326ef-cb79-4348-80f4-ab086082e3c5\/item.json",
+        "path": "src\/ba6326ef-cb79-4348-80f4-ab086082e3c5",
+        "jpk": "Joomla---ba6326ef_cb79_4348_80f4_ab086082e3c5---Power",
+        "guid": "ba6326ef-cb79-4348-80f4-ab086082e3c5"
+    },
+    "aeb8e463-291f-4445-9ac4-34b637c12dbd": {
+        "name": "JComponentHelper",
+        "settings": "src\/aeb8e463-291f-4445-9ac4-34b637c12dbd\/item.json",
+        "path": "src\/aeb8e463-291f-4445-9ac4-34b637c12dbd",
+        "jpk": "Joomla---aeb8e463_291f_4445_9ac4_34b637c12dbd---Power",
+        "guid": "aeb8e463-291f-4445-9ac4-34b637c12dbd"
+    },
+    "5ba38513-5c4f-4b0d-935e-49e986a6bce8": {
+        "name": "JSession",
+        "settings": "src\/5ba38513-5c4f-4b0d-935e-49e986a6bce8\/item.json",
+        "path": "src\/5ba38513-5c4f-4b0d-935e-49e986a6bce8",
+        "jpk": "Joomla---5ba38513_5c4f_4b0d_935e_49e986a6bce8---Power",
+        "guid": "5ba38513-5c4f-4b0d-935e-49e986a6bce8"
+    },
+    "eecc143e-b5cf-4c33-ba4d-97da1df61422": {
+        "name": "JUri",
+        "settings": "src\/eecc143e-b5cf-4c33-ba4d-97da1df61422\/item.json",
+        "path": "src\/eecc143e-b5cf-4c33-ba4d-97da1df61422",
+        "jpk": "Joomla---eecc143e_b5cf_4c33_ba4d_97da1df61422---Power",
+        "guid": "eecc143e-b5cf-4c33-ba4d-97da1df61422"
+    },
+    "8417ac0e-2abd-4452-91fd-4ca6493d55f2": {
+        "name": "JHttp",
+        "settings": "src\/8417ac0e-2abd-4452-91fd-4ca6493d55f2\/item.json",
+        "path": "src\/8417ac0e-2abd-4452-91fd-4ca6493d55f2",
+        "jpk": "Joomla---8417ac0e_2abd_4452_91fd_4ca6493d55f2---Power",
+        "guid": "8417ac0e-2abd-4452-91fd-4ca6493d55f2"
+    },
+    "d4c76099-4c32-408a-8701-d0a724484dfd": {
+        "name": "JRoute",
+        "settings": "src\/d4c76099-4c32-408a-8701-d0a724484dfd\/item.json",
+        "path": "src\/d4c76099-4c32-408a-8701-d0a724484dfd",
+        "jpk": "Joomla---d4c76099_4c32_408a_8701_d0a724484dfd---Power",
+        "guid": "d4c76099-4c32-408a-8701-d0a724484dfd"
+    },
+    "4efa4c21-5114-472a-b1f8-48aa9bd14900": {
+        "name": "JRouter",
+        "settings": "src\/4efa4c21-5114-472a-b1f8-48aa9bd14900\/item.json",
+        "path": "src\/4efa4c21-5114-472a-b1f8-48aa9bd14900",
+        "jpk": "Joomla---4efa4c21_5114_472a_b1f8_48aa9bd14900---Power",
+        "guid": "4efa4c21-5114-472a-b1f8-48aa9bd14900"
+    },
+    "59106b64-dd51-4280-be0a-1b9b9ebb7161": {
+        "name": "JInput",
+        "settings": "src\/59106b64-dd51-4280-be0a-1b9b9ebb7161\/item.json",
+        "path": "src\/59106b64-dd51-4280-be0a-1b9b9ebb7161",
+        "jpk": "Joomla---59106b64_dd51_4280_be0a_1b9b9ebb7161---Power",
+        "guid": "59106b64-dd51-4280-be0a-1b9b9ebb7161"
+    },
+    "7ab82272-0b3d-4bb1-af35-e63a096cfe0b": {
+        "name": "JLayoutHelper",
+        "settings": "src\/7ab82272-0b3d-4bb1-af35-e63a096cfe0b\/item.json",
+        "path": "src\/7ab82272-0b3d-4bb1-af35-e63a096cfe0b",
+        "jpk": "Joomla---7ab82272_0b3d_4bb1_af35_e63a096cfe0b---Power",
+        "guid": "7ab82272-0b3d-4bb1-af35-e63a096cfe0b"
+    },
+    "34690c75-1090-47eb-8c06-7228dc7eedd6": {
+        "name": "JHtml",
+        "settings": "src\/34690c75-1090-47eb-8c06-7228dc7eedd6\/item.json",
+        "path": "src\/34690c75-1090-47eb-8c06-7228dc7eedd6",
+        "jpk": "Joomla---34690c75_1090_47eb_8c06_7228dc7eedd6---Power",
+        "guid": "34690c75-1090-47eb-8c06-7228dc7eedd6"
+    },
+    "2d513d69-8c7c-4dab-bb84-c5ecafb91a9d": {
+        "name": "JAccess",
+        "settings": "src\/2d513d69-8c7c-4dab-bb84-c5ecafb91a9d\/item.json",
+        "path": "src\/2d513d69-8c7c-4dab-bb84-c5ecafb91a9d",
+        "jpk": "Joomla---2d513d69_8c7c_4dab_bb84_c5ecafb91a9d---Power",
+        "guid": "2d513d69-8c7c-4dab-bb84-c5ecafb91a9d"
+    },
+    "80425d73-1789-4f59-b49d-1a712611a77a": {
+        "name": "JRules",
+        "settings": "src\/80425d73-1789-4f59-b49d-1a712611a77a\/item.json",
+        "path": "src\/80425d73-1789-4f59-b49d-1a712611a77a",
+        "jpk": "Joomla---80425d73_1789_4f59_b49d_1a712611a77a---Power",
+        "guid": "80425d73-1789-4f59-b49d-1a712611a77a"
+    },
+    "b07d4be5-bbbe-48c9-a2ab-843090a1c0de": {
+        "name": "JRule",
+        "settings": "src\/b07d4be5-bbbe-48c9-a2ab-843090a1c0de\/item.json",
+        "path": "src\/b07d4be5-bbbe-48c9-a2ab-843090a1c0de",
+        "jpk": "Joomla---b07d4be5_bbbe_48c9_a2ab_843090a1c0de---Power",
+        "guid": "b07d4be5-bbbe-48c9-a2ab-843090a1c0de"
+    },
+    "3864fa33-ab10-48d5-98ea-5e1397e6a191": {
+        "name": "JDate",
+        "settings": "src\/3864fa33-ab10-48d5-98ea-5e1397e6a191\/item.json",
+        "path": "src\/3864fa33-ab10-48d5-98ea-5e1397e6a191",
+        "jpk": "Joomla---3864fa33_ab10_48d5_98ea_5e1397e6a191---Power",
+        "guid": "3864fa33-ab10-48d5-98ea-5e1397e6a191"
+    },
+    "b32954a3-05c3-41a0-8238-85262ad46246": {
+        "name": "JFolder",
+        "settings": "src\/b32954a3-05c3-41a0-8238-85262ad46246\/item.json",
+        "path": "src\/b32954a3-05c3-41a0-8238-85262ad46246",
+        "jpk": "Joomla---b32954a3_05c3_41a0_8238_85262ad46246---Power",
+        "guid": "b32954a3-05c3-41a0-8238-85262ad46246"
+    },
+    "55e9e8f0-3c5e-483a-a063-7c7565b00ed7": {
+        "name": "JFile",
+        "settings": "src\/55e9e8f0-3c5e-483a-a063-7c7565b00ed7\/item.json",
+        "path": "src\/55e9e8f0-3c5e-483a-a063-7c7565b00ed7",
+        "jpk": "Joomla---55e9e8f0_3c5e_483a_a063_7c7565b00ed7---Power",
+        "guid": "55e9e8f0-3c5e-483a-a063-7c7565b00ed7"
+    },
+    "a87c432d-b5b4-428e-b7ff-14b51664c624": {
+        "name": "JRegistry",
+        "settings": "src\/a87c432d-b5b4-428e-b7ff-14b51664c624\/item.json",
+        "path": "src\/a87c432d-b5b4-428e-b7ff-14b51664c624",
+        "jpk": "Joomla---a87c432d_b5b4_428e_b7ff_14b51664c624---Power",
+        "guid": "a87c432d-b5b4-428e-b7ff-14b51664c624"
+    },
+    "c2ec5cd7-4272-42de-820a-277a935981ed": {
+        "name": "JRegistryFormat",
+        "settings": "src\/c2ec5cd7-4272-42de-820a-277a935981ed\/item.json",
+        "path": "src\/c2ec5cd7-4272-42de-820a-277a935981ed",
+        "jpk": "Joomla---c2ec5cd7_4272_42de_820a_277a935981ed---Power",
+        "guid": "c2ec5cd7-4272-42de-820a-277a935981ed"
+    },
+    "9f8a11fe-a1e5-4b91-8af7-b62943692616": {
+        "name": "JRegistryFormatIni",
+        "settings": "src\/9f8a11fe-a1e5-4b91-8af7-b62943692616\/item.json",
+        "path": "src\/9f8a11fe-a1e5-4b91-8af7-b62943692616",
+        "jpk": "Joomla---9f8a11fe_a1e5_4b91_8af7_b62943692616---Power",
+        "guid": "9f8a11fe-a1e5-4b91-8af7-b62943692616"
+    },
+    "005224a7-00a1-402a-8818-7ccaf7cdf65c": {
+        "name": "JRegistryFormatJson",
+        "settings": "src\/005224a7-00a1-402a-8818-7ccaf7cdf65c\/item.json",
+        "path": "src\/005224a7-00a1-402a-8818-7ccaf7cdf65c",
+        "jpk": "Joomla---005224a7_00a1_402a_8818_7ccaf7cdf65c---Power",
+        "guid": "005224a7-00a1-402a-8818-7ccaf7cdf65c"
+    },
+    "28e671b6-6d4a-4fc8-8588-ad7f46fd68a3": {
+        "name": "JRegistryFormatPhp",
+        "settings": "src\/28e671b6-6d4a-4fc8-8588-ad7f46fd68a3\/item.json",
+        "path": "src\/28e671b6-6d4a-4fc8-8588-ad7f46fd68a3",
+        "jpk": "Joomla---28e671b6_6d4a_4fc8_8588_ad7f46fd68a3---Power",
+        "guid": "28e671b6-6d4a-4fc8-8588-ad7f46fd68a3"
+    },
+    "8ae32459-1a0a-4e07-97a5-e1e7aed6e311": {
+        "name": "JRegistryFormatXml",
+        "settings": "src\/8ae32459-1a0a-4e07-97a5-e1e7aed6e311\/item.json",
+        "path": "src\/8ae32459-1a0a-4e07-97a5-e1e7aed6e311",
+        "jpk": "Joomla---8ae32459_1a0a_4e07_97a5_e1e7aed6e311---Power",
+        "guid": "8ae32459-1a0a-4e07-97a5-e1e7aed6e311"
+    },
+    "0b0a3a94-d3c4-4960-8f6c-1fe928e866ab": {
+        "name": "JStringInflector",
+        "settings": "src\/0b0a3a94-d3c4-4960-8f6c-1fe928e866ab\/item.json",
+        "path": "src\/0b0a3a94-d3c4-4960-8f6c-1fe928e866ab",
+        "jpk": "Joomla---0b0a3a94_d3c4_4960_8f6c_1fe928e866ab---Power",
+        "guid": "0b0a3a94-d3c4-4960-8f6c-1fe928e866ab"
+    },
+    "acb6d6f1-44b2-43ae-88d0-17c5f1fc5ff7": {
+        "name": "JStringNormalise",
+        "settings": "src\/acb6d6f1-44b2-43ae-88d0-17c5f1fc5ff7\/item.json",
+        "path": "src\/acb6d6f1-44b2-43ae-88d0-17c5f1fc5ff7",
+        "jpk": "Joomla---acb6d6f1_44b2_43ae_88d0_17c5f1fc5ff7---Power",
+        "guid": "acb6d6f1-44b2-43ae-88d0-17c5f1fc5ff7"
+    },
+    "4ec5ce19-d42e-461b-89a2-4e9f77c482e6": {
+        "name": "JData",
+        "settings": "src\/4ec5ce19-d42e-461b-89a2-4e9f77c482e6\/item.json",
+        "path": "src\/4ec5ce19-d42e-461b-89a2-4e9f77c482e6",
+        "jpk": "Joomla---4ec5ce19_d42e_461b_89a2_4e9f77c482e6---Power",
+        "guid": "4ec5ce19-d42e-461b-89a2-4e9f77c482e6"
+    },
+    "9dbdb40d-0e80-4de0-9401-45f09bae4f00": {
+        "name": "JDataSet",
+        "settings": "src\/9dbdb40d-0e80-4de0-9401-45f09bae4f00\/item.json",
+        "path": "src\/9dbdb40d-0e80-4de0-9401-45f09bae4f00",
+        "jpk": "Joomla---9dbdb40d_0e80_4de0_9401_45f09bae4f00---Power",
+        "guid": "9dbdb40d-0e80-4de0-9401-45f09bae4f00"
+    },
+    "5ca5e9c5-21c0-4702-af46-f42f2d7ffc4f": {
+        "name": "JDataDumpable",
+        "settings": "src\/5ca5e9c5-21c0-4702-af46-f42f2d7ffc4f\/item.json",
+        "path": "src\/5ca5e9c5-21c0-4702-af46-f42f2d7ffc4f",
+        "jpk": "Joomla---5ca5e9c5_21c0_4702_af46_f42f2d7ffc4f---Power",
+        "guid": "5ca5e9c5-21c0-4702-af46-f42f2d7ffc4f"
+    },
+    "038f1396-bba2-4f2c-aad9-94b954fe52f9": {
+        "name": "JApplicationAdministrator",
+        "settings": "src\/038f1396-bba2-4f2c-aad9-94b954fe52f9\/item.json",
+        "path": "src\/038f1396-bba2-4f2c-aad9-94b954fe52f9",
+        "jpk": "Joomla---038f1396_bba2_4f2c_aad9_94b954fe52f9---Power",
+        "guid": "038f1396-bba2-4f2c-aad9-94b954fe52f9"
+    },
+    "081cdfea-37d6-47d4-a658-ad92e4055da6": {
+        "name": "JApplicationHelper",
+        "settings": "src\/081cdfea-37d6-47d4-a658-ad92e4055da6\/item.json",
+        "path": "src\/081cdfea-37d6-47d4-a658-ad92e4055da6",
+        "jpk": "Joomla---081cdfea_37d6_47d4_a658_ad92e4055da6---Power",
+        "guid": "081cdfea-37d6-47d4-a658-ad92e4055da6"
+    },
+    "64b2a378-24f6-42ab-909e-9fd9f7219f88": {
+        "name": "JApplicationBase",
+        "settings": "src\/64b2a378-24f6-42ab-909e-9fd9f7219f88\/item.json",
+        "path": "src\/64b2a378-24f6-42ab-909e-9fd9f7219f88",
+        "jpk": "Joomla---64b2a378_24f6_42ab_909e_9fd9f7219f88---Power",
+        "guid": "64b2a378-24f6-42ab-909e-9fd9f7219f88"
+    },
+    "2a129ee4-54b9-489e-b6bc-673ebad4a77f": {
+        "name": "JApplicationCli",
+        "settings": "src\/2a129ee4-54b9-489e-b6bc-673ebad4a77f\/item.json",
+        "path": "src\/2a129ee4-54b9-489e-b6bc-673ebad4a77f",
+        "jpk": "Joomla---2a129ee4_54b9_489e_b6bc_673ebad4a77f---Power",
+        "guid": "2a129ee4-54b9-489e-b6bc-673ebad4a77f"
+    },
+    "c05365c0-9ceb-4bac-b271-e50c19a278f9": {
+        "name": "JApplicationCms",
+        "settings": "src\/c05365c0-9ceb-4bac-b271-e50c19a278f9\/item.json",
+        "path": "src\/c05365c0-9ceb-4bac-b271-e50c19a278f9",
+        "jpk": "Joomla---c05365c0_9ceb_4bac_b271_e50c19a278f9---Power",
+        "guid": "c05365c0-9ceb-4bac-b271-e50c19a278f9"
+    },
+    "27251fb5-d5eb-4662-ad07-75085bda322b": {
+        "name": "JApplicationDaemon",
+        "settings": "src\/27251fb5-d5eb-4662-ad07-75085bda322b\/item.json",
+        "path": "src\/27251fb5-d5eb-4662-ad07-75085bda322b",
+        "jpk": "Joomla---27251fb5_d5eb_4662_ad07_75085bda322b---Power",
+        "guid": "27251fb5-d5eb-4662-ad07-75085bda322b"
+    },
+    "f82894b5-d83a-4f44-a921-08848bae979c": {
+        "name": "JApplicationSite",
+        "settings": "src\/f82894b5-d83a-4f44-a921-08848bae979c\/item.json",
+        "path": "src\/f82894b5-d83a-4f44-a921-08848bae979c",
+        "jpk": "Joomla---f82894b5_d83a_4f44_a921_08848bae979c---Power",
+        "guid": "f82894b5-d83a-4f44-a921-08848bae979c"
+    },
+    "2405b210-b10e-40e0-92f4-5783875f56cf": {
+        "name": "JApplicationWeb",
+        "settings": "src\/2405b210-b10e-40e0-92f4-5783875f56cf\/item.json",
+        "path": "src\/2405b210-b10e-40e0-92f4-5783875f56cf",
+        "jpk": "Joomla---2405b210_b10e_40e0_92f4_5783875f56cf---Power",
+        "guid": "2405b210-b10e-40e0-92f4-5783875f56cf"
+    },
+    "af98ae86-763a-41c2-9b05-50da4b0e4eb9": {
+        "name": "JApplicationWebClient",
+        "settings": "src\/af98ae86-763a-41c2-9b05-50da4b0e4eb9\/item.json",
+        "path": "src\/af98ae86-763a-41c2-9b05-50da4b0e4eb9",
+        "jpk": "Joomla---af98ae86_763a_41c2_9b05_50da4b0e4eb9---Power",
+        "guid": "af98ae86-763a-41c2-9b05-50da4b0e4eb9"
+    },
+    "8c57a999-92f6-4cd4-b2a8-0711d902343e": {
+        "name": "JDaemon",
+        "settings": "src\/8c57a999-92f6-4cd4-b2a8-0711d902343e\/item.json",
+        "path": "src\/8c57a999-92f6-4cd4-b2a8-0711d902343e",
+        "jpk": "Joomla---8c57a999_92f6_4cd4_b2a8_0711d902343e---Power",
+        "guid": "8c57a999-92f6-4cd4-b2a8-0711d902343e"
+    },
+    "508c69b1-eb0d-4ae1-8979-bf3ecb596ac9": {
+        "name": "JCli",
+        "settings": "src\/508c69b1-eb0d-4ae1-8979-bf3ecb596ac9\/item.json",
+        "path": "src\/508c69b1-eb0d-4ae1-8979-bf3ecb596ac9",
+        "jpk": "Joomla---508c69b1_eb0d_4ae1_8979_bf3ecb596ac9---Power",
+        "guid": "508c69b1-eb0d-4ae1-8979-bf3ecb596ac9"
+    },
+    "d57b084b-bfba-45d2-9131-bcc40f16deaf": {
+        "name": "JWeb",
+        "settings": "src\/d57b084b-bfba-45d2-9131-bcc40f16deaf\/item.json",
+        "path": "src\/d57b084b-bfba-45d2-9131-bcc40f16deaf",
+        "jpk": "Joomla---d57b084b_bfba_45d2_9131_bcc40f16deaf---Power",
+        "guid": "d57b084b-bfba-45d2-9131-bcc40f16deaf"
+    },
+    "32ad40f6-cec1-48a6-8316-962714f08af9": {
+        "name": "JWebClient",
+        "settings": "src\/32ad40f6-cec1-48a6-8316-962714f08af9\/item.json",
+        "path": "src\/32ad40f6-cec1-48a6-8316-962714f08af9",
+        "jpk": "Joomla---32ad40f6_cec1_48a6_8316_962714f08af9---Power",
+        "guid": "32ad40f6-cec1-48a6-8316-962714f08af9"
+    },
+    "db2b366c-0319-4509-85e2-df2b49e1f4d8": {
+        "name": "JModelAdmin",
+        "settings": "src\/db2b366c-0319-4509-85e2-df2b49e1f4d8\/item.json",
+        "path": "src\/db2b366c-0319-4509-85e2-df2b49e1f4d8",
+        "jpk": "Joomla---db2b366c_0319_4509_85e2_df2b49e1f4d8---Power",
+        "guid": "db2b366c-0319-4509-85e2-df2b49e1f4d8"
+    },
+    "d1cd87a5-84d4-4068-929d-a431caaa3106": {
+        "name": "JModelForm",
+        "settings": "src\/d1cd87a5-84d4-4068-929d-a431caaa3106\/item.json",
+        "path": "src\/d1cd87a5-84d4-4068-929d-a431caaa3106",
+        "jpk": "Joomla---d1cd87a5_84d4_4068_929d_a431caaa3106---Power",
+        "guid": "d1cd87a5-84d4-4068-929d-a431caaa3106"
+    },
+    "df684d65-fc00-4927-b5e4-71b19cb17816": {
+        "name": "JModelItem",
+        "settings": "src\/df684d65-fc00-4927-b5e4-71b19cb17816\/item.json",
+        "path": "src\/df684d65-fc00-4927-b5e4-71b19cb17816",
+        "jpk": "Joomla---df684d65_fc00_4927_b5e4_71b19cb17816---Power",
+        "guid": "df684d65-fc00-4927-b5e4-71b19cb17816"
+    },
+    "afc402b6-1082-4aeb-bd12-27d63df8a736": {
+        "name": "JModelList",
+        "settings": "src\/afc402b6-1082-4aeb-bd12-27d63df8a736\/item.json",
+        "path": "src\/afc402b6-1082-4aeb-bd12-27d63df8a736",
+        "jpk": "Joomla---afc402b6_1082_4aeb_bd12_27d63df8a736---Power",
+        "guid": "afc402b6-1082-4aeb-bd12-27d63df8a736"
+    },
+    "6dce7a1b-cfc3-4c2a-837d-be9cbc902446": {
+        "name": "JModelLegacy",
+        "settings": "src\/6dce7a1b-cfc3-4c2a-837d-be9cbc902446\/item.json",
+        "path": "src\/6dce7a1b-cfc3-4c2a-837d-be9cbc902446",
+        "jpk": "Joomla---6dce7a1b_cfc3_4c2a_837d_be9cbc902446---Power",
+        "guid": "6dce7a1b-cfc3-4c2a-837d-be9cbc902446"
+    },
+    "a0d15871-8694-48cc-9eee-4b42f867836f": {
+        "name": "JViewCategories",
+        "settings": "src\/a0d15871-8694-48cc-9eee-4b42f867836f\/item.json",
+        "path": "src\/a0d15871-8694-48cc-9eee-4b42f867836f",
+        "jpk": "Joomla---a0d15871_8694_48cc_9eee_4b42f867836f---Power",
+        "guid": "a0d15871-8694-48cc-9eee-4b42f867836f"
+    },
+    "1b7c899c-af04-4090-8f29-cf76e9976d89": {
+        "name": "JViewCategory",
+        "settings": "src\/1b7c899c-af04-4090-8f29-cf76e9976d89\/item.json",
+        "path": "src\/1b7c899c-af04-4090-8f29-cf76e9976d89",
+        "jpk": "Joomla---1b7c899c_af04_4090_8f29_cf76e9976d89---Power",
+        "guid": "1b7c899c-af04-4090-8f29-cf76e9976d89"
+    },
+    "1e72b813-344e-487e-90b2-8a949f586d26": {
+        "name": "JViewCategoryfeed",
+        "settings": "src\/1e72b813-344e-487e-90b2-8a949f586d26\/item.json",
+        "path": "src\/1e72b813-344e-487e-90b2-8a949f586d26",
+        "jpk": "Joomla---1e72b813_344e_487e_90b2_8a949f586d26---Power",
+        "guid": "1e72b813-344e-487e-90b2-8a949f586d26"
+    },
+    "3cca7cc5-481b-4f21-944c-4f85ec4b1b05": {
+        "name": "JViewLegacy",
+        "settings": "src\/3cca7cc5-481b-4f21-944c-4f85ec4b1b05\/item.json",
+        "path": "src\/3cca7cc5-481b-4f21-944c-4f85ec4b1b05",
+        "jpk": "Joomla---3cca7cc5_481b_4f21_944c_4f85ec4b1b05---Power",
+        "guid": "3cca7cc5-481b-4f21-944c-4f85ec4b1b05"
+    },
+    "10c86913-be3b-4642-ad75-d7e98e297859": {
+        "name": "JControllerAdmin",
+        "settings": "src\/10c86913-be3b-4642-ad75-d7e98e297859\/item.json",
+        "path": "src\/10c86913-be3b-4642-ad75-d7e98e297859",
+        "jpk": "Joomla---10c86913_be3b_4642_ad75_d7e98e297859---Power",
+        "guid": "10c86913-be3b-4642-ad75-d7e98e297859"
+    },
+    "1a101bb6-f02b-4629-9379-c7c0d0df90f2": {
+        "name": "JControllerLegacy",
+        "settings": "src\/1a101bb6-f02b-4629-9379-c7c0d0df90f2\/item.json",
+        "path": "src\/1a101bb6-f02b-4629-9379-c7c0d0df90f2",
+        "jpk": "Joomla---1a101bb6_f02b_4629_9379_c7c0d0df90f2---Power",
+        "guid": "1a101bb6-f02b-4629-9379-c7c0d0df90f2"
+    },
+    "907ccae5-57a9-44b9-a8aa-5b905d1cd70f": {
+        "name": "JControllerForm",
+        "settings": "src\/907ccae5-57a9-44b9-a8aa-5b905d1cd70f\/item.json",
+        "path": "src\/907ccae5-57a9-44b9-a8aa-5b905d1cd70f",
+        "jpk": "Joomla---907ccae5_57a9_44b9_a8aa_5b905d1cd70f---Power",
+        "guid": "907ccae5-57a9-44b9-a8aa-5b905d1cd70f"
+    },
+    "3c00255b-9da8-4917-9381-d5e327d61cfb": {
+        "name": "JTableInterface",
+        "settings": "src\/3c00255b-9da8-4917-9381-d5e327d61cfb\/item.json",
+        "path": "src\/3c00255b-9da8-4917-9381-d5e327d61cfb",
+        "jpk": "Joomla---3c00255b_9da8_4917_9381_d5e327d61cfb---Power",
+        "guid": "3c00255b-9da8-4917-9381-d5e327d61cfb"
+    },
+    "7ac01b46-d981-4c48-a574-382c20da780b": {
+        "name": "JTable",
+        "settings": "src\/7ac01b46-d981-4c48-a574-382c20da780b\/item.json",
+        "path": "src\/7ac01b46-d981-4c48-a574-382c20da780b",
+        "jpk": "Joomla---7ac01b46_d981_4c48_a574_382c20da780b---Power",
+        "guid": "7ac01b46-d981-4c48-a574-382c20da780b"
+    },
+    "e1f27169-946a-4798-bc33-40c3573643b1": {
+        "name": "JTableNested",
+        "settings": "src\/e1f27169-946a-4798-bc33-40c3573643b1\/item.json",
+        "path": "src\/e1f27169-946a-4798-bc33-40c3573643b1",
+        "jpk": "Joomla---e1f27169_946a_4798_bc33_40c3573643b1---Power",
+        "guid": "e1f27169-946a-4798-bc33-40c3573643b1"
+    },
+    "ad69bc17-d1e6-4eb9-a67f-158da8586b43": {
+        "name": "JTableAsset",
+        "settings": "src\/ad69bc17-d1e6-4eb9-a67f-158da8586b43\/item.json",
+        "path": "src\/ad69bc17-d1e6-4eb9-a67f-158da8586b43",
+        "jpk": "Joomla---ad69bc17_d1e6_4eb9_a67f_158da8586b43---Power",
+        "guid": "ad69bc17-d1e6-4eb9-a67f-158da8586b43"
+    },
+    "5d108832-c7aa-4b39-8c40-c9a118e731d9": {
+        "name": "JTableExtension",
+        "settings": "src\/5d108832-c7aa-4b39-8c40-c9a118e731d9\/item.json",
+        "path": "src\/5d108832-c7aa-4b39-8c40-c9a118e731d9",
+        "jpk": "Joomla---5d108832_c7aa_4b39_8c40_c9a118e731d9---Power",
+        "guid": "5d108832-c7aa-4b39-8c40-c9a118e731d9"
+    },
+    "c216b7ff-40cb-49be-a9ea-83d7cd5f7efe": {
+        "name": "JTableLanguage",
+        "settings": "src\/c216b7ff-40cb-49be-a9ea-83d7cd5f7efe\/item.json",
+        "path": "src\/c216b7ff-40cb-49be-a9ea-83d7cd5f7efe",
+        "jpk": "Joomla---c216b7ff_40cb_49be_a9ea_83d7cd5f7efe---Power",
+        "guid": "c216b7ff-40cb-49be-a9ea-83d7cd5f7efe"
+    },
+    "7d6daa00-491e-4e4c-9ee1-ad16eb5374ea": {
+        "name": "JTableUpdate",
+        "settings": "src\/7d6daa00-491e-4e4c-9ee1-ad16eb5374ea\/item.json",
+        "path": "src\/7d6daa00-491e-4e4c-9ee1-ad16eb5374ea",
+        "jpk": "Joomla---7d6daa00_491e_4e4c_9ee1_ad16eb5374ea---Power",
+        "guid": "7d6daa00-491e-4e4c-9ee1-ad16eb5374ea"
+    },
+    "bebd821b-b81c-47be-b3fc-e1e1206921d3": {
+        "name": "JTableUpdatesite",
+        "settings": "src\/bebd821b-b81c-47be-b3fc-e1e1206921d3\/item.json",
+        "path": "src\/bebd821b-b81c-47be-b3fc-e1e1206921d3",
+        "jpk": "Joomla---bebd821b_b81c_47be_b3fc_e1e1206921d3---Power",
+        "guid": "bebd821b-b81c-47be-b3fc-e1e1206921d3"
+    },
+    "11accf54-fcb9-4ba0-a645-7c80ce14e224": {
+        "name": "JTableUser",
+        "settings": "src\/11accf54-fcb9-4ba0-a645-7c80ce14e224\/item.json",
+        "path": "src\/11accf54-fcb9-4ba0-a645-7c80ce14e224",
+        "jpk": "Joomla---11accf54_fcb9_4ba0_a645_7c80ce14e224---Power",
+        "guid": "11accf54-fcb9-4ba0-a645-7c80ce14e224"
+    },
+    "91b54f35-f2c7-4914-aa48-a523fac6833c": {
+        "name": "JTableUsergroup",
+        "settings": "src\/91b54f35-f2c7-4914-aa48-a523fac6833c\/item.json",
+        "path": "src\/91b54f35-f2c7-4914-aa48-a523fac6833c",
+        "jpk": "Joomla---91b54f35_f2c7_4914_aa48_a523fac6833c---Power",
+        "guid": "91b54f35-f2c7-4914-aa48-a523fac6833c"
+    },
+    "9bf4628e-8dc5-4557-a2ae-0dda581e3163": {
+        "name": "JTableViewlevel",
+        "settings": "src\/9bf4628e-8dc5-4557-a2ae-0dda581e3163\/item.json",
+        "path": "src\/9bf4628e-8dc5-4557-a2ae-0dda581e3163",
+        "jpk": "Joomla---9bf4628e_8dc5_4557_a2ae_0dda581e3163---Power",
+        "guid": "9bf4628e-8dc5-4557-a2ae-0dda581e3163"
+    },
+    "2173d123-2a16-4628-b262-e93d1cbd391b": {
+        "name": "JTableContenthistory",
+        "settings": "src\/2173d123-2a16-4628-b262-e93d1cbd391b\/item.json",
+        "path": "src\/2173d123-2a16-4628-b262-e93d1cbd391b",
+        "jpk": "Joomla---2173d123_2a16_4628_b262_e93d1cbd391b---Power",
+        "guid": "2173d123-2a16-4628-b262-e93d1cbd391b"
+    },
+    "62c93780-efe8-44f3-8e6e-2d507cd5ccaa": {
+        "name": "JTableContenttype",
+        "settings": "src\/62c93780-efe8-44f3-8e6e-2d507cd5ccaa\/item.json",
+        "path": "src\/62c93780-efe8-44f3-8e6e-2d507cd5ccaa",
+        "jpk": "Joomla---62c93780_efe8_44f3_8e6e_2d507cd5ccaa---Power",
+        "guid": "62c93780-efe8-44f3-8e6e-2d507cd5ccaa"
+    },
+    "3a4f6683-b71a-4539-80fc-a4150a64e4f8": {
+        "name": "JTableCorecontent",
+        "settings": "src\/3a4f6683-b71a-4539-80fc-a4150a64e4f8\/item.json",
+        "path": "src\/3a4f6683-b71a-4539-80fc-a4150a64e4f8",
+        "jpk": "Joomla---3a4f6683_b71a_4539_80fc_a4150a64e4f8---Power",
+        "guid": "3a4f6683-b71a-4539-80fc-a4150a64e4f8"
+    },
+    "eb18f368-4122-42ee-95ab-95ec78dc0c19": {
+        "name": "JTableUcm",
+        "settings": "src\/eb18f368-4122-42ee-95ab-95ec78dc0c19\/item.json",
+        "path": "src\/eb18f368-4122-42ee-95ab-95ec78dc0c19",
+        "jpk": "Joomla---eb18f368_4122_42ee_95ab_95ec78dc0c19---Power",
+        "guid": "eb18f368-4122-42ee-95ab-95ec78dc0c19"
+    },
+    "e6cc78b2-848c-4b17-ae46-a3bc08a5ab90": {
+        "name": "JTableCategory",
+        "settings": "src\/e6cc78b2-848c-4b17-ae46-a3bc08a5ab90\/item.json",
+        "path": "src\/e6cc78b2-848c-4b17-ae46-a3bc08a5ab90",
+        "jpk": "Joomla---e6cc78b2_848c_4b17_ae46_a3bc08a5ab90---Power",
+        "guid": "e6cc78b2-848c-4b17-ae46-a3bc08a5ab90"
+    },
+    "69574867-d64f-4ef1-b785-fb6e69cb2339": {
+        "name": "JTableContent",
+        "settings": "src\/69574867-d64f-4ef1-b785-fb6e69cb2339\/item.json",
+        "path": "src\/69574867-d64f-4ef1-b785-fb6e69cb2339",
+        "jpk": "Joomla---69574867_d64f_4ef1_b785_fb6e69cb2339---Power",
+        "guid": "69574867-d64f-4ef1-b785-fb6e69cb2339"
+    },
+    "840f0c60-81ee-46ba-9ce5-50cfb2d33594": {
+        "name": "JTableMenu",
+        "settings": "src\/840f0c60-81ee-46ba-9ce5-50cfb2d33594\/item.json",
+        "path": "src\/840f0c60-81ee-46ba-9ce5-50cfb2d33594",
+        "jpk": "Joomla---840f0c60_81ee_46ba_9ce5_50cfb2d33594---Power",
+        "guid": "840f0c60-81ee-46ba-9ce5-50cfb2d33594"
+    },
+    "7488bc11-3224-4a3a-938c-0ebdfad38935": {
+        "name": "JTableMenuType",
+        "settings": "src\/7488bc11-3224-4a3a-938c-0ebdfad38935\/item.json",
+        "path": "src\/7488bc11-3224-4a3a-938c-0ebdfad38935",
+        "jpk": "Joomla---7488bc11_3224_4a3a_938c_0ebdfad38935---Power",
+        "guid": "7488bc11-3224-4a3a-938c-0ebdfad38935"
+    },
+    "102ef6e3-7e85-41b1-b702-0b464cc879f5": {
+        "name": "JTableModule",
+        "settings": "src\/102ef6e3-7e85-41b1-b702-0b464cc879f5\/item.json",
+        "path": "src\/102ef6e3-7e85-41b1-b702-0b464cc879f5",
+        "jpk": "Joomla---102ef6e3_7e85_41b1_b702_0b464cc879f5---Power",
+        "guid": "102ef6e3-7e85-41b1-b702-0b464cc879f5"
+    },
+    "b8c64f3f-ca63-4897-a9e1-8afc64220079": {
+        "name": "JTableObserver",
+        "settings": "src\/b8c64f3f-ca63-4897-a9e1-8afc64220079\/item.json",
+        "path": "src\/b8c64f3f-ca63-4897-a9e1-8afc64220079",
+        "jpk": "Joomla---b8c64f3f_ca63_4897_a9e1_8afc64220079---Power",
+        "guid": "b8c64f3f-ca63-4897-a9e1-8afc64220079"
+    },
+    "9ac794c2-f96d-4522-8acf-b8d48c4f51c5": {
+        "name": "JTableObserverContenthistory",
+        "settings": "src\/9ac794c2-f96d-4522-8acf-b8d48c4f51c5\/item.json",
+        "path": "src\/9ac794c2-f96d-4522-8acf-b8d48c4f51c5",
+        "jpk": "Joomla---9ac794c2_f96d_4522_8acf_b8d48c4f51c5---Power",
+        "guid": "9ac794c2-f96d-4522-8acf-b8d48c4f51c5"
+    },
+    "fe63add8-0a40-4b3d-b548-f735fa6072fb": {
+        "name": "JTableObserverTags",
+        "settings": "src\/fe63add8-0a40-4b3d-b548-f735fa6072fb\/item.json",
+        "path": "src\/fe63add8-0a40-4b3d-b548-f735fa6072fb",
+        "jpk": "Joomla---fe63add8_0a40_4b3d_b548_f735fa6072fb---Power",
+        "guid": "fe63add8-0a40-4b3d-b548-f735fa6072fb"
+    },
+    "1e77d689-78b9-4418-809b-923edc4cb21b": {
+        "name": "JAccessRule",
+        "settings": "src\/1e77d689-78b9-4418-809b-923edc4cb21b\/item.json",
+        "path": "src\/1e77d689-78b9-4418-809b-923edc4cb21b",
+        "jpk": "Joomla---1e77d689_78b9_4418_809b_923edc4cb21b---Power",
+        "guid": "1e77d689-78b9-4418-809b-923edc4cb21b"
+    },
+    "d3fe9cbd-ff84-4501-9298-bbd213b8a348": {
+        "name": "JAccessRules",
+        "settings": "src\/d3fe9cbd-ff84-4501-9298-bbd213b8a348\/item.json",
+        "path": "src\/d3fe9cbd-ff84-4501-9298-bbd213b8a348",
+        "jpk": "Joomla---d3fe9cbd_ff84_4501_9298_bbd213b8a348---Power",
+        "guid": "d3fe9cbd-ff84-4501-9298-bbd213b8a348"
+    },
+    "fd33274b-d900-47a0-8676-5beadc31331f": {
+        "name": "JAccessWrapperAccess",
+        "settings": "src\/fd33274b-d900-47a0-8676-5beadc31331f\/item.json",
+        "path": "src\/fd33274b-d900-47a0-8676-5beadc31331f",
+        "jpk": "Joomla---fd33274b_d900_47a0_8676_5beadc31331f---Power",
+        "guid": "fd33274b-d900-47a0-8676-5beadc31331f"
+    },
+    "2fa1c08d-c4ff-4cb0-8338-7221e95c1fe4": {
+        "name": "JAccessExceptionNotallowed",
+        "settings": "src\/2fa1c08d-c4ff-4cb0-8338-7221e95c1fe4\/item.json",
+        "path": "src\/2fa1c08d-c4ff-4cb0-8338-7221e95c1fe4",
+        "jpk": "Joomla---2fa1c08d_c4ff_4cb0_8338_7221e95c1fe4---Power",
+        "guid": "2fa1c08d-c4ff-4cb0-8338-7221e95c1fe4"
+    },
+    "85ddedfc-d44d-485d-ae2a-0c81b2e77d89": {
+        "name": "JHelp",
+        "settings": "src\/85ddedfc-d44d-485d-ae2a-0c81b2e77d89\/item.json",
+        "path": "src\/85ddedfc-d44d-485d-ae2a-0c81b2e77d89",
+        "jpk": "Joomla---85ddedfc_d44d_485d_ae2a_0c81b2e77d89---Power",
+        "guid": "85ddedfc-d44d-485d-ae2a-0c81b2e77d89"
+    },
+    "201d8d3c-3ba9-4237-911a-106a70d559e1": {
+        "name": "JCaptcha",
+        "settings": "src\/201d8d3c-3ba9-4237-911a-106a70d559e1\/item.json",
+        "path": "src\/201d8d3c-3ba9-4237-911a-106a70d559e1",
+        "jpk": "Joomla---201d8d3c_3ba9_4237_911a_106a70d559e1---Power",
+        "guid": "201d8d3c-3ba9-4237-911a-106a70d559e1"
+    },
+    "4486fa2e-643f-4ab3-b52d-c85972b9853c": {
+        "name": "JLanguageAssociations",
+        "settings": "src\/4486fa2e-643f-4ab3-b52d-c85972b9853c\/item.json",
+        "path": "src\/4486fa2e-643f-4ab3-b52d-c85972b9853c",
+        "jpk": "Joomla---4486fa2e_643f_4ab3_b52d_c85972b9853c---Power",
+        "guid": "4486fa2e-643f-4ab3-b52d-c85972b9853c"
+    },
+    "4256a427-9bfa-4572-b539-cc699ab8f18b": {
+        "name": "JLanguage",
+        "settings": "src\/4256a427-9bfa-4572-b539-cc699ab8f18b\/item.json",
+        "path": "src\/4256a427-9bfa-4572-b539-cc699ab8f18b",
+        "jpk": "Joomla---4256a427_9bfa_4572_b539_cc699ab8f18b---Power",
+        "guid": "4256a427-9bfa-4572-b539-cc699ab8f18b"
     }
 }
