@@ -1,0 +1,11 @@
+{
+    "system_name": "JInputCli",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Input\\Cli",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "0d1b3cc4-7093-498f-8599-521a555e9cd6",
+    "description": ""
+}
