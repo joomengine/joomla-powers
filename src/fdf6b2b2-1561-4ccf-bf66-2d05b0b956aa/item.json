@@ -1,0 +1,11 @@
+{
+    "system_name": "JExtensionHelper",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Extension\\ExtensionHelper",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "fdf6b2b2-1561-4ccf-bf66-2d05b0b956aa",
+    "description": ""
+}
