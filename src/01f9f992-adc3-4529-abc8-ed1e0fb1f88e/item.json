@@ -1,0 +1,11 @@
+{
+    "system_name": "JClientHelper",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Client\\ClientHelper",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "01f9f992-adc3-4529-abc8-ed1e0fb1f88e",
+    "description": ""
+}
