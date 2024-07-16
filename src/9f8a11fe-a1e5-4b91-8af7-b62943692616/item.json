@@ -1,0 +1,11 @@
+{
+    "system_name": "JRegistryFormatIni",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Registry\\Format\\Ini",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "9f8a11fe-a1e5-4b91-8af7-b62943692616",
+    "description": ""
+}
