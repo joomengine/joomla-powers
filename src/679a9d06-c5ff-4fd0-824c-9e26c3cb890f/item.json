@@ -1,0 +1,11 @@
+{
+    "system_name": "JHtmlEmail",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\HTML\\Helpers\\Email",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "679a9d06-c5ff-4fd0-824c-9e26c3cb890f",
+    "description": ""
+}
