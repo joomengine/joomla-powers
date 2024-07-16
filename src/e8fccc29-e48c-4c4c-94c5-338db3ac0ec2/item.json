@@ -1,0 +1,11 @@
+{
+    "system_name": "JFTP",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Client\\FtpClient",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "e8fccc29-e48c-4c4c-94c5-338db3ac0ec2",
+    "description": ""
+}
