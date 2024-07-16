@@ -1,0 +1,11 @@
+{
+    "system_name": "JComponentExceptionMissing",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Component\\Exception\\MissingComponentException",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "77b5e594-3e89-47f6-96e0-91dcf095083d",
+    "description": ""
+}
