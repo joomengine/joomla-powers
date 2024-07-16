@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldUrl",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\UrlField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "59636bef-ad63-46a6-b3d0-1b5a57bb85fa",
+    "description": ""
+}
