@@ -1,0 +1,11 @@
+{
+    "system_name": "JSchemaChangeitemPostgresql",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Schema\\ChangeItem\\PostgresqlChangeItem",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "d100cd9b-d633-456a-8bf7-9a8dd350011f",
+    "description": ""
+}
