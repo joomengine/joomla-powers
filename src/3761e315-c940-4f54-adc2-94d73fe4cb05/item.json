@@ -1,0 +1,11 @@
+{
+    "system_name": "JToolbarButtonPopup",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Toolbar\\Button\\PopupButton",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "3761e315-c940-4f54-adc2-94d73fe4cb05",
+    "description": ""
+}
