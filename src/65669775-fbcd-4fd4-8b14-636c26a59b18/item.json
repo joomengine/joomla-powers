@@ -1,0 +1,11 @@
+{
+    "system_name": "JCryptCipherSimple",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Crypt\\Cipher\\SimpleCipher",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "65669775-fbcd-4fd4-8b14-636c26a59b18",
+    "description": ""
+}
