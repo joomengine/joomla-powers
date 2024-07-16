@@ -1,0 +1,11 @@
+{
+    "system_name": "JControllerLegacy",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\MVC\\Controller\\BaseController",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "1a101bb6-f02b-4629-9379-c7c0d0df90f2",
+    "description": ""
+}
