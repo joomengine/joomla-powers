@@ -1,0 +1,11 @@
+{
+    "system_name": "JCryptCipher3Des",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Crypt\\Cipher\\TripleDesCipher",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "b0d18c3a-c9fc-4fed-b63d-7f441ee7e0ee",
+    "description": ""
+}
