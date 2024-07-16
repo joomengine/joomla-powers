@@ -1,0 +1,11 @@
+{
+    "system_name": "JUpdaterExtension",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Updater\\Adapter\\ExtensionAdapter",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "c96caaab-5a9b-4d0f-8927-5c5fcf23b6f4",
+    "description": ""
+}
