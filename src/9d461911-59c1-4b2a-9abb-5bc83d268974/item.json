@@ -1,0 +1,11 @@
+{
+    "system_name": "JHtmlSortableList",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\HTML\\Helpers\\SortableList",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "9d461911-59c1-4b2a-9abb-5bc83d268974",
+    "description": ""
+}
