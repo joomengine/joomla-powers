@@ -1,0 +1,11 @@
+{
+    "system_name": "JTableInterface",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Table\\TableInterface",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "3c00255b-9da8-4917-9381-d5e327d61cfb",
+    "description": ""
+}
