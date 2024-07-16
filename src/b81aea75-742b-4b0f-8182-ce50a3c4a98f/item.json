@@ -1,0 +1,11 @@
+{
+    "system_name": "JDocumentHtml",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Document\\HtmlDocument",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "b81aea75-742b-4b0f-8182-ce50a3c4a98f",
+    "description": ""
+}
