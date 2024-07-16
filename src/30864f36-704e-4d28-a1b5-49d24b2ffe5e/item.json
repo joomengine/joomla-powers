@@ -1,0 +1,11 @@
+{
+    "system_name": "JDatabaseExporterPdomysql",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Database\\Mysql\\MysqlExporter",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "30864f36-704e-4d28-a1b5-49d24b2ffe5e",
+    "description": ""
+}
