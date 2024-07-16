@@ -1,0 +1,11 @@
+{
+    "system_name": "JFactory",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Factory",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "39403062-84fb-46e0-bac4-0023f766e827",
+    "description": "The Joomla CMS Factory class"
+}
