@@ -1,0 +1,11 @@
+{
+    "system_name": "JUserHelper",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\User\\UserHelper",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "47107a0a-cdfd-4841-9b2d-7c59404784bd",
+    "description": ""
+}
