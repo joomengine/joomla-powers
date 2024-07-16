@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormRuleTel",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Rule\\TelRule",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "757b02fe-4149-45bc-b110-2ebaeae66f17",
+    "description": ""
+}
