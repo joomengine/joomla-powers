@@ -1,0 +1,11 @@
+{
+    "system_name": "JComponentRouterRulesStandard",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Component\\Router\\Rules\\StandardRules",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "3c55de55-8cc0-446c-bfd9-f3d80239ccf3",
+    "description": ""
+}
