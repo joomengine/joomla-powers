@@ -1,0 +1,11 @@
+{
+    "system_name": "JInstallerExtension",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Installer\\InstallerExtension",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "9b50b6fa-4eee-45f8-8476-805de083d048",
+    "description": ""
+}
