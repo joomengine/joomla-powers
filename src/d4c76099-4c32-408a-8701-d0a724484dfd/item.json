@@ -1,0 +1,11 @@
+{
+    "system_name": "JRoute",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Router\\Route",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "d4c76099-4c32-408a-8701-d0a724484dfd",
+    "description": "Route handling class"
+}
