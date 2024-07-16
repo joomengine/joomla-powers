@@ -1,0 +1,11 @@
+{
+    "system_name": "JLibraryHelper",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Helper\\LibraryHelper",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "e736158d-3e8f-4cbd-80f5-1e9152f1119b",
+    "description": ""
+}
