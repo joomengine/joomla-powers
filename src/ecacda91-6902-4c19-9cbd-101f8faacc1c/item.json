@@ -1,0 +1,11 @@
+{
+    "system_name": "JDatabaseQueryMysqli",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Database\\Mysqli\\MysqliQuery",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "ecacda91-6902-4c19-9cbd-101f8faacc1c",
+    "description": ""
+}
