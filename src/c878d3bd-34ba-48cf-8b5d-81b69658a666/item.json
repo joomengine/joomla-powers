@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormRuleColor",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Rule\\ColorRule",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "c878d3bd-34ba-48cf-8b5d-81b69658a666",
+    "description": ""
+}
