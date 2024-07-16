@@ -1,0 +1,11 @@
+{
+    "system_name": "JHelp",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Help\\Help",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "85ddedfc-d44d-485d-ae2a-0c81b2e77d89",
+    "description": ""
+}
