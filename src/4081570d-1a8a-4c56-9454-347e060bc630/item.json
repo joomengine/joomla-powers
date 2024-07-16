@@ -1,0 +1,11 @@
+{
+    "system_name": "JHtmlSearchtools",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\HTML\\Helpers\\SearchTools",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "4081570d-1a8a-4c56-9454-347e060bc630",
+    "description": ""
+}
