@@ -1,0 +1,11 @@
+{
+    "system_name": "JUpdater",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Updater\\Updater",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "4e0f3ff1-ded0-4d9e-851c-d10701b9155e",
+    "description": ""
+}
