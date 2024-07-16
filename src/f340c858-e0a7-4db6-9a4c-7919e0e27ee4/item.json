@@ -1,0 +1,11 @@
+{
+    "system_name": "JDocumentError",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Document\\ErrorDocument",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "f340c858-e0a7-4db6-9a4c-7919e0e27ee4",
+    "description": ""
+}
