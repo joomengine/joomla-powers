@@ -1,0 +1,15 @@
+{
+    "system_name": "JImageFilterNegate",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Image\\Filter\\Negate",
+            "joomla_version": "3"
+        },
+        "settings1": {
+            "namespace": "Joomla\\CMS\\Image\\Filter\\Negate",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "fbdce191-84f3-42c7-9c47-cc52796627bf",
+    "description": ""
+}
