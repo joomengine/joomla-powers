@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldRadio",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\RadioField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "0b2a2152-d48a-490d-a147-5dbb194fe2af",
+    "description": ""
+}
