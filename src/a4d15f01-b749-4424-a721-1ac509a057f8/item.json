@@ -1,0 +1,11 @@
+{
+    "system_name": "JLogLoggerCallback",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Log\\Logger\\CallbackLogger",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "a4d15f01-b749-4424-a721-1ac509a057f8",
+    "description": ""
+}
