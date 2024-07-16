@@ -1,0 +1,11 @@
+{
+    "system_name": "JTableViewlevel",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Table\\ViewLevel",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "9bf4628e-8dc5-4557-a2ae-0dda581e3163",
+    "description": ""
+}
