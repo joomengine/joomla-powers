@@ -1,0 +1,11 @@
+{
+    "system_name": "JFilesystemPatcher",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Filesystem\\Patcher",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "48e08187-e797-4072-a6e7-bd0d6dcb32c5",
+    "description": ""
+}
