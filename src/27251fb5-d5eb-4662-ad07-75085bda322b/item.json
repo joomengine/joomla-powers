@@ -1,0 +1,11 @@
+{
+    "system_name": "JApplicationDaemon",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Application\\DaemonApplication",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "27251fb5-d5eb-4662-ad07-75085bda322b",
+    "description": ""
+}
