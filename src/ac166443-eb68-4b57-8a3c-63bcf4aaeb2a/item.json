@@ -1,0 +1,11 @@
+{
+    "system_name": "JObject",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Object\\CMSObject",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "ac166443-eb68-4b57-8a3c-63bcf4aaeb2a",
+    "description": ""
+}
