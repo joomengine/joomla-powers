@@ -1,0 +1,11 @@
+{
+    "system_name": "JLanguageHelper",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Language\\LanguageHelper",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "f1bd5f92-0eb0-40d3-ab90-920df3e25a3d",
+    "description": ""
+}
