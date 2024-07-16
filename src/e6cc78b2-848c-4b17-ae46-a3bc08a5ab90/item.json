@@ -1,0 +1,11 @@
+{
+    "system_name": "JTableCategory",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Table\\Category",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "e6cc78b2-848c-4b17-ae46-a3bc08a5ab90",
+    "description": ""
+}
