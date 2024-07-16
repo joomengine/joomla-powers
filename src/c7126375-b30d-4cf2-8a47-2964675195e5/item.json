@@ -1,0 +1,11 @@
+{
+    "system_name": "JInstallerTemplate",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Installer\\Adapter\\TemplateAdapter",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "c7126375-b30d-4cf2-8a47-2964675195e5",
+    "description": ""
+}
