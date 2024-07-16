@@ -1,0 +1,11 @@
+{
+    "system_name": "JDocumentRendererHtmlMessage",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Document\\Renderer\\Html\\MessageRenderer",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "73642c41-abb6-45fa-96c9-a32e8c8ae5ec",
+    "description": ""
+}
