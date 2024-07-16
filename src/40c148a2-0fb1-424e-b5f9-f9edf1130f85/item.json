@@ -1,0 +1,11 @@
+{
+    "system_name": "JDatabaseDriverPdomysql",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Database\\Mysql\\MysqlDriver",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "40c148a2-0fb1-424e-b5f9-f9edf1130f85",
+    "description": ""
+}
