@@ -1,0 +1,11 @@
+{
+    "system_name": "JDatabaseIterator",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Database\\DatabaseIterator",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "f9c17662-8434-4819-85bd-e62c59c8ce25",
+    "description": ""
+}
