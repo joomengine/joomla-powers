@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormRuleEmail",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Rule\\EmailRule",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "3402dda1-8406-4f80-8330-46952879ab66",
+    "description": ""
+}
