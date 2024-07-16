@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldStatus",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\StatusField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "a3ca4b07-c3ad-405c-aeb5-640e06e0007f",
+    "description": ""
+}
