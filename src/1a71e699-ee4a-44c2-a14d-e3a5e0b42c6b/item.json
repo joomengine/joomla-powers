@@ -1,0 +1,11 @@
+{
+    "system_name": "JInstallerPackage",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Installer\\Adapter\\PackageAdapter",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "1a71e699-ee4a-44c2-a14d-e3a5e0b42c6b",
+    "description": ""
+}
