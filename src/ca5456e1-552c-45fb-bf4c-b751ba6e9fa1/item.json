@@ -1,0 +1,11 @@
+{
+    "system_name": "JHtmlSidebar",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\HTML\\Helpers\\Sidebar",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "ca5456e1-552c-45fb-bf4c-b751ba6e9fa1",
+    "description": ""
+}
