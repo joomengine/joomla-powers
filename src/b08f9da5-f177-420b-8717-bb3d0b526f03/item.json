@@ -1,0 +1,15 @@
+{
+    "system_name": "JImageFilterEmboss",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Image\\Filter\\Emboss",
+            "joomla_version": "3"
+        },
+        "settings1": {
+            "namespace": "Joomla\\CMS\\Image\\Filter\\Emboss",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "b08f9da5-f177-420b-8717-bb3d0b526f03",
+    "description": ""
+}
