@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldModuleOrder",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\ModuleorderField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "630643bf-9fb7-4c58-b60d-41567a5534f6",
+    "description": ""
+}
