@@ -1,0 +1,11 @@
+{
+    "system_name": "JMail",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Mail\\Mail",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "a5f433b4-de43-45ad-b6aa-ed7e2b4524b1",
+    "description": ""
+}
