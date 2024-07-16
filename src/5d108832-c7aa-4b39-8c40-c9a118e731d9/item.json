@@ -1,0 +1,11 @@
+{
+    "system_name": "JTableExtension",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Table\\Extension",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "5d108832-c7aa-4b39-8c40-c9a118e731d9",
+    "description": ""
+}
