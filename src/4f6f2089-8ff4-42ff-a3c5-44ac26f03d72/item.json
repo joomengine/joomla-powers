@@ -1,0 +1,11 @@
+{
+    "system_name": "JComponentRouterRulesNomenu",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Component\\Router\\Rules\\NomenuRules",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "4f6f2089-8ff4-42ff-a3c5-44ac26f03d72",
+    "description": ""
+}
