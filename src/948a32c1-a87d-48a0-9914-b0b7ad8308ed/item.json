@@ -1,0 +1,11 @@
+{
+    "system_name": "JToolbarButtonLink",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Toolbar\\Button\\LinkButton",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "948a32c1-a87d-48a0-9914-b0b7ad8308ed",
+    "description": ""
+}
