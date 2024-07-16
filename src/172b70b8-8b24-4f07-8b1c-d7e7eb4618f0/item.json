@@ -1,0 +1,11 @@
+{
+    "system_name": "JHtmlBehavior",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\HTML\\Helpers\\Behavior",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "172b70b8-8b24-4f07-8b1c-d7e7eb4618f0",
+    "description": ""
+}
