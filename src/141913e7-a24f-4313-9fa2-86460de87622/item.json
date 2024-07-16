@@ -1,0 +1,11 @@
+{
+    "system_name": "JInstallerAdapterPlugin",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Installer\\Adapter\\PluginAdapter",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "141913e7-a24f-4313-9fa2-86460de87622",
+    "description": ""
+}
