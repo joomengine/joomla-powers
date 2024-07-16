@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormRuleUsername",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Rule\\UsernameRule",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "577ce475-83a3-4a2e-b69f-dcd0703aec70",
+    "description": ""
+}
