@@ -1,0 +1,11 @@
+{
+    "system_name": "JInputFiles",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Input\\Files",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "7247ce0b-e13f-4f23-9851-2d34b9bd9e23",
+    "description": ""
+}
