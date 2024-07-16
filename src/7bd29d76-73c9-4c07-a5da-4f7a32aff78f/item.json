@@ -1,0 +1,11 @@
+{
+    "system_name": "JDatabaseInterface",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Database\\DatabaseInterface",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "7bd29d76-73c9-4c07-a5da-4f7a32aff78f",
+    "description": ""
+}
