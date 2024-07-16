@@ -1,0 +1,11 @@
+{
+    "system_name": "JFeedParser",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Feed\\FeedParser",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "7f6c2c10-4672-463d-832c-1d686db339c0",
+    "description": ""
+}
