@@ -1,0 +1,11 @@
+{
+    "system_name": "JHtmlUser",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\HTML\\Helpers\\User",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "40a7483f-87c9-4272-ac72-236b0f773b02",
+    "description": "The HTML user class"
+}
