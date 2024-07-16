@@ -1,0 +1,11 @@
+{
+    "system_name": "JVersion",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Version",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "703937e1-abd9-4373-8c5c-07e29ea4b2c5",
+    "description": ""
+}
