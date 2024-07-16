@@ -1,0 +1,11 @@
+{
+    "system_name": "JDatabaseQuerySqlazure",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Database\\Sqlazure\\SqlazureQuery",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "7d4657c9-5896-410f-9c13-7348588018e8",
+    "description": ""
+}
