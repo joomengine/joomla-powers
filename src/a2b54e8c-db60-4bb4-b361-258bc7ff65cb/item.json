@@ -1,0 +1,11 @@
+{
+    "system_name": "JLogEntry",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Log\\LogEntry",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "a2b54e8c-db60-4bb4-b361-258bc7ff65cb",
+    "description": ""
+}
