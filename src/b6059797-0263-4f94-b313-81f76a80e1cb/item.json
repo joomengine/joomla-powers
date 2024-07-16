@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldSpacer",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\SpacerField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "b6059797-0263-4f94-b313-81f76a80e1cb",
+    "description": ""
+}
