@@ -1,0 +1,11 @@
+{
+    "system_name": "JLanguageWrapperHelper",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Language\\Wrapper\\LanguageHelperWrapper",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "161f1710-dc19-4e8a-8299-0519ae5809d3",
+    "description": ""
+}
