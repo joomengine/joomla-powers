@@ -1,0 +1,11 @@
+{
+    "system_name": "JAuthenticationResponse",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Authentication\\AuthenticationResponse",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "d2f1e6b1-7f62-4f2f-9f0a-8378d1da654b",
+    "description": ""
+}
