@@ -1,0 +1,11 @@
+{
+    "system_name": "JLayoutFile",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Layout\\FileLayout",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "2dc653cd-4f87-4028-be2b-40fc9676d762",
+    "description": ""
+}
