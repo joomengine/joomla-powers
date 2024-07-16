@@ -1,0 +1,11 @@
+{
+    "system_name": "JDocumentFeed",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Document\\FeedDocument",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "07796eb3-5ac1-4f1f-8ebb-5a4009bdc64b",
+    "description": ""
+}
