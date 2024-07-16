@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormRuleNumber",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Rule\\NumberRule",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "b3455c2b-5ed7-4a2a-bb11-7b085331b712",
+    "description": ""
+}
