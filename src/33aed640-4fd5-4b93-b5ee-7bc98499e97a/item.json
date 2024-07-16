@@ -1,0 +1,11 @@
+{
+    "system_name": "JDatabaseDriverPdo",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Database\\Pdo\\PdoDriver",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "33aed640-4fd5-4b93-b5ee-7bc98499e97a",
+    "description": ""
+}
