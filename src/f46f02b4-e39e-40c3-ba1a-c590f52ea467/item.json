@@ -1,0 +1,11 @@
+{
+    "system_name": "JDatabaseQueryPreparable",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Database\\Query\\PreparableInterface",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "f46f02b4-e39e-40c3-ba1a-c590f52ea467",
+    "description": ""
+}
