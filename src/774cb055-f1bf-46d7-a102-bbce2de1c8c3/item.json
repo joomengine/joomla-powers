@@ -1,0 +1,11 @@
+{
+    "system_name": "JCryptCipherBlowfish",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Crypt\\Cipher\\BlowfishCipher",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "774cb055-f1bf-46d7-a102-bbce2de1c8c3",
+    "description": ""
+}
