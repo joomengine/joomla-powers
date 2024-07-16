@@ -1,0 +1,11 @@
+{
+    "system_name": "JToolbarButtonSeparator",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Toolbar\\Button\\SeparatorButton",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "6d3a8457-e9a8-4d05-ae98-a89e7aef7fd0",
+    "description": ""
+}
