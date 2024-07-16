@@ -1,0 +1,11 @@
+{
+    "system_name": "JHtmlSelect",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\HTML\\Helpers\\Select",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "8097574b-722e-4b8c-b5b2-7bf8dff6535c",
+    "description": ""
+}
