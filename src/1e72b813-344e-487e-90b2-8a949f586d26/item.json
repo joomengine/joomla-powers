@@ -1,0 +1,11 @@
+{
+    "system_name": "JViewCategoryfeed",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\MVC\\View\\CategoryFeedView",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "1e72b813-344e-487e-90b2-8a949f586d26",
+    "description": ""
+}
