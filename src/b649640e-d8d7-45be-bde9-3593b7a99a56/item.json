@@ -1,0 +1,11 @@
+{
+    "system_name": "JHtmlAccess",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\HTML\\Helpers\\Access",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "b649640e-d8d7-45be-bde9-3593b7a99a56",
+    "description": ""
+}
