@@ -1,0 +1,11 @@
+{
+    "system_name": "JDatabaseImporterPgsql",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Database\\Pgsql\\PgsqlImporter",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "84f05d10-31ed-44ce-bffe-04d7c12c350a",
+    "description": ""
+}
