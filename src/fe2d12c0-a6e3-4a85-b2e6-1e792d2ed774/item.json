@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldHidden",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\HiddenField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "fe2d12c0-a6e3-4a85-b2e6-1e792d2ed774",
+    "description": ""
+}
