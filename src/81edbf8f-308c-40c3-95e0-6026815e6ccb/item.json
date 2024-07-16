@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldSessionHandler",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\SessionhandlerField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "81edbf8f-308c-40c3-95e0-6026815e6ccb",
+    "description": ""
+}
