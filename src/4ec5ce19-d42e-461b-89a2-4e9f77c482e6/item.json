@@ -1,0 +1,11 @@
+{
+    "system_name": "JData",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Data\\DataObject",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "4ec5ce19-d42e-461b-89a2-4e9f77c482e6",
+    "description": ""
+}
