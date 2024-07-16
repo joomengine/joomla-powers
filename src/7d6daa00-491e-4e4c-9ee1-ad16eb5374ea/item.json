@@ -1,0 +1,11 @@
+{
+    "system_name": "JTableUpdate",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Table\\Update",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "7d6daa00-491e-4e4c-9ee1-ad16eb5374ea",
+    "description": ""
+}
