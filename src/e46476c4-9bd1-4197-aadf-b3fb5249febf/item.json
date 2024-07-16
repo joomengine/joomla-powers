@@ -1,0 +1,11 @@
+{
+    "system_name": "JInputCookie",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Input\\Cookie",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "e46476c4-9bd1-4197-aadf-b3fb5249febf",
+    "description": ""
+}
