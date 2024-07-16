@@ -1,0 +1,11 @@
+{
+    "system_name": "JUser",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\User\\User",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "effdaf6d-2275-425d-9f52-d4952e564d34",
+    "description": ""
+}
