@@ -1,0 +1,11 @@
+{
+    "system_name": "JComponentRouterRulesInterface",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Component\\Router\\Rules\\RulesInterface",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "3a9cfc8e-d596-4144-943e-b0e40ef940e7",
+    "description": ""
+}
