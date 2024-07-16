@@ -1,0 +1,11 @@
+{
+    "system_name": "JMenuSite",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Menu\\SiteMenu",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "ce5b2139-00e7-4d20-b33f-567848c954ff",
+    "description": ""
+}
