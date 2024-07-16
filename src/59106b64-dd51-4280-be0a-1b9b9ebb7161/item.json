@@ -1,0 +1,15 @@
+{
+    "system_name": "JInput",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Input\\Input",
+            "joomla_version": "0"
+        },
+        "settings1": {
+            "namespace": "Joomla\\CMS\\Input\\Input",
+            "joomla_version": "3"
+        }
+    },
+    "guid": "59106b64-dd51-4280-be0a-1b9b9ebb7161",
+    "description": "This is an abstracted input class used to manage retrieving data from the application environment."
+}
