@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormRuleBoolean",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Rule\\BooleanRule",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "7e5b7df9-f893-46c1-a750-7afdd0b191bf",
+    "description": ""
+}
