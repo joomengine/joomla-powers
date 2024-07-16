@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldHeadertag",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\HeadertagField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "2eb90029-9209-48e0-96f7-47ba8e66129c",
+    "description": ""
+}
