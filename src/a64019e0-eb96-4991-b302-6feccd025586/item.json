@@ -1,0 +1,11 @@
+{
+    "system_name": "JUpdaterCollection",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Updater\\Adapter\\CollectionAdapter",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "a64019e0-eb96-4991-b302-6feccd025586",
+    "description": ""
+}
