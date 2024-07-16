@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldRules",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\RulesField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "aa4a472d-3791-48a8-bb28-6c335a858adc",
+    "description": ""
+}
