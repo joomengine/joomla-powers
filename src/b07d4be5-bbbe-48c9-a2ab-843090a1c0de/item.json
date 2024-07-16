@@ -1,0 +1,11 @@
+{
+    "system_name": "JRule",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Access\\Rule",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "b07d4be5-bbbe-48c9-a2ab-843090a1c0de",
+    "description": "Rule class."
+}
