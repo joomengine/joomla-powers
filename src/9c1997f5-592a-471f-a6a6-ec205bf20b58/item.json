@@ -1,0 +1,11 @@
+{
+    "system_name": "JStringController",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Filesystem\\Support\\StringController",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "9c1997f5-592a-471f-a6a6-ec205bf20b58",
+    "description": ""
+}
