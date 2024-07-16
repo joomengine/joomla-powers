@@ -1,0 +1,11 @@
+{
+    "system_name": "JModelAdmin",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\MVC\\Model\\AdminModel",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "db2b366c-0319-4509-85e2-df2b49e1f4d8",
+    "description": ""
+}
