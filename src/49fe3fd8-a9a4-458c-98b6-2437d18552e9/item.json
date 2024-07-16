@@ -1,0 +1,11 @@
+{
+    "system_name": "JHelperUsergroups",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Helper\\UserGroupsHelper",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "49fe3fd8-a9a4-458c-98b6-2437d18552e9",
+    "description": ""
+}
