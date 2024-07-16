@@ -1,0 +1,11 @@
+{
+    "system_name": "JTableObserver",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Table\\Observer\\AbstractObserver",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "b8c64f3f-ca63-4897-a9e1-8afc64220079",
+    "description": ""
+}
