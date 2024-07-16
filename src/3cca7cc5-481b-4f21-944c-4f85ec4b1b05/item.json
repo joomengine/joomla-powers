@@ -1,0 +1,11 @@
+{
+    "system_name": "JViewLegacy",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\MVC\\View\\HtmlView",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "3cca7cc5-481b-4f21-944c-4f85ec4b1b05",
+    "description": ""
+}
