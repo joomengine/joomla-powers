@@ -1,0 +1,11 @@
+{
+    "system_name": "JUcmBase",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\UCM\\UCMBase",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "ba90ea14-ae54-4a58-8b67-5774f0bf4704",
+    "description": ""
+}
