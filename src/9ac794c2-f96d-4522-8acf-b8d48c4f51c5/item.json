@@ -1,0 +1,11 @@
+{
+    "system_name": "JTableObserverContenthistory",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Table\\Observer\\ContentHistory",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "9ac794c2-f96d-4522-8acf-b8d48c4f51c5",
+    "description": ""
+}
