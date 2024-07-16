@@ -1,0 +1,11 @@
+{
+    "system_name": "JFeedLink",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Feed\\FeedLink",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "99679894-a0e2-4299-927e-26413d23e28c",
+    "description": ""
+}
