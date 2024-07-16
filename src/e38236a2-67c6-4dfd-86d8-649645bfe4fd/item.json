@@ -1,0 +1,11 @@
+{
+    "system_name": "JUserWrapperHelper",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\User\\UserWrapper",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "e38236a2-67c6-4dfd-86d8-649645bfe4fd",
+    "description": ""
+}
