@@ -1,0 +1,11 @@
+{
+    "system_name": "JHelperContent",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Helper\\ContentHelper",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "3aa6094c-0c87-437d-b301-e2f2547d6fdd",
+    "description": ""
+}
