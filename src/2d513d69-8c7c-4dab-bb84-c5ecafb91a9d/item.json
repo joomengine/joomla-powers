@@ -1,0 +1,11 @@
+{
+    "system_name": "JAccess",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Access\\Access",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "2d513d69-8c7c-4dab-bb84-c5ecafb91a9d",
+    "description": "Class that handles all access authorisation routines."
+}
