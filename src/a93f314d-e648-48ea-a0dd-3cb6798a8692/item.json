@@ -1,0 +1,11 @@
+{
+    "system_name": "JCacheStorageRedis",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Cache\\Storage\\RedisStorage",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "a93f314d-e648-48ea-a0dd-3cb6798a8692",
+    "description": ""
+}
