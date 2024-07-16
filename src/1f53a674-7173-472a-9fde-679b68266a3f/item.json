@@ -1,0 +1,11 @@
+{
+    "system_name": "JHtmlMenu",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\HTML\\Helpers\\Menu",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "1f53a674-7173-472a-9fde-679b68266a3f",
+    "description": ""
+}
