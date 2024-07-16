@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldMedia",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\MediaField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "87d2e4fb-8a68-4a70-92f1-eb33b853288c",
+    "description": ""
+}
