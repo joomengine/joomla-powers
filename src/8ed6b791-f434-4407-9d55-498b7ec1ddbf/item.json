@@ -1,0 +1,11 @@
+{
+    "system_name": "JHtmlJquery",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\HTML\\Helpers\\Jquery",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "8ed6b791-f434-4407-9d55-498b7ec1ddbf",
+    "description": ""
+}
