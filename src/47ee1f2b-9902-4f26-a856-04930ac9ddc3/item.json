@@ -1,0 +1,11 @@
+{
+    "system_name": "JToolbar",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Toolbar\\Toolbar",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "47ee1f2b-9902-4f26-a856-04930ac9ddc3",
+    "description": ""
+}
