@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldCombo",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\ComboField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "55be30ee-0823-480a-aba8-e0bc2cb64503",
+    "description": ""
+}
