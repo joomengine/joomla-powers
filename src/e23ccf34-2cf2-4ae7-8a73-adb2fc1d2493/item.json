@@ -1,0 +1,11 @@
+{
+    "system_name": "JDatabaseQueryLimitable",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Database\\Query\\LimitableInterface",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "e23ccf34-2cf2-4ae7-8a73-adb2fc1d2493",
+    "description": ""
+}
