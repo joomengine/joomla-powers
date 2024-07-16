@@ -1,0 +1,11 @@
+{
+    "system_name": "JComponentRouterBase",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Component\\Router\\RouterBase",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "1a993901-ded0-47d1-90cb-e00134a252d8",
+    "description": ""
+}
