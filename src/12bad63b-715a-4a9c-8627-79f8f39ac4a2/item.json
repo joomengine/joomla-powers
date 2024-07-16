@@ -1,0 +1,11 @@
+{
+    "system_name": "JHttpTransport",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Http\\TransportInterface",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "12bad63b-715a-4a9c-8627-79f8f39ac4a2",
+    "description": ""
+}
