@@ -1,0 +1,11 @@
+{
+    "system_name": "JAssociationExtensionHelper",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Association\\AssociationExtensionHelper",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "e88e262d-b08f-43f3-9f0d-adf352030ddd",
+    "description": ""
+}
