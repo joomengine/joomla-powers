@@ -1,0 +1,11 @@
+{
+    "system_name": "JCacheExceptionUnsupported",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Cache\\Exception\\UnsupportedCacheException",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "52cb7255-a68e-4ba7-910a-c5ebb0de1eaa",
+    "description": ""
+}
