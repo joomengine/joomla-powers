@@ -1,0 +1,11 @@
+{
+    "system_name": "JMailWrapperHelper",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Mail\\MailWrapper",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "8f87732c-ae41-4685-b9e3-381c8ee277f5",
+    "description": ""
+}
