@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldContenthistory",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\ContenthistoryField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "636d48f0-8575-4a78-a8af-e9368ceb59aa",
+    "description": ""
+}
