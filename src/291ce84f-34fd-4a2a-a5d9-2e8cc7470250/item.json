@@ -1,0 +1,11 @@
+{
+    "system_name": "JHelperRoute",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Helper\\RouteHelper",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "291ce84f-34fd-4a2a-a5d9-2e8cc7470250",
+    "description": ""
+}
