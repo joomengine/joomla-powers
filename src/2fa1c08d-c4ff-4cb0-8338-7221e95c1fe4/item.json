@@ -1,0 +1,11 @@
+{
+    "system_name": "JAccessExceptionNotallowed",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Access\\Exception\\NotAllowed",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "2fa1c08d-c4ff-4cb0-8338-7221e95c1fe4",
+    "description": ""
+}
