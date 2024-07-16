@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormHelper",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\FormHelper",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "571422c4-0340-49f8-b846-5729c7af6ed7",
+    "description": ""
+}
