@@ -1,0 +1,11 @@
+{
+    "system_name": "JSchemaChangeitem",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Schema\\ChangeItem",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "27682053-11d2-46aa-b2f1-00e66eb43f9c",
+    "description": ""
+}
