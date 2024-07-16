@@ -1,0 +1,11 @@
+{
+    "system_name": "JEditor",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Editor\\Editor",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "9d3f65ab-4635-48b4-8456-dc7b61ee8d4a",
+    "description": ""
+}
