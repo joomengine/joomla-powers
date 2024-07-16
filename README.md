@@ -31,7 +31,14 @@ This repository contains an index (see below) of all the Joomla! Powers within t
 
  - **JAdapter** | [Details](src/2ef6137d-d122-4769-94ca-2eb991e30fb1) | [Settings](src/2ef6137d-d122-4769-94ca-2eb991e30fb1/item.json) | JPK: `Joomla---2ef6137d_d122_4769_94ca_2eb991e30fb1---Power`
  - **JAdapterInstance** | [Details](src/ae56c9d7-2c2a-446a-a4b0-9f979da47f3b) | [Settings](src/ae56c9d7-2c2a-446a-a4b0-9f979da47f3b/item.json) | JPK: `Joomla---ae56c9d7_2c2a_446a_a4b0_9f979da47f3b---Power`
+ - **JAssociationExtensionHelper** | [Details](src/e88e262d-b08f-43f3-9f0d-adf352030ddd) | [Settings](src/e88e262d-b08f-43f3-9f0d-adf352030ddd/item.json) | JPK: `Joomla---e88e262d_b08f_43f3_9f0d_adf352030ddd---Power`
+ - **JAssociationExtensionInterface** | [Details](src/1046fbd3-859f-40b6-8cd9-4f2a0f91413a) | [Settings](src/1046fbd3-859f-40b6-8cd9-4f2a0f91413a/item.json) | JPK: `Joomla---1046fbd3_859f_40b6_8cd9_4f2a0f91413a---Power`
+ - **JAuthentication** | [Details](src/e7193dd0-5839-4e5f-9f86-1d2cb29f2116) | [Settings](src/e7193dd0-5839-4e5f-9f86-1d2cb29f2116/item.json) | JPK: `Joomla---e7193dd0_5839_4e5f_9f86_1d2cb29f2116---Power`
+ - **JAuthenticationHelper** | [Details](src/c6b045d1-06b5-406f-b05c-87a9e3465603) | [Settings](src/c6b045d1-06b5-406f-b05c-87a9e3465603/item.json) | JPK: `Joomla---c6b045d1_06b5_406f_b05c_87a9e3465603---Power`
+ - **JAuthenticationResponse** | [Details](src/d2f1e6b1-7f62-4f2f-9f0a-8378d1da654b) | [Settings](src/d2f1e6b1-7f62-4f2f-9f0a-8378d1da654b/item.json) | JPK: `Joomla---d2f1e6b1_7f62_4f2f_9f0a_8378d1da654b---Power`
+ - **JBrowser** | [Details](src/c5dd6a36-c4ab-4d66-9ec5-c97cc5b96858) | [Settings](src/c5dd6a36-c4ab-4d66-9ec5-c97cc5b96858/item.json) | JPK: `Joomla---c5dd6a36_c4ab_4d66_9ec5_c97cc5b96858---Power`
  - **JBuffer** | [Details](src/3970e758-a029-48c3-87df-5898010963ba) | [Settings](src/3970e758-a029-48c3-87df-5898010963ba/item.json) | JPK: `Joomla---3970e758_a029_48c3_87df_5898010963ba---Power`
+ - **JButton** | [Details](src/98c24e3e-4ffd-47fe-aae1-7216d364c69b) | [Settings](src/98c24e3e-4ffd-47fe-aae1-7216d364c69b/item.json) | JPK: `Joomla---98c24e3e_4ffd_47fe_aae1_7216d364c69b---Power`
  - **JCache** | [Details](src/f3f4adfb-f742-465f-9e8d-3d1615f2a5d6) | [Settings](src/f3f4adfb-f742-465f-9e8d-3d1615f2a5d6/item.json) | JPK: `Joomla---f3f4adfb_f742_465f_9e8d_3d1615f2a5d6---Power`
  - **JCacheController** | [Details](src/8cf4ef54-307e-4939-9d94-ef9d20c22555) | [Settings](src/8cf4ef54-307e-4939-9d94-ef9d20c22555/item.json) | JPK: `Joomla---8cf4ef54_307e_4939_9d94_ef9d20c22555---Power`
  - **JCacheControllerCallback** | [Details](src/4166425f-552f-4763-adcc-ca443ff4bbd4) | [Settings](src/4166425f-552f-4763-adcc-ca443ff4bbd4/item.json) | JPK: `Joomla---4166425f_552f_4763_adcc_ca443ff4bbd4---Power`
@@ -59,6 +66,17 @@ This repository contains an index (see below) of all the Joomla! Powers within t
  - **JClientHelper** | [Details](src/01f9f992-adc3-4529-abc8-ed1e0fb1f88e) | [Settings](src/01f9f992-adc3-4529-abc8-ed1e0fb1f88e/item.json) | JPK: `Joomla---01f9f992_adc3_4529_abc8_ed1e0fb1f88e---Power`
  - **JClientLdap** | [Details](src/93ff2bec-b4b7-4f53-aec1-c22e68fe83a4) | [Settings](src/93ff2bec-b4b7-4f53-aec1-c22e68fe83a4/item.json) | JPK: `Joomla---93ff2bec_b4b7_4f53_aec1_c22e68fe83a4---Power`
  - **JClientWrapperHelper** | [Details](src/06286fff-ee87-4b45-9f9f-9b77dbf3dde1) | [Settings](src/06286fff-ee87-4b45-9f9f-9b77dbf3dde1/item.json) | JPK: `Joomla---06286fff_ee87_4b45_9f9f_9b77dbf3dde1---Power`
+ - **JComponentExceptionMissing** | [Details](src/77b5e594-3e89-47f6-96e0-91dcf095083d) | [Settings](src/77b5e594-3e89-47f6-96e0-91dcf095083d/item.json) | JPK: `Joomla---77b5e594_3e89_47f6_96e0_91dcf095083d---Power`
+ - **JComponentRecord** | [Details](src/5255b942-8d9a-4984-8091-9fffea8d12dc) | [Settings](src/5255b942-8d9a-4984-8091-9fffea8d12dc/item.json) | JPK: `Joomla---5255b942_8d9a_4984_8091_9fffea8d12dc---Power`
+ - **JComponentRouterBase** | [Details](src/1a993901-ded0-47d1-90cb-e00134a252d8) | [Settings](src/1a993901-ded0-47d1-90cb-e00134a252d8/item.json) | JPK: `Joomla---1a993901_ded0_47d1_90cb_e00134a252d8---Power`
+ - **JComponentRouterInterface** | [Details](src/60ef2eac-e1bf-4f02-9e00-406988dceb7c) | [Settings](src/60ef2eac-e1bf-4f02-9e00-406988dceb7c/item.json) | JPK: `Joomla---60ef2eac_e1bf_4f02_9e00_406988dceb7c---Power`
+ - **JComponentRouterLegacy** | [Details](src/5b8498be-e8a6-4941-b0e7-16e12020d7fd) | [Settings](src/5b8498be-e8a6-4941-b0e7-16e12020d7fd/item.json) | JPK: `Joomla---5b8498be_e8a6_4941_b0e7_16e12020d7fd---Power`
+ - **JComponentRouterRulesInterface** | [Details](src/3a9cfc8e-d596-4144-943e-b0e40ef940e7) | [Settings](src/3a9cfc8e-d596-4144-943e-b0e40ef940e7/item.json) | JPK: `Joomla---3a9cfc8e_d596_4144_943e_b0e40ef940e7---Power`
+ - **JComponentRouterRulesMenu** | [Details](src/81b80eaa-0854-41a1-9304-3d858cbb8dd7) | [Settings](src/81b80eaa-0854-41a1-9304-3d858cbb8dd7/item.json) | JPK: `Joomla---81b80eaa_0854_41a1_9304_3d858cbb8dd7---Power`
+ - **JComponentRouterRulesNomenu** | [Details](src/4f6f2089-8ff4-42ff-a3c5-44ac26f03d72) | [Settings](src/4f6f2089-8ff4-42ff-a3c5-44ac26f03d72/item.json) | JPK: `Joomla---4f6f2089_8ff4_42ff_a3c5_44ac26f03d72---Power`
+ - **JComponentRouterRulesStandard** | [Details](src/3c55de55-8cc0-446c-bfd9-f3d80239ccf3) | [Settings](src/3c55de55-8cc0-446c-bfd9-f3d80239ccf3/item.json) | JPK: `Joomla---3c55de55_8cc0_446c_bfd9_f3d80239ccf3---Power`
+ - **JComponentRouterView** | [Details](src/5c7d19b6-315f-49b5-9d79-da33e83251d8) | [Settings](src/5c7d19b6-315f-49b5-9d79-da33e83251d8/item.json) | JPK: `Joomla---5c7d19b6_315f_49b5_9d79_da33e83251d8---Power`
+ - **JComponentRouterViewconfiguration** | [Details](src/7bbeef79-a79c-4a1d-8a46-e2063136a648) | [Settings](src/7bbeef79-a79c-4a1d-8a46-e2063136a648/item.json) | JPK: `Joomla---7bbeef79_a79c_4a1d_8a46_e2063136a648---Power`
  - **JCrypt** | [Details](src/bfc1b531-2c63-45a2-93bd-9b968bdef8c0) | [Settings](src/bfc1b531-2c63-45a2-93bd-9b968bdef8c0/item.json) | JPK: `Joomla---bfc1b531_2c63_45a2_93bd_9b968bdef8c0---Power`
  - **JCryptCipher** | [Details](src/76d2f1c4-e213-40ee-9811-be0d2d0ca00a) | [Settings](src/76d2f1c4-e213-40ee-9811-be0d2d0ca00a/item.json) | JPK: `Joomla---76d2f1c4_e213_40ee_9811_be0d2d0ca00a---Power`
  - **JCryptCipher3Des** | [Details](src/b0d18c3a-c9fc-4fed-b63d-7f441ee7e0ee) | [Settings](src/b0d18c3a-c9fc-4fed-b63d-7f441ee7e0ee/item.json) | JPK: `Joomla---b0d18c3a_c9fc_4fed_b63d_7f441ee7e0ee---Power`
@@ -104,12 +122,41 @@ This repository contains an index (see below) of all the Joomla! Powers within t
  - **JDatabaseQuerySqlazure** | [Details](src/7d4657c9-5896-410f-9c13-7348588018e8) | [Settings](src/7d4657c9-5896-410f-9c13-7348588018e8/item.json) | JPK: `Joomla---7d4657c9_5896_410f_9c13_7348588018e8---Power`
  - **JDatabaseQuerySqlite** | [Details](src/3e3c8caa-822e-4f9f-b395-a14a3f6f31e4) | [Settings](src/3e3c8caa-822e-4f9f-b395-a14a3f6f31e4/item.json) | JPK: `Joomla---3e3c8caa_822e_4f9f_b395_a14a3f6f31e4---Power`
  - **JDatabaseQuerySqlsrv** | [Details](src/5e22cd09-33e9-43d7-8cfa-3225822296a1) | [Settings](src/5e22cd09-33e9-43d7-8cfa-3225822296a1/item.json) | JPK: `Joomla---5e22cd09_33e9_43d7_8cfa_3225822296a1---Power`
+ - **JDocument** | [Details](src/f0198edb-6be6-4ca5-9e1d-9ec899939a32) | [Settings](src/f0198edb-6be6-4ca5-9e1d-9ec899939a32/item.json) | JPK: `Joomla---f0198edb_6be6_4ca5_9e1d_9ec899939a32---Power`
+ - **JDocumentError** | [Details](src/f340c858-e0a7-4db6-9a4c-7919e0e27ee4) | [Settings](src/f340c858-e0a7-4db6-9a4c-7919e0e27ee4/item.json) | JPK: `Joomla---f340c858_e0a7_4db6_9a4c_7919e0e27ee4---Power`
+ - **JDocumentFeed** | [Details](src/07796eb3-5ac1-4f1f-8ebb-5a4009bdc64b) | [Settings](src/07796eb3-5ac1-4f1f-8ebb-5a4009bdc64b/item.json) | JPK: `Joomla---07796eb3_5ac1_4f1f_8ebb_5a4009bdc64b---Power`
+ - **JDocumentHtml** | [Details](src/b81aea75-742b-4b0f-8182-ce50a3c4a98f) | [Settings](src/b81aea75-742b-4b0f-8182-ce50a3c4a98f/item.json) | JPK: `Joomla---b81aea75_742b_4b0f_8182_ce50a3c4a98f---Power`
+ - **JDocumentImage** | [Details](src/2e066e66-ace9-4a38-91f1-2c7cdd3bcbde) | [Settings](src/2e066e66-ace9-4a38-91f1-2c7cdd3bcbde/item.json) | JPK: `Joomla---2e066e66_ace9_4a38_91f1_2c7cdd3bcbde---Power`
+ - **JDocumentJson** | [Details](src/df2ca2b1-1474-4e76-8a89-6213121d6642) | [Settings](src/df2ca2b1-1474-4e76-8a89-6213121d6642/item.json) | JPK: `Joomla---df2ca2b1_1474_4e76_8a89_6213121d6642---Power`
+ - **JDocumentOpensearch** | [Details](src/df1c4e45-d5cd-493b-a7f8-68d5fe257790) | [Settings](src/df1c4e45-d5cd-493b-a7f8-68d5fe257790/item.json) | JPK: `Joomla---df1c4e45_d5cd_493b_a7f8_68d5fe257790---Power`
+ - **JDocumentRaw** | [Details](src/51facd6c-7dbd-49b4-98b6-eab01d638d72) | [Settings](src/51facd6c-7dbd-49b4-98b6-eab01d638d72/item.json) | JPK: `Joomla---51facd6c_7dbd_49b4_98b6_eab01d638d72---Power`
+ - **JDocumentRenderer** | [Details](src/e9d9761f-0c10-4c4a-a2f7-9c365805c2d5) | [Settings](src/e9d9761f-0c10-4c4a-a2f7-9c365805c2d5/item.json) | JPK: `Joomla---e9d9761f_0c10_4c4a_a2f7_9c365805c2d5---Power`
+ - **JDocumentRendererAtom** | [Details](src/34b75849-7d6e-407e-9f16-dd3c1c58ddfc) | [Settings](src/34b75849-7d6e-407e-9f16-dd3c1c58ddfc/item.json) | JPK: `Joomla---34b75849_7d6e_407e_9f16_dd3c1c58ddfc---Power`
+ - **JDocumentRendererComponent** | [Details](src/a4f78bba-c3a5-4e62-a565-7e011665ed95) | [Settings](src/a4f78bba-c3a5-4e62-a565-7e011665ed95/item.json) | JPK: `Joomla---a4f78bba_c3a5_4e62_a565_7e011665ed95---Power`
+ - **JDocumentRendererFeedAtom** | [Details](src/9f778aa1-9f63-4734-a326-e62e649c9669) | [Settings](src/9f778aa1-9f63-4734-a326-e62e649c9669/item.json) | JPK: `Joomla---9f778aa1_9f63_4734_a326_e62e649c9669---Power`
+ - **JDocumentRendererFeedRss** | [Details](src/9292ee49-e310-47ea-ac3f-3d23bf454bb9) | [Settings](src/9292ee49-e310-47ea-ac3f-3d23bf454bb9/item.json) | JPK: `Joomla---9292ee49_e310_47ea_ac3f_3d23bf454bb9---Power`
+ - **JDocumentRendererHead** | [Details](src/876058a8-106f-498d-a1fb-1a30000915f3) | [Settings](src/876058a8-106f-498d-a1fb-1a30000915f3/item.json) | JPK: `Joomla---876058a8_106f_498d_a1fb_1a30000915f3---Power`
+ - **JDocumentRendererHtmlComponent** | [Details](src/de6c54e2-b040-4a14-8de5-317d03c0dd30) | [Settings](src/de6c54e2-b040-4a14-8de5-317d03c0dd30/item.json) | JPK: `Joomla---de6c54e2_b040_4a14_8de5_317d03c0dd30---Power`
+ - **JDocumentRendererHtmlHead** | [Details](src/0733e243-c078-4647-be3b-a57aa6c8da5e) | [Settings](src/0733e243-c078-4647-be3b-a57aa6c8da5e/item.json) | JPK: `Joomla---0733e243_c078_4647_be3b_a57aa6c8da5e---Power`
+ - **JDocumentRendererHtmlMessage** | [Details](src/73642c41-abb6-45fa-96c9-a32e8c8ae5ec) | [Settings](src/73642c41-abb6-45fa-96c9-a32e8c8ae5ec/item.json) | JPK: `Joomla---73642c41_abb6_45fa_96c9_a32e8c8ae5ec---Power`
+ - **JDocumentRendererHtmlModule** | [Details](src/2cae3c40-1f83-449e-92e8-3ef7a073694e) | [Settings](src/2cae3c40-1f83-449e-92e8-3ef7a073694e/item.json) | JPK: `Joomla---2cae3c40_1f83_449e_92e8_3ef7a073694e---Power`
+ - **JDocumentRendererHtmlModules** | [Details](src/2b616377-af1c-42cf-8645-8b63fd65ac4f) | [Settings](src/2b616377-af1c-42cf-8645-8b63fd65ac4f/item.json) | JPK: `Joomla---2b616377_af1c_42cf_8645_8b63fd65ac4f---Power`
+ - **JDocumentRendererMessage** | [Details](src/d2fb6e55-4ff3-41e2-ace2-f049abff35c2) | [Settings](src/d2fb6e55-4ff3-41e2-ace2-f049abff35c2/item.json) | JPK: `Joomla---d2fb6e55_4ff3_41e2_ace2_f049abff35c2---Power`
+ - **JDocumentRendererModule** | [Details](src/fadc3f46-11df-4800-beb0-43edc3c0a1bd) | [Settings](src/fadc3f46-11df-4800-beb0-43edc3c0a1bd/item.json) | JPK: `Joomla---fadc3f46_11df_4800_beb0_43edc3c0a1bd---Power`
+ - **JDocumentRendererModules** | [Details](src/e9b2281e-0abc-48c7-9cf4-7d4f71d331a3) | [Settings](src/e9b2281e-0abc-48c7-9cf4-7d4f71d331a3/item.json) | JPK: `Joomla---e9b2281e_0abc_48c7_9cf4_7d4f71d331a3---Power`
+ - **JDocumentRendererRSS** | [Details](src/515e4335-e131-4fed-8e41-832e3477ffd8) | [Settings](src/515e4335-e131-4fed-8e41-832e3477ffd8/item.json) | JPK: `Joomla---515e4335_e131_4fed_8e41_832e3477ffd8---Power`
+ - **JDocumentXml** | [Details](src/ad7918a0-a784-42a8-8bd6-4584075c2f91) | [Settings](src/ad7918a0-a784-42a8-8bd6-4584075c2f91/item.json) | JPK: `Joomla---ad7918a0_a784_42a8_8bd6_4584075c2f91---Power`
+ - **JEditor** | [Details](src/9d3f65ab-4635-48b4-8456-dc7b61ee8d4a) | [Settings](src/9d3f65ab-4635-48b4-8456-dc7b61ee8d4a/item.json) | JPK: `Joomla---9d3f65ab_4635_48b4_8456_dc7b61ee8d4a---Power`
+ - **JErrorPage** | [Details](src/52d5da48-8711-4b36-bd18-fb126e900acc) | [Settings](src/52d5da48-8711-4b36-bd18-fb126e900acc/item.json) | JPK: `Joomla---52d5da48_8711_4b36_bd18_fb126e900acc---Power`
  - **JExtension** | [Details](src/70f7a0f0-a9f5-4e3f-9862-f41ffedaaa82) | [Settings](src/70f7a0f0-a9f5-4e3f-9862-f41ffedaaa82/item.json) | JPK: `Joomla---70f7a0f0_a9f5_4e3f_9862_f41ffedaaa82---Power`
  - **JExtensionHelper** | [Details](src/fdf6b2b2-1561-4ccf-bf66-2d05b0b956aa) | [Settings](src/fdf6b2b2-1561-4ccf-bf66-2d05b0b956aa/item.json) | JPK: `Joomla---fdf6b2b2_1561_4ccf_bf66_2d05b0b956aa---Power`
  - **JFTP** | [Details](src/e8fccc29-e48c-4c4c-94c5-338db3ac0ec2) | [Settings](src/e8fccc29-e48c-4c4c-94c5-338db3ac0ec2/item.json) | JPK: `Joomla---e8fccc29_e48c_4c4c_94c5_338db3ac0ec2---Power`
  - **JFeed** | [Details](src/e4d24f01-125c-4a42-980f-952cb176740f) | [Settings](src/e4d24f01-125c-4a42-980f-952cb176740f/item.json) | JPK: `Joomla---e4d24f01_125c_4a42_980f_952cb176740f---Power`
+ - **JFeedEnclosure** | [Details](src/d1ff6ed5-1dce-4ec4-be9d-aa687a332103) | [Settings](src/d1ff6ed5-1dce-4ec4-be9d-aa687a332103/item.json) | JPK: `Joomla---d1ff6ed5_1dce_4ec4_be9d_aa687a332103---Power`
  - **JFeedEntry** | [Details](src/83c45c5a-51b7-4475-a91b-693a1ce519c3) | [Settings](src/83c45c5a-51b7-4475-a91b-693a1ce519c3/item.json) | JPK: `Joomla---83c45c5a_51b7_4475_a91b_693a1ce519c3---Power`
  - **JFeedFactory** | [Details](src/5141d728-204c-400c-8648-77eb7f59f9ff) | [Settings](src/5141d728-204c-400c-8648-77eb7f59f9ff/item.json) | JPK: `Joomla---5141d728_204c_400c_8648_77eb7f59f9ff---Power`
+ - **JFeedImage** | [Details](src/b6d8fbd2-4873-4a76-b8d5-7b219bd85fb3) | [Settings](src/b6d8fbd2-4873-4a76-b8d5-7b219bd85fb3/item.json) | JPK: `Joomla---b6d8fbd2_4873_4a76_b8d5_7b219bd85fb3---Power`
+ - **JFeedItem** | [Details](src/7310b31c-a886-4e81-a3b4-c74f41da071b) | [Settings](src/7310b31c-a886-4e81-a3b4-c74f41da071b/item.json) | JPK: `Joomla---7310b31c_a886_4e81_a3b4_c74f41da071b---Power`
  - **JFeedLink** | [Details](src/99679894-a0e2-4299-927e-26413d23e28c) | [Settings](src/99679894-a0e2-4299-927e-26413d23e28c/item.json) | JPK: `Joomla---99679894_a0e2_4299_927e_26413d23e28c---Power`
  - **JFeedParser** | [Details](src/7f6c2c10-4672-463d-832c-1d686db339c0) | [Settings](src/7f6c2c10-4672-463d-832c-1d686db339c0/item.json) | JPK: `Joomla---7f6c2c10_4672_463d_832c_1d686db339c0---Power`
  - **JFeedParserAtom** | [Details](src/bd9884f1-33d4-4a27-beb0-be229285c03c) | [Settings](src/bd9884f1-33d4-4a27-beb0-be229285c03c/item.json) | JPK: `Joomla---bd9884f1_33d4_4a27_beb0_be229285c03c---Power`
@@ -216,6 +263,13 @@ This repository contains an index (see below) of all the Joomla! Powers within t
  - **JFormRuleUrl** | [Details](src/9214cd9a-d08e-407a-8c6f-d6b49aec82a8) | [Settings](src/9214cd9a-d08e-407a-8c6f-d6b49aec82a8/item.json) | JPK: `Joomla---9214cd9a_d08e_407a_8c6f_d6b49aec82a8---Power`
  - **JFormRuleUsername** | [Details](src/577ce475-83a3-4a2e-b69f-dcd0703aec70) | [Settings](src/577ce475-83a3-4a2e-b69f-dcd0703aec70/item.json) | JPK: `Joomla---577ce475_83a3_4a2e_b69f_dcd0703aec70---Power`
  - **JFormWrapper** | [Details](src/dd78f485-1018-4b6a-8ac5-8bd05a6b9f82) | [Settings](src/dd78f485-1018-4b6a-8ac5-8bd05a6b9f82/item.json) | JPK: `Joomla---dd78f485_1018_4b6a_8ac5_8bd05a6b9f82---Power`
+ - **JHelper** | [Details](src/7bc1ad97-b165-4804-b243-396eb5d7d300) | [Settings](src/7bc1ad97-b165-4804-b243-396eb5d7d300/item.json) | JPK: `Joomla---7bc1ad97_b165_4804_b243_396eb5d7d300---Power`
+ - **JHelperContent** | [Details](src/3aa6094c-0c87-437d-b301-e2f2547d6fdd) | [Settings](src/3aa6094c-0c87-437d-b301-e2f2547d6fdd/item.json) | JPK: `Joomla---3aa6094c_0c87_437d_b301_e2f2547d6fdd---Power`
+ - **JHelperContenthistory** | [Details](src/1cb6e8f7-e3a6-499a-972b-dcfbd9dd1c51) | [Settings](src/1cb6e8f7-e3a6-499a-972b-dcfbd9dd1c51/item.json) | JPK: `Joomla---1cb6e8f7_e3a6_499a_972b_dcfbd9dd1c51---Power`
+ - **JHelperMedia** | [Details](src/b2f0313b-4535-4080-85f2-2f6f0f327215) | [Settings](src/b2f0313b-4535-4080-85f2-2f6f0f327215/item.json) | JPK: `Joomla---b2f0313b_4535_4080_85f2_2f6f0f327215---Power`
+ - **JHelperRoute** | [Details](src/291ce84f-34fd-4a2a-a5d9-2e8cc7470250) | [Settings](src/291ce84f-34fd-4a2a-a5d9-2e8cc7470250/item.json) | JPK: `Joomla---291ce84f_34fd_4a2a_a5d9_2e8cc7470250---Power`
+ - **JHelperTags** | [Details](src/9726b24c-d6e2-4e5c-bbf6-fc4aeb9616be) | [Settings](src/9726b24c-d6e2-4e5c-bbf6-fc4aeb9616be/item.json) | JPK: `Joomla---9726b24c_d6e2_4e5c_bbf6_fc4aeb9616be---Power`
+ - **JHelperUsergroups** | [Details](src/49fe3fd8-a9a4-458c-98b6-2437d18552e9) | [Settings](src/49fe3fd8-a9a4-458c-98b6-2437d18552e9/item.json) | JPK: `Joomla---49fe3fd8_a9a4_458c_98b6_2437d18552e9---Power`
  - **JHtmlAccess** | [Details](src/b649640e-d8d7-45be-bde9-3593b7a99a56) | [Settings](src/b649640e-d8d7-45be-bde9-3593b7a99a56/item.json) | JPK: `Joomla---b649640e_d8d7_45be_bde9_3593b7a99a56---Power`
  - **JHtmlActionsDropdown** | [Details](src/290f32aa-71d4-4ebc-9be5-5f8e305bc7e5) | [Settings](src/290f32aa-71d4-4ebc-9be5-5f8e305bc7e5/item.json) | JPK: `Joomla---290f32aa_71d4_4ebc_9be5_5f8e305bc7e5---Power`
  - **JHtmlAdminLanguage** | [Details](src/2f610b1b-799e-4318-8e05-efaa3aa3de0b) | [Settings](src/2f610b1b-799e-4318-8e05-efaa3aa3de0b/item.json) | JPK: `Joomla---2f610b1b_799e_4318_8e05_efaa3aa3de0b---Power`
@@ -293,6 +347,18 @@ This repository contains an index (see below) of all the Joomla! Powers within t
  - **JInstallerScript** | [Details](src/8072b858-8ce5-4b41-b44f-3ecb8eff1a99) | [Settings](src/8072b858-8ce5-4b41-b44f-3ecb8eff1a99/item.json) | JPK: `Joomla---8072b858_8ce5_4b41_b44f_3ecb8eff1a99---Power`
  - **JInstallerTemplate** | [Details](src/c7126375-b30d-4cf2-8a47-2964675195e5) | [Settings](src/c7126375-b30d-4cf2-8a47-2964675195e5/item.json) | JPK: `Joomla---c7126375_b30d_4cf2_8a47_2964675195e5---Power`
  - **JLDAP** | [Details](src/13ff417a-8633-4b8c-949a-97e35a0d03ff) | [Settings](src/13ff417a-8633-4b8c-949a-97e35a0d03ff/item.json) | JPK: `Joomla---13ff417a_8633_4b8c_949a_97e35a0d03ff---Power`
+ - **JLanguageHelper** | [Details](src/f1bd5f92-0eb0-40d3-ab90-920df3e25a3d) | [Settings](src/f1bd5f92-0eb0-40d3-ab90-920df3e25a3d/item.json) | JPK: `Joomla---f1bd5f92_0eb0_40d3_ab90_920df3e25a3d---Power`
+ - **JLanguageMultilang** | [Details](src/cc8224bd-07f2-46f1-a69b-d3f8afd5438f) | [Settings](src/cc8224bd-07f2-46f1-a69b-d3f8afd5438f/item.json) | JPK: `Joomla---cc8224bd_07f2_46f1_a69b_d3f8afd5438f---Power`
+ - **JLanguageStemmer** | [Details](src/c76d192b-1bed-44c8-9a29-27d73a014d3b) | [Settings](src/c76d192b-1bed-44c8-9a29-27d73a014d3b/item.json) | JPK: `Joomla---c76d192b_1bed_44c8_9a29_27d73a014d3b---Power`
+ - **JLanguageStemmerPorteren** | [Details](src/b98da7dc-0aa0-4a10-9441-ae6039f369ba) | [Settings](src/b98da7dc-0aa0-4a10-9441-ae6039f369ba/item.json) | JPK: `Joomla---b98da7dc_0aa0_4a10_9441_ae6039f369ba---Power`
+ - **JLanguageTransliterate** | [Details](src/a643b662-7ec9-491a-ae28-de34667f0ea5) | [Settings](src/a643b662-7ec9-491a-ae28-de34667f0ea5/item.json) | JPK: `Joomla---a643b662_7ec9_491a_ae28_de34667f0ea5---Power`
+ - **JLanguageWrapperHelper** | [Details](src/161f1710-dc19-4e8a-8299-0519ae5809d3) | [Settings](src/161f1710-dc19-4e8a-8299-0519ae5809d3/item.json) | JPK: `Joomla---161f1710_dc19_4e8a_8299_0519ae5809d3---Power`
+ - **JLanguageWrapperText** | [Details](src/f9b5df00-4690-4ae7-99f2-30bd05a5ad9b) | [Settings](src/f9b5df00-4690-4ae7-99f2-30bd05a5ad9b/item.json) | JPK: `Joomla---f9b5df00_4690_4ae7_99f2_30bd05a5ad9b---Power`
+ - **JLanguageWrapperTransliterate** | [Details](src/2fbbf4bc-3627-4b63-a879-1c675cee4cf2) | [Settings](src/2fbbf4bc-3627-4b63-a879-1c675cee4cf2/item.json) | JPK: `Joomla---2fbbf4bc_3627_4b63_a879_1c675cee4cf2---Power`
+ - **JLayout** | [Details](src/6cb426a4-a026-425d-9078-7973c5c5c627) | [Settings](src/6cb426a4-a026-425d-9078-7973c5c5c627/item.json) | JPK: `Joomla---6cb426a4_a026_425d_9078_7973c5c5c627---Power`
+ - **JLayoutBase** | [Details](src/6014e278-94ca-4a20-9118-deae8bb0ddc9) | [Settings](src/6014e278-94ca-4a20-9118-deae8bb0ddc9/item.json) | JPK: `Joomla---6014e278_94ca_4a20_9118_deae8bb0ddc9---Power`
+ - **JLayoutFile** | [Details](src/2dc653cd-4f87-4028-be2b-40fc9676d762) | [Settings](src/2dc653cd-4f87-4028-be2b-40fc9676d762/item.json) | JPK: `Joomla---2dc653cd_4f87_4028_be2b_40fc9676d762---Power`
+ - **JLibraryHelper** | [Details](src/e736158d-3e8f-4cbd-80f5-1e9152f1119b) | [Settings](src/e736158d-3e8f-4cbd-80f5-1e9152f1119b/item.json) | JPK: `Joomla---e736158d_3e8f_4cbd_80f5_1e9152f1119b---Power`
  - **JLog** | [Details](src/b8246a5d-54eb-4e3d-83c2-d7bed1270062) | [Settings](src/b8246a5d-54eb-4e3d-83c2-d7bed1270062/item.json) | JPK: `Joomla---b8246a5d_54eb_4e3d_83c2_d7bed1270062---Power`
  - **JLogEntry** | [Details](src/a2b54e8c-db60-4bb4-b361-258bc7ff65cb) | [Settings](src/a2b54e8c-db60-4bb4-b361-258bc7ff65cb/item.json) | JPK: `Joomla---a2b54e8c_db60_4bb4_b361_258bc7ff65cb---Power`
  - **JLogLogger** | [Details](src/bddca947-7f73-4ce3-bf45-edfe8193c134) | [Settings](src/bddca947-7f73-4ce3-bf45-edfe8193c134/item.json) | JPK: `Joomla---bddca947_7f73_4ce3_bf45_edfe8193c134---Power`
@@ -307,19 +373,52 @@ This repository contains an index (see below) of all the Joomla! Powers within t
  - **JMail** | [Details](src/a5f433b4-de43-45ad-b6aa-ed7e2b4524b1) | [Settings](src/a5f433b4-de43-45ad-b6aa-ed7e2b4524b1/item.json) | JPK: `Joomla---a5f433b4_de43_45ad_b6aa_ed7e2b4524b1---Power`
  - **JMailHelper** | [Details](src/e2695146-82f9-4f4e-ae24-a2e28c9aa692) | [Settings](src/e2695146-82f9-4f4e-ae24-a2e28c9aa692/item.json) | JPK: `Joomla---e2695146_82f9_4f4e_ae24_a2e28c9aa692---Power`
  - **JMailWrapperHelper** | [Details](src/8f87732c-ae41-4685-b9e3-381c8ee277f5) | [Settings](src/8f87732c-ae41-4685-b9e3-381c8ee277f5/item.json) | JPK: `Joomla---8f87732c_ae41_4685_b9e3_381c8ee277f5---Power`
+ - **JMenu** | [Details](src/d7168e2e-eda9-43b5-8b90-fb488ff39d81) | [Settings](src/d7168e2e-eda9-43b5-8b90-fb488ff39d81/item.json) | JPK: `Joomla---d7168e2e_eda9_43b5_8b90_fb488ff39d81---Power`
+ - **JMenuAdministrator** | [Details](src/37611ab6-f672-4e7c-b5d4-8bdf8ab701ed) | [Settings](src/37611ab6-f672-4e7c-b5d4-8bdf8ab701ed/item.json) | JPK: `Joomla---37611ab6_f672_4e7c_b5d4_8bdf8ab701ed---Power`
+ - **JMenuItem** | [Details](src/97cf0325-76e1-4463-a900-f18ea74a6867) | [Settings](src/97cf0325-76e1-4463-a900-f18ea74a6867/item.json) | JPK: `Joomla---97cf0325_76e1_4463_a900_f18ea74a6867---Power`
+ - **JMenuSite** | [Details](src/ce5b2139-00e7-4d20-b33f-567848c954ff) | [Settings](src/ce5b2139-00e7-4d20-b33f-567848c954ff/item.json) | JPK: `Joomla---ce5b2139_00e7_4d20_b33f_567848c954ff---Power`
  - **JMicrodata** | [Details](src/c8219b24-374a-4cb3-8faf-3c23b129ceba) | [Settings](src/c8219b24-374a-4cb3-8faf-3c23b129ceba/item.json) | JPK: `Joomla---c8219b24_374a_4cb3_8faf_3c23b129ceba---Power`
+ - **JModuleHelper** | [Details](src/f15d556d-33dd-4ee3-a0f7-0653e4a7a1e4) | [Settings](src/f15d556d-33dd-4ee3-a0f7-0653e4a7a1e4/item.json) | JPK: `Joomla---f15d556d_33dd_4ee3_a0f7_0653e4a7a1e4---Power`
  - **JObject** | [Details](src/ac166443-eb68-4b57-8a3c-63bcf4aaeb2a) | [Settings](src/ac166443-eb68-4b57-8a3c-63bcf4aaeb2a/item.json) | JPK: `Joomla---ac166443_eb68_4b57_8a3c_63bcf4aaeb2a---Power`
  - **JOpenSearchImage** | [Details](src/e0870b1b-8df0-4a63-955a-6edcffb8f95c) | [Settings](src/e0870b1b-8df0-4a63-955a-6edcffb8f95c/item.json) | JPK: `Joomla---e0870b1b_8df0_4a63_955a_6edcffb8f95c---Power`
  - **JOpenSearchUrl** | [Details](src/be23edb4-a948-46ea-aa4d-06a5d176d184) | [Settings](src/be23edb4-a948-46ea-aa4d-06a5d176d184/item.json) | JPK: `Joomla---be23edb4_a948_46ea_aa4d_06a5d176d184---Power`
+ - **JPagination** | [Details](src/2ede2a45-7cfb-4ddd-a12c-f6fe0f22c6c7) | [Settings](src/2ede2a45-7cfb-4ddd-a12c-f6fe0f22c6c7/item.json) | JPK: `Joomla---2ede2a45_7cfb_4ddd_a12c_f6fe0f22c6c7---Power`
+ - **JPaginationObject** | [Details](src/b12288c5-6c95-4251-b2ff-51f1ff00365d) | [Settings](src/b12288c5-6c95-4251-b2ff-51f1ff00365d/item.json) | JPK: `Joomla---b12288c5_6c95_4251_b2ff_51f1ff00365d---Power`
  - **JPath** | [Details](src/97b81dcd-93cb-4b52-804a-23f2af8d0e2d) | [Settings](src/97b81dcd-93cb-4b52-804a-23f2af8d0e2d/item.json) | JPK: `Joomla---97b81dcd_93cb_4b52_804a_23f2af8d0e2d---Power`
+ - **JPathway** | [Details](src/1dcda3f6-245e-4a3e-9235-6f1d3079a731) | [Settings](src/1dcda3f6-245e-4a3e-9235-6f1d3079a731/item.json) | JPK: `Joomla---1dcda3f6_245e_4a3e_9235_6f1d3079a731---Power`
+ - **JPathwaySite** | [Details](src/8a9d4936-c63c-481c-9c75-e533954c441e) | [Settings](src/8a9d4936-c63c-481c-9c75-e533954c441e/item.json) | JPK: `Joomla---8a9d4936_c63c_481c_9c75_e533954c441e---Power`
+ - **JPlugin** | [Details](src/98de0895-76eb-406f-99be-bd3eeaeff388) | [Settings](src/98de0895-76eb-406f-99be-bd3eeaeff388/item.json) | JPK: `Joomla---98de0895_76eb_406f_99be_bd3eeaeff388---Power`
+ - **JPluginHelper** | [Details](src/7934665b-e432-4ec6-b38d-27bf32730eb9) | [Settings](src/7934665b-e432-4ec6-b38d-27bf32730eb9/item.json) | JPK: `Joomla---7934665b_e432_4ec6_b38d_27bf32730eb9---Power`
  - **JProfiler** | [Details](src/90c09a0a-9b2e-4fbc-b317-5dc7d97cc061) | [Settings](src/90c09a0a-9b2e-4fbc-b317-5dc7d97cc061/item.json) | JPK: `Joomla---90c09a0a_9b2e_4fbc_b317_5dc7d97cc061---Power`
+ - **JResponseJson** | [Details](src/ac193072-cd64-4423-9cc3-18d10080c995) | [Settings](src/ac193072-cd64-4423-9cc3-18d10080c995/item.json) | JPK: `Joomla---ac193072_cd64_4423_9cc3_18d10080c995---Power`
  - **JRouterAdministrator** | [Details](src/f76b5c78-317a-4938-92ce-20d4c97cbabc) | [Settings](src/f76b5c78-317a-4938-92ce-20d4c97cbabc/item.json) | JPK: `Joomla---f76b5c78_317a_4938_92ce_20d4c97cbabc---Power`
  - **JRouterSite** | [Details](src/4f18f44f-e64a-4f5b-9706-4fd0837c2e68) | [Settings](src/4f18f44f-e64a-4f5b-9706-4fd0837c2e68/item.json) | JPK: `Joomla---4f18f44f_e64a_4f5b_9706_4fd0837c2e68---Power`
+ - **JSchemaChangeitem** | [Details](src/27682053-11d2-46aa-b2f1-00e66eb43f9c) | [Settings](src/27682053-11d2-46aa-b2f1-00e66eb43f9c/item.json) | JPK: `Joomla---27682053_11d2_46aa_b2f1_00e66eb43f9c---Power`
+ - **JSchemaChangeitemMysql** | [Details](src/1d2df8c9-d6ca-444f-8fa0-c21df077b4e9) | [Settings](src/1d2df8c9-d6ca-444f-8fa0-c21df077b4e9/item.json) | JPK: `Joomla---1d2df8c9_d6ca_444f_8fa0_c21df077b4e9---Power`
+ - **JSchemaChangeitemPostgresql** | [Details](src/d100cd9b-d633-456a-8bf7-9a8dd350011f) | [Settings](src/d100cd9b-d633-456a-8bf7-9a8dd350011f/item.json) | JPK: `Joomla---d100cd9b_d633_456a_8bf7_9a8dd350011f---Power`
+ - **JSchemaChangeitemSqlsrv** | [Details](src/b04a740a-8a32-4ac6-8197-f87078608323) | [Settings](src/b04a740a-8a32-4ac6-8197-f87078608323/item.json) | JPK: `Joomla---b04a740a_8a32_4ac6_8197_f87078608323---Power`
+ - **JSchemaChangeset** | [Details](src/25b32eb9-2728-45b3-80e7-9619e969c210) | [Settings](src/25b32eb9-2728-45b3-80e7-9619e969c210/item.json) | JPK: `Joomla---25b32eb9_2728_45b3_80e7_9619e969c210---Power`
+ - **JSearchHelper** | [Details](src/30d4027a-50b2-45bf-9121-278fdd09ba1d) | [Settings](src/30d4027a-50b2-45bf-9121-278fdd09ba1d/item.json) | JPK: `Joomla---30d4027a_50b2_45bf_9121_278fdd09ba1d---Power`
  - **JSessionExceptionUnsupported** | [Details](src/4517efb1-f395-4000-9221-f31910acb2c0) | [Settings](src/4517efb1-f395-4000-9221-f31910acb2c0/item.json) | JPK: `Joomla---4517efb1_f395_4000_9221_f31910acb2c0---Power`
  - **JStream** | [Details](src/3b625fe9-b66d-4d0c-af3b-b657fa279cd2) | [Settings](src/3b625fe9-b66d-4d0c-af3b-b657fa279cd2/item.json) | JPK: `Joomla---3b625fe9_b66d_4d0c_af3b_b657fa279cd2---Power`
  - **JStreamString** | [Details](src/fdc5c1aa-7dce-49ce-b35c-917155aa4d53) | [Settings](src/fdc5c1aa-7dce-49ce-b35c-917155aa4d53/item.json) | JPK: `Joomla---fdc5c1aa_7dce_49ce_b35c_917155aa4d53---Power`
  - **JStringController** | [Details](src/9c1997f5-592a-471f-a6a6-ec205bf20b58) | [Settings](src/9c1997f5-592a-471f-a6a6-ec205bf20b58/item.json) | JPK: `Joomla---9c1997f5_592a_471f_a6a6_ec205bf20b58---Power`
  - **JStringPunycode** | [Details](src/b6882f3d-a8bc-4d82-ae7b-5f0fede36979) | [Settings](src/b6882f3d-a8bc-4d82-ae7b-5f0fede36979/item.json) | JPK: `Joomla---b6882f3d_a8bc_4d82_ae7b_5f0fede36979---Power`
+ - **JToolbar** | [Details](src/47ee1f2b-9902-4f26-a856-04930ac9ddc3) | [Settings](src/47ee1f2b-9902-4f26-a856-04930ac9ddc3/item.json) | JPK: `Joomla---47ee1f2b_9902_4f26_a856_04930ac9ddc3---Power`
+ - **JToolbarButton** | [Details](src/b044eae7-c8c8-4632-add5-1cdada77dbe8) | [Settings](src/b044eae7-c8c8-4632-add5-1cdada77dbe8/item.json) | JPK: `Joomla---b044eae7_c8c8_4632_add5_1cdada77dbe8---Power`
+ - **JToolbarButtonConfirm** | [Details](src/262219a3-c599-4f73-9256-ffe38968e0df) | [Settings](src/262219a3-c599-4f73-9256-ffe38968e0df/item.json) | JPK: `Joomla---262219a3_c599_4f73_9256_ffe38968e0df---Power`
+ - **JToolbarButtonCustom** | [Details](src/0f7e94e1-0480-4192-b8a5-1f53f5bfd984) | [Settings](src/0f7e94e1-0480-4192-b8a5-1f53f5bfd984/item.json) | JPK: `Joomla---0f7e94e1_0480_4192_b8a5_1f53f5bfd984---Power`
+ - **JToolbarButtonHelp** | [Details](src/a8f3658a-8be1-48cd-95ba-4209950046c7) | [Settings](src/a8f3658a-8be1-48cd-95ba-4209950046c7/item.json) | JPK: `Joomla---a8f3658a_8be1_48cd_95ba_4209950046c7---Power`
+ - **JToolbarButtonLink** | [Details](src/948a32c1-a87d-48a0-9914-b0b7ad8308ed) | [Settings](src/948a32c1-a87d-48a0-9914-b0b7ad8308ed/item.json) | JPK: `Joomla---948a32c1_a87d_48a0_9914_b0b7ad8308ed---Power`
+ - **JToolbarButtonPopup** | [Details](src/3761e315-c940-4f54-adc2-94d73fe4cb05) | [Settings](src/3761e315-c940-4f54-adc2-94d73fe4cb05/item.json) | JPK: `Joomla---3761e315_c940_4f54_adc2_94d73fe4cb05---Power`
+ - **JToolbarButtonSeparator** | [Details](src/6d3a8457-e9a8-4d05-ae98-a89e7aef7fd0) | [Settings](src/6d3a8457-e9a8-4d05-ae98-a89e7aef7fd0/item.json) | JPK: `Joomla---6d3a8457_e9a8_4d05_ae98_a89e7aef7fd0---Power`
+ - **JToolbarButtonSlider** | [Details](src/13aa9ff9-93eb-4ee6-ba27-f451fe027f28) | [Settings](src/13aa9ff9-93eb-4ee6-ba27-f451fe027f28/item.json) | JPK: `Joomla---13aa9ff9_93eb_4ee6_ba27_f451fe027f28---Power`
+ - **JToolbarButtonStandard** | [Details](src/fe490f72-816d-4771-a915-2bec9440754f) | [Settings](src/fe490f72-816d-4771-a915-2bec9440754f/item.json) | JPK: `Joomla---fe490f72_816d_4771_a915_2bec9440754f---Power`
+ - **JToolbarHelper** | [Details](src/0c1a176a-304f-433a-8233-37d01ff87815) | [Settings](src/0c1a176a-304f-433a-8233-37d01ff87815/item.json) | JPK: `Joomla---0c1a176a_304f_433a_8233_37d01ff87815---Power`
+ - **JUcm** | [Details](src/717cd776-fc89-4e57-a187-67911316e874) | [Settings](src/717cd776-fc89-4e57-a187-67911316e874/item.json) | JPK: `Joomla---717cd776_fc89_4e57_a187_67911316e874---Power`
+ - **JUcmBase** | [Details](src/ba90ea14-ae54-4a58-8b67-5774f0bf4704) | [Settings](src/ba90ea14-ae54-4a58-8b67-5774f0bf4704/item.json) | JPK: `Joomla---ba90ea14_ae54_4a58_8b67_5774f0bf4704---Power`
+ - **JUcmContent** | [Details](src/a0ab1d29-3e80-418a-8762-dfd30b6bdfdb) | [Settings](src/a0ab1d29-3e80-418a-8762-dfd30b6bdfdb/item.json) | JPK: `Joomla---a0ab1d29_3e80_418a_8762_dfd30b6bdfdb---Power`
+ - **JUcmType** | [Details](src/8949b206-0589-4468-8ae1-ea17edeaa909) | [Settings](src/8949b206-0589-4468-8ae1-ea17edeaa909/item.json) | JPK: `Joomla---8949b206_0589_4468_8ae1_ea17edeaa909---Power`
  - **JUpdate** | [Details](src/f27df948-aff9-484d-a38d-7e7a16b26050) | [Settings](src/f27df948-aff9-484d-a38d-7e7a16b26050/item.json) | JPK: `Joomla---f27df948_aff9_484d_a38d_7e7a16b26050---Power`
  - **JUpdateAdapter** | [Details](src/6368b71b-1848-41ea-a83b-6594214c67c2) | [Settings](src/6368b71b-1848-41ea-a83b-6594214c67c2/item.json) | JPK: `Joomla---6368b71b_1848_41ea_a83b_6594214c67c2---Power`
  - **JUpdater** | [Details](src/4e0f3ff1-ded0-4d9e-851c-d10701b9155e) | [Settings](src/4e0f3ff1-ded0-4d9e-851c-d10701b9155e/item.json) | JPK: `Joomla---4e0f3ff1_ded0_4d9e_851c_d10701b9155e---Power`
@@ -329,6 +428,7 @@ This repository contains an index (see below) of all the Joomla! Powers within t
  - **JUserHelper** | [Details](src/47107a0a-cdfd-4841-9b2d-7c59404784bd) | [Settings](src/47107a0a-cdfd-4841-9b2d-7c59404784bd/item.json) | JPK: `Joomla---47107a0a_cdfd_4841_9b2d_7c59404784bd---Power`
  - **JUserWrapperHelper** | [Details](src/e38236a2-67c6-4dfd-86d8-649645bfe4fd) | [Settings](src/e38236a2-67c6-4dfd-86d8-649645bfe4fd/item.json) | JPK: `Joomla---e38236a2_67c6_4dfd_86d8_649645bfe4fd---Power`
  - **JUtility** | [Details](src/0823882c-5fc2-4c6a-ac6d-6e35e85067af) | [Settings](src/0823882c-5fc2-4c6a-ac6d-6e35e85067af/item.json) | JPK: `Joomla---0823882c_5fc2_4c6a_ac6d_6e35e85067af---Power`
+ - **JVersion** | [Details](src/703937e1-abd9-4373-8c5c-07e29ea4b2c5) | [Settings](src/703937e1-abd9-4373-8c5c-07e29ea4b2c5/item.json) | JPK: `Joomla---703937e1_abd9_4373_8c5c_07e29ea4b2c5---Power`
 > remember to replace the `---` with `___` in the JPK to activate that Joomla! Power in your code
 
 ---
