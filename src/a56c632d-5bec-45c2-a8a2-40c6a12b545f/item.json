@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldCategory",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\CategoryField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "a56c632d-5bec-45c2-a8a2-40c6a12b545f",
+    "description": ""
+}
