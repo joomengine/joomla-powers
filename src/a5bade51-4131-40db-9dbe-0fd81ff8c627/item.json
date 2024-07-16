@@ -1,0 +1,11 @@
+{
+    "system_name": "JDatabaseExporterMysqli",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Database\\Mysqli\\MysqliExporter",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "a5bade51-4131-40db-9dbe-0fd81ff8c627",
+    "description": ""
+}
