@@ -1,0 +1,11 @@
+{
+    "system_name": "JModelForm",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\MVC\\Model\\FormModel",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "d1cd87a5-84d4-4068-929d-a431caaa3106",
+    "description": ""
+}
