@@ -1,0 +1,11 @@
+{
+    "system_name": "JDocumentRendererHtmlModule",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Document\\Renderer\\Html\\ModuleRenderer",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "2cae3c40-1f83-449e-92e8-3ef7a073694e",
+    "description": ""
+}
