@@ -1,0 +1,11 @@
+{
+    "system_name": "JCacheControllerPage",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Cache\\Controller\\PageController",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "644a3808-a1af-45fc-945f-4a6b7a8a14a0",
+    "description": ""
+}
