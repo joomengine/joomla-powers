@@ -1,0 +1,11 @@
+{
+    "system_name": "JDatabaseImporter",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Database\\DatabaseImporter",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "837bb77a-c85b-480d-ae8c-93c95e9c34d0",
+    "description": ""
+}
