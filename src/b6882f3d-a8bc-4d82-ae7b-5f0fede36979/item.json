@@ -1,0 +1,11 @@
+{
+    "system_name": "JStringPunycode",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\String\\PunycodeHelper",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "b6882f3d-a8bc-4d82-ae7b-5f0fede36979",
+    "description": ""
+}
