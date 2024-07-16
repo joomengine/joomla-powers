@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldRedirect_Status",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\RedirectStatusField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "ddfd9953-12b5-457d-b0f4-ee3f4037f1c8",
+    "description": ""
+}
