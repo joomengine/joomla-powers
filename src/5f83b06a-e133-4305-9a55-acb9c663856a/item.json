@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldCheckbox",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\CheckboxField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "5f83b06a-e133-4305-9a55-acb9c663856a",
+    "description": ""
+}
