@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldTemplatestyle",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\TemplatestyleField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "81400858-9b44-4899-beaf-34932880e62d",
+    "description": ""
+}
