@@ -1,0 +1,11 @@
+{
+    "system_name": "JMenu",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Menu\\AbstractMenu",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "d7168e2e-eda9-43b5-8b90-fb488ff39d81",
+    "description": ""
+}
