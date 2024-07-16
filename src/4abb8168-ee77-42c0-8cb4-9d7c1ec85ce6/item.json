@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldRange",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\RangeField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "4abb8168-ee77-42c0-8cb4-9d7c1ec85ce6",
+    "description": ""
+}
