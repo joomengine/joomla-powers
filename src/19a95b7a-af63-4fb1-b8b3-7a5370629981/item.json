@@ -1,0 +1,15 @@
+{
+    "system_name": "JCryptKey",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Crypt\\Key",
+            "joomla_version": "3"
+        },
+        "settings1": {
+            "namespace": "Joomla\\Crypt\\Key",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "19a95b7a-af63-4fb1-b8b3-7a5370629981",
+    "description": ""
+}
