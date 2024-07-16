@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormRuleCalendar",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Rule\\CalendarRule",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "a0d9471b-b7f2-4878-9d0d-cf1aa2554cd0",
+    "description": ""
+}
