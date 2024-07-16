@@ -1,0 +1,11 @@
+{
+    "system_name": "JTableLanguage",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Table\\Language",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "c216b7ff-40cb-49be-a9ea-83d7cd5f7efe",
+    "description": ""
+}
