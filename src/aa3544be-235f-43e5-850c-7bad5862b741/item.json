@@ -1,0 +1,11 @@
+{
+    "system_name": "JHtmlContent",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\HTML\\Helpers\\Content",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "aa3544be-235f-43e5-850c-7bad5862b741",
+    "description": ""
+}
