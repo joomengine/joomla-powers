@@ -1,0 +1,11 @@
+{
+    "system_name": "JTableAsset",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Table\\Asset",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "ad69bc17-d1e6-4eb9-a67f-158da8586b43",
+    "description": ""
+}
