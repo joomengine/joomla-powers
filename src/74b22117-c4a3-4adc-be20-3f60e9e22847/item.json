@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldModulePosition",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\ModulepositionField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "74b22117-c4a3-4adc-be20-3f60e9e22847",
+    "description": ""
+}
