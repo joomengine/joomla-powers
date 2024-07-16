@@ -1,0 +1,11 @@
+{
+    "system_name": "JComponentRouterViewconfiguration",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Component\\Router\\RouterViewConfiguration",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "7bbeef79-a79c-4a1d-8a46-e2063136a648",
+    "description": ""
+}
