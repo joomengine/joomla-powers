@@ -1,0 +1,11 @@
+{
+    "system_name": "JOpenSearchImage",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Document\\Opensearch\\OpensearchImage",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "e0870b1b-8df0-4a63-955a-6edcffb8f95c",
+    "description": ""
+}
