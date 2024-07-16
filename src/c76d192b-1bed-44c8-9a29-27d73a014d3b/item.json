@@ -1,0 +1,11 @@
+{
+    "system_name": "JLanguageStemmer",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Language\\LanguageStemmer",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "c76d192b-1bed-44c8-9a29-27d73a014d3b",
+    "description": ""
+}
