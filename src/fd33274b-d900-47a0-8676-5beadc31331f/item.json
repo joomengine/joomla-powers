@@ -1,0 +1,11 @@
+{
+    "system_name": "JAccessWrapperAccess",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Access\\Wrapper\\Access",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "fd33274b-d900-47a0-8676-5beadc31331f",
+    "description": ""
+}
