@@ -1,0 +1,11 @@
+{
+    "system_name": "JRouterAdministrator",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Router\\AdministratorRouter",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "f76b5c78-317a-4938-92ce-20d4c97cbabc",
+    "description": ""
+}
