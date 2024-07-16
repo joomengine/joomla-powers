@@ -1,0 +1,11 @@
+{
+    "system_name": "JDatabaseDriverMysqli",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Database\\Mysqli\\MysqliDriver",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "c8bd9af6-7821-4a12-b7bf-f04b492e03c3",
+    "description": ""
+}
