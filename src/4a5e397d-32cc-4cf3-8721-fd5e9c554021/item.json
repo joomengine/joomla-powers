@@ -1,0 +1,11 @@
+{
+    "system_name": "JCryptPasswordSimple",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Crypt\\Password\\SimpleCryptPassword",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "4a5e397d-32cc-4cf3-8721-fd5e9c554021",
+    "description": ""
+}
