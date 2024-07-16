@@ -1,0 +1,11 @@
+{
+    "system_name": "JInstallerScript",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Installer\\InstallerScript",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "8072b858-8ce5-4b41-b44f-3ecb8eff1a99",
+    "description": ""
+}
