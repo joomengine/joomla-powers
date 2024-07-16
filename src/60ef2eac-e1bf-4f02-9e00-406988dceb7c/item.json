@@ -1,0 +1,11 @@
+{
+    "system_name": "JComponentRouterInterface",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Component\\Router\\RouterInterface",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "60ef2eac-e1bf-4f02-9e00-406988dceb7c",
+    "description": ""
+}
