@@ -1,0 +1,11 @@
+{
+    "system_name": "JApplicationSite",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Application\\SiteApplication",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "f82894b5-d83a-4f44-a921-08848bae979c",
+    "description": ""
+}
