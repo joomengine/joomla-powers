@@ -1,0 +1,11 @@
+{
+    "system_name": "JHelperTags",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Helper\\TagsHelper",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "9726b24c-d6e2-4e5c-bbf6-fc4aeb9616be",
+    "description": ""
+}
