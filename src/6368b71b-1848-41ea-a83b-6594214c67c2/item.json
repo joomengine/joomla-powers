@@ -1,0 +1,11 @@
+{
+    "system_name": "JUpdateAdapter",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Updater\\UpdateAdapter",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "6368b71b-1848-41ea-a83b-6594214c67c2",
+    "description": ""
+}
