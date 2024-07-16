@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldSubform",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\SubformField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "b3319bad-a2b4-4762-af28-7942bea822bd",
+    "description": ""
+}
