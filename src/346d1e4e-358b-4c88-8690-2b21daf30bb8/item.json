@@ -1,0 +1,11 @@
+{
+    "system_name": "JCacheStorageApc",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Cache\\Storage\\ApcStorage",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "346d1e4e-358b-4c88-8690-2b21daf30bb8",
+    "description": ""
+}
