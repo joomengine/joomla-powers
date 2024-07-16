@@ -1,0 +1,11 @@
+{
+    "system_name": "JDatabaseExporter",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Database\\DatabaseExporter",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "ed39669e-c163-43c7-b942-2aa16f0bcebd",
+    "description": ""
+}
