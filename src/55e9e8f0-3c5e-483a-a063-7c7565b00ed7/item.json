@@ -1,0 +1,11 @@
+{
+    "system_name": "JFile",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Filesystem\\File",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "55e9e8f0-3c5e-483a-a063-7c7565b00ed7",
+    "description": ""
+}
