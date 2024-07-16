@@ -1,0 +1,11 @@
+{
+    "system_name": "JDataDumpable",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Data\\DumpableInterface",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "5ca5e9c5-21c0-4702-af46-f42f2d7ffc4f",
+    "description": ""
+}
