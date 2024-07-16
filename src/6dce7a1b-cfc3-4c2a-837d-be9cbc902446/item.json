@@ -1,0 +1,11 @@
+{
+    "system_name": "JModelLegacy",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\MVC\\Model\\BaseDatabaseModel",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "6dce7a1b-cfc3-4c2a-837d-be9cbc902446",
+    "description": ""
+}
