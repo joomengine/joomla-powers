@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldLanguage",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\LanguageField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "fa54b2bf-61fd-401e-8e89-96adb3d919bf",
+    "description": ""
+}
