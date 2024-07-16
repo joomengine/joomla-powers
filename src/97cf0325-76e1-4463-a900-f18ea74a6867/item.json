@@ -1,0 +1,11 @@
+{
+    "system_name": "JMenuItem",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Menu\\MenuItem",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "97cf0325-76e1-4463-a900-f18ea74a6867",
+    "description": ""
+}
