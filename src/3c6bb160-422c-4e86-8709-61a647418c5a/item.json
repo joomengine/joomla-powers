@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldEditor",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\EditorField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "3c6bb160-422c-4e86-8709-61a647418c5a",
+    "description": ""
+}
