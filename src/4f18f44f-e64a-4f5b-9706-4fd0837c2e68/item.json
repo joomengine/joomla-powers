@@ -1,0 +1,11 @@
+{
+    "system_name": "JRouterSite",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Router\\SiteRouter",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "4f18f44f-e64a-4f5b-9706-4fd0837c2e68",
+    "description": ""
+}
