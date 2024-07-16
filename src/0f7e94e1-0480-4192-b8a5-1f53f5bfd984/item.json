@@ -1,0 +1,11 @@
+{
+    "system_name": "JToolbarButtonCustom",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Toolbar\\Button\\CustomButton",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "0f7e94e1-0480-4192-b8a5-1f53f5bfd984",
+    "description": ""
+}
