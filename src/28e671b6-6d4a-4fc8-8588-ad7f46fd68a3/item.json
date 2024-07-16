@@ -1,0 +1,11 @@
+{
+    "system_name": "JRegistryFormatPhp",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Registry\\Format\\Php",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "28e671b6-6d4a-4fc8-8588-ad7f46fd68a3",
+    "description": ""
+}
