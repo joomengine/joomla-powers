@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldAccessLevel",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\AccesslevelField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "8af6f6e0-7fe4-40f4-be49-d40e2bed9570",
+    "description": ""
+}
