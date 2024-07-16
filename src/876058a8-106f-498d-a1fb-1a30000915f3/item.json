@@ -1,0 +1,11 @@
+{
+    "system_name": "JDocumentRendererHead",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Document\\Renderer\\Html\\HeadRenderer",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "876058a8-106f-498d-a1fb-1a30000915f3",
+    "description": ""
+}
