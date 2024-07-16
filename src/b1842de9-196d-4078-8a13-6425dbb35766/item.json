@@ -1,0 +1,11 @@
+{
+    "system_name": "JLogLoggerSyslog",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Log\\Logger\\SyslogLogger",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "b1842de9-196d-4078-8a13-6425dbb35766",
+    "description": ""
+}
