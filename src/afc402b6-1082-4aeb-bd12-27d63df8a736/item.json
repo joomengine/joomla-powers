@@ -1,0 +1,11 @@
+{
+    "system_name": "JModelList",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\MVC\\Model\\ListModel",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "afc402b6-1082-4aeb-bd12-27d63df8a736",
+    "description": ""
+}
