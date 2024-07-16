@@ -1,0 +1,11 @@
+{
+    "system_name": "JInstallerLanguage",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Installer\\Adapter\\LanguageAdapter",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "3c1658da-be38-4d96-bdc7-cfe5769ca9a7",
+    "description": ""
+}
