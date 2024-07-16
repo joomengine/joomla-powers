@@ -1,0 +1,11 @@
+{
+    "system_name": "JCryptCipherSodium",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Crypt\\Cipher\\SodiumCipher",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "2a5ea144-20f9-4ce6-b0ea-193dd7292e1b",
+    "description": ""
+}
