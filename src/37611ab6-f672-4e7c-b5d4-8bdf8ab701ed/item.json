@@ -1,0 +1,11 @@
+{
+    "system_name": "JMenuAdministrator",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Menu\\AdministratorMenu",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "37611ab6-f672-4e7c-b5d4-8bdf8ab701ed",
+    "description": ""
+}
