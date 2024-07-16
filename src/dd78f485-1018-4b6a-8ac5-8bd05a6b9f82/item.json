@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormWrapper",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\FormWrapper",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "dd78f485-1018-4b6a-8ac5-8bd05a6b9f82",
+    "description": ""
+}
