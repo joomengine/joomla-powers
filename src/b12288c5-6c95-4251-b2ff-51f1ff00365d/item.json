@@ -1,0 +1,11 @@
+{
+    "system_name": "JPaginationObject",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Pagination\\PaginationObject",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "b12288c5-6c95-4251-b2ff-51f1ff00365d",
+    "description": ""
+}
