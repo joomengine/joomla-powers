@@ -1,0 +1,11 @@
+{
+    "system_name": "JTableUcm",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Table\\Ucm",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "eb18f368-4122-42ee-95ab-95ec78dc0c19",
+    "description": ""
+}
