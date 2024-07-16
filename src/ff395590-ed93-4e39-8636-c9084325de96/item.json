@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldFileList",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\FilelistField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "ff395590-ed93-4e39-8636-c9084325de96",
+    "description": ""
+}
