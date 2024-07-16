@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldContenttype",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\ContenttypeField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "92f8e58c-29b7-44b2-8be7-76b7a403591b",
+    "description": ""
+}
