@@ -1,0 +1,11 @@
+{
+    "system_name": "JCacheStorageCachelite",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Cache\\Storage\\CacheliteStorage",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "d35e8d75-e238-49a9-9e88-442339def271",
+    "description": ""
+}
