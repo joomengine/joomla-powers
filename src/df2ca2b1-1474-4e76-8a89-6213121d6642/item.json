@@ -1,0 +1,11 @@
+{
+    "system_name": "JDocumentJson",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Document\\JsonDocument",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "df2ca2b1-1474-4e76-8a89-6213121d6642",
+    "description": ""
+}
