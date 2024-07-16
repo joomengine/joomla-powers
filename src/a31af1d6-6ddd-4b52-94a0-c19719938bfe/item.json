@@ -1,0 +1,15 @@
+{
+    "system_name": "JImageFilterBrightness",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Image\\Filter\\Brightness",
+            "joomla_version": "3"
+        },
+        "settings1": {
+            "namespace": "Joomla\\CMS\\Image\\Filter\\Brightness",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "a31af1d6-6ddd-4b52-94a0-c19719938bfe",
+    "description": ""
+}
