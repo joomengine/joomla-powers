@@ -1,0 +1,11 @@
+{
+    "system_name": "JRegistryFormatXml",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Registry\\Format\\Xml",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "8ae32459-1a0a-4e07-97a5-e1e7aed6e311",
+    "description": ""
+}
