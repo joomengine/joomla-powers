@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldMeter",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\MeterField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "d9b4d9a1-f6e5-46ef-ac46-6f91969a4139",
+    "description": ""
+}
