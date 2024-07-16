@@ -1,0 +1,11 @@
+{
+    "system_name": "JLayoutHelper",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Layout\\LayoutHelper",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "7ab82272-0b3d-4bb1-af35-e63a096cfe0b",
+    "description": "Helper to render a Layout object, storing a base path"
+}
