@@ -1,0 +1,11 @@
+{
+    "system_name": "JDatabaseExceptionConnecting",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Database\\Exception\\ConnectionFailureException",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "4ea4e196-9c69-4eb1-ae7e-d09d8b1a9bed",
+    "description": ""
+}
