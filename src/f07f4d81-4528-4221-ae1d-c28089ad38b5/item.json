@@ -1,0 +1,11 @@
+{
+    "system_name": "JHtmlForm",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\HTML\\Helpers\\Form",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "f07f4d81-4528-4221-ae1d-c28089ad38b5",
+    "description": ""
+}
