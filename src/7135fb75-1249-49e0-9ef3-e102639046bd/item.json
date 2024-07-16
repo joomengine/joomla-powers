@@ -1,0 +1,11 @@
+{
+    "system_name": "JCacheStorageWincache",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Cache\\Storage\\WincacheStorage",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "7135fb75-1249-49e0-9ef3-e102639046bd",
+    "description": ""
+}
