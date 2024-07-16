@@ -1,0 +1,11 @@
+{
+    "system_name": "JBuffer",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Utility\\BufferStreamHandler",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "3970e758-a029-48c3-87df-5898010963ba",
+    "description": ""
+}
