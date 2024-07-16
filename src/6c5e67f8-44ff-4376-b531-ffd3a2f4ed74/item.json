@@ -1,0 +1,11 @@
+{
+    "system_name": "JFilterOutput",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Filter\\OutputFilter",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "6c5e67f8-44ff-4376-b531-ffd3a2f4ed74",
+    "description": ""
+}
