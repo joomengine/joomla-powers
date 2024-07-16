@@ -1,0 +1,11 @@
+{
+    "system_name": "JCategoryNode",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Categories\\CategoryNode",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "504a968d-6621-4c8e-b0a3-d9da70d2e00c",
+    "description": ""
+}
