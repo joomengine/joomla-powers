@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldCalendar",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\CalendarField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "80a6e469-8999-414c-b292-debcdbc41815",
+    "description": ""
+}
