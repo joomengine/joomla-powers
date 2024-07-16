@@ -1,0 +1,11 @@
+{
+    "system_name": "JStringNormalise",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\String\\Normalise",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "acb6d6f1-44b2-43ae-88d0-17c5f1fc5ff7",
+    "description": ""
+}
