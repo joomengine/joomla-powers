@@ -1,0 +1,11 @@
+{
+    "system_name": "JDatabaseQueryElement",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Database\\Query\\QueryElement",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "e5a0df6b-c0a7-485e-acee-091d8c610fc1",
+    "description": ""
+}
