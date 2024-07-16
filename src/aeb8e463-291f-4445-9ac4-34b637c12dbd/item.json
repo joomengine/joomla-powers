@@ -1,0 +1,11 @@
+{
+    "system_name": "JComponentHelper",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Component\\ComponentHelper",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "aeb8e463-291f-4445-9ac4-34b637c12dbd",
+    "description": "The Joomla core component helper class."
+}
