@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldSQL",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\SqlField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "1afe394e-e066-4f96-98c0-d78f38d66638",
+    "description": ""
+}
