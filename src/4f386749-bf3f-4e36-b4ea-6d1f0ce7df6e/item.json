@@ -1,0 +1,11 @@
+{
+    "system_name": "JCacheControllerOutput",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Cache\\Controller\\OutputController",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "4f386749-bf3f-4e36-b4ea-6d1f0ce7df6e",
+    "description": ""
+}
