@@ -1,0 +1,11 @@
+{
+    "system_name": "JHtmlFormbehavior",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\HTML\\Helpers\\FormBehavior",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "46d11f95-d0cb-48a0-bf44-eb5985f81395",
+    "description": ""
+}
