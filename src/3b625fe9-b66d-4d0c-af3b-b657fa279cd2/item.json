@@ -1,0 +1,11 @@
+{
+    "system_name": "JStream",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Filesystem\\Stream",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "3b625fe9-b66d-4d0c-af3b-b657fa279cd2",
+    "description": ""
+}
