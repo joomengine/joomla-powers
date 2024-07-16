@@ -1,0 +1,11 @@
+{
+    "system_name": "JPath",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Filesystem\\Path",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "97b81dcd-93cb-4b52-804a-23f2af8d0e2d",
+    "description": ""
+}
