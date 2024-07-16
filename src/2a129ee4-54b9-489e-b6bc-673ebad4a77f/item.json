@@ -1,0 +1,11 @@
+{
+    "system_name": "JApplicationCli",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Application\\CliApplication",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "2a129ee4-54b9-489e-b6bc-673ebad4a77f",
+    "description": ""
+}
