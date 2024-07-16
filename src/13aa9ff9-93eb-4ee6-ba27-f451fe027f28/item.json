@@ -1,0 +1,11 @@
+{
+    "system_name": "JToolbarButtonSlider",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Toolbar\\Button\\SliderButton",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "13aa9ff9-93eb-4ee6-ba27-f451fe027f28",
+    "description": ""
+}
