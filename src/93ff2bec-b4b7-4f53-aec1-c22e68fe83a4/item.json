@@ -1,0 +1,11 @@
+{
+    "system_name": "JClientLdap",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Ldap\\LdapClient",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "93ff2bec-b4b7-4f53-aec1-c22e68fe83a4",
+    "description": ""
+}
