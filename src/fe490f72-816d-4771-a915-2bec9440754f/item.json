@@ -1,0 +1,11 @@
+{
+    "system_name": "JToolbarButtonStandard",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Toolbar\\Button\\StandardButton",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "fe490f72-816d-4771-a915-2bec9440754f",
+    "description": ""
+}
