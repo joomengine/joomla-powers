@@ -1,0 +1,11 @@
+{
+    "system_name": "JHtmlAdminLanguage",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\HTML\\Helpers\\AdminLanguage",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "2f610b1b-799e-4318-8e05-efaa3aa3de0b",
+    "description": ""
+}
