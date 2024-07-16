@@ -1,0 +1,11 @@
+{
+    "system_name": "JTableCorecontent",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Table\\CoreContent",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "3a4f6683-b71a-4539-80fc-a4150a64e4f8",
+    "description": ""
+}
