@@ -1,0 +1,11 @@
+{
+    "system_name": "JHtmlNumber",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\HTML\\Helpers\\Number",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "4cd834ca-7b73-4105-9058-28fd15a1605e",
+    "description": ""
+}
