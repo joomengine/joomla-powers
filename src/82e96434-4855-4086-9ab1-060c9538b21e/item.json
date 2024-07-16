@@ -1,0 +1,11 @@
+{
+    "system_name": "JHttpTransportStream",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Http\\Transport\\StreamTransport",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "82e96434-4855-4086-9ab1-060c9538b21e",
+    "description": ""
+}
