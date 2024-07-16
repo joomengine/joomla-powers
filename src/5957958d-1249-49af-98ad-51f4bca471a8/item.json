@@ -1,0 +1,11 @@
+{
+    "system_name": "JImage",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Image\\Image",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "5957958d-1249-49af-98ad-51f4bca471a8",
+    "description": ""
+}
