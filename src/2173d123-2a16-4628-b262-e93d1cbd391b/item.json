@@ -1,0 +1,11 @@
+{
+    "system_name": "JTableContenthistory",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Table\\ContentHistory",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "2173d123-2a16-4628-b262-e93d1cbd391b",
+    "description": ""
+}
