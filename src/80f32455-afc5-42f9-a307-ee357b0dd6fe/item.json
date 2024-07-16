@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldCacheHandler",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\CachehandlerField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "80f32455-afc5-42f9-a307-ee357b0dd6fe",
+    "description": ""
+}
