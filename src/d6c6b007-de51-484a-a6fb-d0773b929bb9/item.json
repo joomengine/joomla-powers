@@ -1,0 +1,11 @@
+{
+    "system_name": "JHttpFactory",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Http\\HttpFactory",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "d6c6b007-de51-484a-a6fb-d0773b929bb9",
+    "description": ""
+}
