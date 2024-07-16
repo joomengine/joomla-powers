@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormRule",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\FormRule",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "7c931501-6650-4efd-be81-ccdbbef8f372",
+    "description": ""
+}
