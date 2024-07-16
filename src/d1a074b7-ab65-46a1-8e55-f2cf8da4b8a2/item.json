@@ -1,0 +1,11 @@
+{
+    "system_name": "JHtmlCategory",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\HTML\\Helpers\\Category",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "d1a074b7-ab65-46a1-8e55-f2cf8da4b8a2",
+    "description": ""
+}
