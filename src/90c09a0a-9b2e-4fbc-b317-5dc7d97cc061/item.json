@@ -1,0 +1,11 @@
+{
+    "system_name": "JProfiler",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Profiler\\Profiler",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "90c09a0a-9b2e-4fbc-b317-5dc7d97cc061",
+    "description": ""
+}
