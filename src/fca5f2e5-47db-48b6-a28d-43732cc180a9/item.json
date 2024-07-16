@@ -1,0 +1,11 @@
+{
+    "system_name": "JImageFilterSketchy",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Image\\Filter\\Sketchy",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "fca5f2e5-47db-48b6-a28d-43732cc180a9",
+    "description": ""
+}
