@@ -1,0 +1,11 @@
+{
+    "system_name": "JDatabaseQuerySqlsrv",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Database\\Sqlsrv\\SqlsrvQuery",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "5e22cd09-33e9-43d7-8cfa-3225822296a1",
+    "description": ""
+}
