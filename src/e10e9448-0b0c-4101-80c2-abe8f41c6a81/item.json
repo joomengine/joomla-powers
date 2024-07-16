@@ -1,0 +1,11 @@
+{
+    "system_name": "JHtmlTag",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\HTML\\Helpers\\Tag",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "e10e9448-0b0c-4101-80c2-abe8f41c6a81",
+    "description": ""
+}
