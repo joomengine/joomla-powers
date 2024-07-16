@@ -1,0 +1,11 @@
+{
+    "system_name": "JLayoutBase",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Layout\\BaseLayout",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "6014e278-94ca-4a20-9118-deae8bb0ddc9",
+    "description": ""
+}
