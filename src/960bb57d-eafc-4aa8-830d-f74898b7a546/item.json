@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldList",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\ListField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "960bb57d-eafc-4aa8-830d-f74898b7a546",
+    "description": ""
+}
