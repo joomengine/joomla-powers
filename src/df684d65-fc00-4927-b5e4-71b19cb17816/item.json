@@ -1,0 +1,11 @@
+{
+    "system_name": "JModelItem",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\MVC\\Model\\ItemModel",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "df684d65-fc00-4927-b5e4-71b19cb17816",
+    "description": ""
+}
