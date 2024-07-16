@@ -1,0 +1,11 @@
+{
+    "system_name": "JDatabaseExporterPgsql",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Database\\Pgsql\\PgsqlExporter",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "3ae5f3d6-5916-4319-983f-193654d9a821",
+    "description": ""
+}
