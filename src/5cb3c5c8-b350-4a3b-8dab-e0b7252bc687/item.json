@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormRuleNotequals",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Rule\\NotequalsRule",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "5cb3c5c8-b350-4a3b-8dab-e0b7252bc687",
+    "description": ""
+}
