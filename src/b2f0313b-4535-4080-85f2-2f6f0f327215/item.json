@@ -1,0 +1,11 @@
+{
+    "system_name": "JHelperMedia",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Helper\\MediaHelper",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "b2f0313b-4535-4080-85f2-2f6f0f327215",
+    "description": ""
+}
