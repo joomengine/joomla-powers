@@ -1,0 +1,11 @@
+{
+    "system_name": "JRegistryFormat",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Registry\\AbstractRegistryFormat",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "c2ec5cd7-4272-42de-820a-277a935981ed",
+    "description": ""
+}
