@@ -1,0 +1,11 @@
+{
+    "system_name": "JMicrodata",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Microdata\\Microdata",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "c8219b24-374a-4cb3-8faf-3c23b129ceba",
+    "description": ""
+}
