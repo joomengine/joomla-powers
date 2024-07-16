@@ -1,0 +1,11 @@
+{
+    "system_name": "JAdapterInstance",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Adapter\\AdapterInstance",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "ae56c9d7-2c2a-446a-a4b0-9f979da47f3b",
+    "description": ""
+}
