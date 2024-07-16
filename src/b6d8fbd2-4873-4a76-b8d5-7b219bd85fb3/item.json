@@ -1,0 +1,11 @@
+{
+    "system_name": "JFeedImage",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Document\\Feed\\FeedImage",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "b6d8fbd2-4873-4a76-b8d5-7b219bd85fb3",
+    "description": ""
+}
