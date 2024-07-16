@@ -1,0 +1,11 @@
+{
+    "system_name": "JFeedEntry",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Feed\\FeedEntry",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "83c45c5a-51b7-4475-a91b-693a1ce519c3",
+    "description": ""
+}
