@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldAliastag",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\AliastagField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "5d897103-1522-48b9-aa85-bae53e1160f5",
+    "description": ""
+}
