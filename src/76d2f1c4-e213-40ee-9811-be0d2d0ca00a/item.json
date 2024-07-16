@@ -1,0 +1,15 @@
+{
+    "system_name": "JCryptCipher",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Crypt\\CipherInterface",
+            "joomla_version": "3"
+        },
+        "settings1": {
+            "namespace": "Joomla\\Crypt\\CipherInterface",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "76d2f1c4-e213-40ee-9811-be0d2d0ca00a",
+    "description": ""
+}
