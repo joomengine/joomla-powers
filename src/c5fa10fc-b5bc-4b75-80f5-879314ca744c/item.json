@@ -1,0 +1,15 @@
+{
+    "system_name": "JImageFilterBackgroundfill",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Image\\Filter\\Backgroundfill",
+            "joomla_version": "3"
+        },
+        "settings1": {
+            "namespace": "Joomla\\CMS\\Image\\Filter\\Backgroundfill",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "c5fa10fc-b5bc-4b75-80f5-879314ca744c",
+    "description": ""
+}
