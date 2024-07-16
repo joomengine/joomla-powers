@@ -1,0 +1,11 @@
+{
+    "system_name": "JLanguageWrapperText",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Language\\Wrapper\\JTextWrapper",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "f9b5df00-4690-4ae7-99f2-30bd05a5ad9b",
+    "description": ""
+}
