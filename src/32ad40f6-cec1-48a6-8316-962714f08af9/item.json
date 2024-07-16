@@ -1,0 +1,11 @@
+{
+    "system_name": "JWebClient",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Application\\Web\\WebClient",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "32ad40f6-cec1-48a6-8316-962714f08af9",
+    "description": ""
+}
