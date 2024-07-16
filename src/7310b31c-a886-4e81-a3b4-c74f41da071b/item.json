@@ -1,0 +1,11 @@
+{
+    "system_name": "JFeedItem",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Document\\Feed\\FeedItem",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "7310b31c-a886-4e81-a3b4-c74f41da071b",
+    "description": ""
+}
