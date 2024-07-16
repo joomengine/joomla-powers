@@ -1,0 +1,11 @@
+{
+    "system_name": "JModuleHelper",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Helper\\ModuleHelper",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "f15d556d-33dd-4ee3-a0f7-0653e4a7a1e4",
+    "description": ""
+}
