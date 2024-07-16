@@ -1,0 +1,11 @@
+{
+    "system_name": "JHtmlTel",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\HTML\\Helpers\\Telephone",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "80303734-98f9-4436-8e57-e73542abf4c1",
+    "description": ""
+}
