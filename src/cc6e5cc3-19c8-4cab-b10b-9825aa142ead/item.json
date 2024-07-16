@@ -1,0 +1,11 @@
+{
+    "system_name": "JDatabaseImporterMysqli",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Database\\Mysqli\\MysqliImporter",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "cc6e5cc3-19c8-4cab-b10b-9825aa142ead",
+    "description": ""
+}
