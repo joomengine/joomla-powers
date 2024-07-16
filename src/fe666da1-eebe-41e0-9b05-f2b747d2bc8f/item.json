@@ -1,0 +1,11 @@
+{
+    "system_name": "JDatabaseFactory",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Database\\DatabaseFactory",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "fe666da1-eebe-41e0-9b05-f2b747d2bc8f",
+    "description": ""
+}
