@@ -1,0 +1,11 @@
+{
+    "system_name": "JHtml",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\HTML\\HTMLHelper",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "34690c75-1090-47eb-8c06-7228dc7eedd6",
+    "description": "Utility class for all HTML drawing classes"
+}
