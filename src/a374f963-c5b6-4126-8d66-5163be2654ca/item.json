@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldModuletag",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\ModuletagField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "a374f963-c5b6-4126-8d66-5163be2654ca",
+    "description": ""
+}
