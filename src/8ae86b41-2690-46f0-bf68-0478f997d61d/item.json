@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormField",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\FormField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "8ae86b41-2690-46f0-bf68-0478f997d61d",
+    "description": ""
+}
