@@ -1,0 +1,11 @@
+{
+    "system_name": "JOpenSearchUrl",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Document\\Opensearch\\OpensearchUrl",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "be23edb4-a948-46ea-aa4d-06a5d176d184",
+    "description": ""
+}
