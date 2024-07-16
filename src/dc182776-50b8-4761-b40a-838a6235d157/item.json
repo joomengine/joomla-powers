@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldMenuitem",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\MenuitemField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "dc182776-50b8-4761-b40a-838a6235d157",
+    "description": ""
+}
