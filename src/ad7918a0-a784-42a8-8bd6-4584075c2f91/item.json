@@ -1,0 +1,11 @@
+{
+    "system_name": "JDocumentXml",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Document\\XmlDocument",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "ad7918a0-a784-42a8-8bd6-4584075c2f91",
+    "description": ""
+}
