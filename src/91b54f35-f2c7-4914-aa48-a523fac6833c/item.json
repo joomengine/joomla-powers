@@ -1,0 +1,11 @@
+{
+    "system_name": "JTableUsergroup",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Table\\Usergroup",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "91b54f35-f2c7-4914-aa48-a523fac6833c",
+    "description": ""
+}
