@@ -1,0 +1,11 @@
+{
+    "system_name": "JHtmlLinks",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\HTML\\Helpers\\Links",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "3474f0cb-43dc-4e0f-b05d-7ff934d443c7",
+    "description": ""
+}
