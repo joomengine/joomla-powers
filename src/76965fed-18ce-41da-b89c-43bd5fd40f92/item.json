@@ -1,0 +1,11 @@
+{
+    "system_name": "JDatabaseDriverSqlsrv",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Database\\Sqlsrv\\SqlsrvDriver",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "76965fed-18ce-41da-b89c-43bd5fd40f92",
+    "description": ""
+}
