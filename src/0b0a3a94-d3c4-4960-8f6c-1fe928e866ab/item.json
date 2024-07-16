@@ -1,0 +1,11 @@
+{
+    "system_name": "JStringInflector",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\String\\Inflector",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "0b0a3a94-d3c4-4960-8f6c-1fe928e866ab",
+    "description": ""
+}
