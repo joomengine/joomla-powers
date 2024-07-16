@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldTag",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\TagField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "33f12f0a-37d6-4eb8-8c93-a5df4ddf639e",
+    "description": ""
+}
