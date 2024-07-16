@@ -1,0 +1,11 @@
+{
+    "system_name": "JDatabaseQueryPdo",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Database\\Pdo\\PdoQuery",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "943e39bf-87a2-45fa-9fc6-07d784212358",
+    "description": ""
+}
