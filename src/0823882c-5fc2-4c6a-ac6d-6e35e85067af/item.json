@@ -1,0 +1,11 @@
+{
+    "system_name": "JUtility",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Utility\\Utility",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "0823882c-5fc2-4c6a-ac6d-6e35e85067af",
+    "description": ""
+}
