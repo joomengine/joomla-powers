@@ -1,0 +1,11 @@
+{
+    "system_name": "JDatabaseQuerySqlite",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Database\\Sqlite\\SqliteQuery",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "3e3c8caa-822e-4f9f-b395-a14a3f6f31e4",
+    "description": ""
+}
