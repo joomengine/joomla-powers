@@ -1,0 +1,11 @@
+{
+    "system_name": "JDocumentOpensearch",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Document\\OpensearchDocument",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "df1c4e45-d5cd-493b-a7f8-68d5fe257790",
+    "description": ""
+}
