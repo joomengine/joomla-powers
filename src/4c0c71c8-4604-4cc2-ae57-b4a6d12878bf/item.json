@@ -1,0 +1,11 @@
+{
+    "system_name": "JHttpWrapperFactory",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Http\\Wrapper\\FactoryWrapper",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "4c0c71c8-4604-4cc2-ae57-b4a6d12878bf",
+    "description": ""
+}
