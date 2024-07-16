@@ -1,0 +1,11 @@
+{
+    "system_name": "JLDAP",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Ldap\\LdapClient",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "13ff417a-8633-4b8c-949a-97e35a0d03ff",
+    "description": ""
+}
