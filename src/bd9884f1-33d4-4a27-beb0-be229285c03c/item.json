@@ -1,0 +1,11 @@
+{
+    "system_name": "JFeedParserAtom",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Feed\\Parser\\AtomParser",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "bd9884f1-33d4-4a27-beb0-be229285c03c",
+    "description": ""
+}
