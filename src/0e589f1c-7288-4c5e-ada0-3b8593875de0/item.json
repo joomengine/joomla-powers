@@ -1,0 +1,11 @@
+{
+    "system_name": "JClassLoader",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Autoload\\ClassLoader",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "0e589f1c-7288-4c5e-ada0-3b8593875de0",
+    "description": ""
+}
