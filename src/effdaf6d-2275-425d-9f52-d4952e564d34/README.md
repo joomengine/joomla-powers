@@ -8,6 +8,8 @@
 ```
 # JUser
 
+The Joomla CMS User class
+
 The Joomla! Power feature allows you to use Joomla classes in your project without manually managing their namespaces. JCB will automatically add the correct namespaces to your files. If Joomla classes change in future versions, such as from Joomla 3 to 5, JCB will update them for you.
 
 However, if there are breaking changes in function names, you may need to make some manual adjustments. The Joomla Power Key (JPK) helps you easily search for these classes.
