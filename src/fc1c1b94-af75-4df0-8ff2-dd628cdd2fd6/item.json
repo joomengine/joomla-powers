@@ -1,0 +1,15 @@
+{
+    "system_name": "JImageFilterContrast",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Image\\Filter\\Contrast",
+            "joomla_version": "3"
+        },
+        "settings1": {
+            "namespace": "Joomla\\CMS\\Image\\Filter\\Contrast",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "fc1c1b94-af75-4df0-8ff2-dd628cdd2fd6",
+    "description": ""
+}
