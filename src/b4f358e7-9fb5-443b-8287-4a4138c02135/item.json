@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldUserActive",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\UseractiveField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "b4f358e7-9fb5-443b-8287-4a4138c02135",
+    "description": ""
+}
