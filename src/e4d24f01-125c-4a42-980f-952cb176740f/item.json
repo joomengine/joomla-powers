@@ -1,0 +1,11 @@
+{
+    "system_name": "JFeed",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Feed\\Feed",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "e4d24f01-125c-4a42-980f-952cb176740f",
+    "description": ""
+}
