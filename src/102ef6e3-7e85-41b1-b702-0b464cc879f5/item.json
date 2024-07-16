@@ -1,0 +1,11 @@
+{
+    "system_name": "JTableModule",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Table\\Module",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "102ef6e3-7e85-41b1-b702-0b464cc879f5",
+    "description": ""
+}
