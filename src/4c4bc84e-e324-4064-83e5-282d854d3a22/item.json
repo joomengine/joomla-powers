@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldNote",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\NoteField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "4c4bc84e-e324-4064-83e5-282d854d3a22",
+    "description": ""
+}
