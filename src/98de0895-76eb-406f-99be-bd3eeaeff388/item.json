@@ -1,0 +1,11 @@
+{
+    "system_name": "JPlugin",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Plugin\\CMSPlugin",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "98de0895-76eb-406f-99be-bd3eeaeff388",
+    "description": ""
+}
