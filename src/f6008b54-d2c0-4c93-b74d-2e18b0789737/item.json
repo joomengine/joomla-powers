@@ -1,0 +1,11 @@
+{
+    "system_name": "JLogLoggerMessagequeue",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Log\\Logger\\MessagequeueLogger",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "f6008b54-d2c0-4c93-b74d-2e18b0789737",
+    "description": ""
+}
