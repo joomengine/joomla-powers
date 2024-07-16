@@ -1,0 +1,11 @@
+{
+    "system_name": "JRegistryFormatJson",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Registry\\Format\\Json",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "005224a7-00a1-402a-8818-7ccaf7cdf65c",
+    "description": ""
+}
