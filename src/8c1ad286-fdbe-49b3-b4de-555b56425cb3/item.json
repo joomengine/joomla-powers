@@ -1,0 +1,11 @@
+{
+    "system_name": "JHtmlJGrid",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\HTML\\Helpers\\JGrid",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "8c1ad286-fdbe-49b3-b4de-555b56425cb3",
+    "description": ""
+}
