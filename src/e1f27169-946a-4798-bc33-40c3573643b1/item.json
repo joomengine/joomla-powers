@@ -1,0 +1,11 @@
+{
+    "system_name": "JTableNested",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Table\\Nested",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "e1f27169-946a-4798-bc33-40c3573643b1",
+    "description": ""
+}
