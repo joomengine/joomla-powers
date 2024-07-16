@@ -1,0 +1,11 @@
+{
+    "system_name": "JToolbarButtonHelp",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Toolbar\\Button\\HelpButton",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "a8f3658a-8be1-48cd-95ba-4209950046c7",
+    "description": ""
+}
