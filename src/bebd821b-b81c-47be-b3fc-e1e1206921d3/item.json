@@ -1,0 +1,11 @@
+{
+    "system_name": "JTableUpdatesite",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Table\\UpdateSite",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "bebd821b-b81c-47be-b3fc-e1e1206921d3",
+    "description": ""
+}
