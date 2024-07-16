@@ -1,0 +1,11 @@
+{
+    "system_name": "JDate",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Date\\Date",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "3864fa33-ab10-48d5-98ea-5e1397e6a191",
+    "description": "JDate is a class that stores a date and provides logic to manipulate and render that date in a variety of formats."
+}
