@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldNumber",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\NumberField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "e1659b22-2f96-49fa-a26f-84dab3001abe",
+    "description": ""
+}
