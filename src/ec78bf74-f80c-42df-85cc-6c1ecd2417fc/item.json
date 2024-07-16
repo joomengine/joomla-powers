@@ -1,0 +1,11 @@
+{
+    "system_name": "JDatabaseDriver",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Database\\DatabaseDriver",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "ec78bf74-f80c-42df-85cc-6c1ecd2417fc",
+    "description": ""
+}
