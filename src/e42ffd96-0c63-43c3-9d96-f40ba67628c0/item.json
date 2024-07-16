@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldDatabaseConnection",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\DatabaseconnectionField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "e42ffd96-0c63-43c3-9d96-f40ba67628c0",
+    "description": ""
+}
