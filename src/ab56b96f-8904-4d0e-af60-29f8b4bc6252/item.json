@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldModulelayout",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\ModulelayoutField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "ab56b96f-8904-4d0e-af60-29f8b4bc6252",
+    "description": ""
+}
