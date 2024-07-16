@@ -1,0 +1,11 @@
+{
+    "system_name": "JHtmlDropdown",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\HTML\\Helpers\\Dropdown",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "6e5a6bbf-3ae1-4264-b3a6-db6c0b20c048",
+    "description": ""
+}
