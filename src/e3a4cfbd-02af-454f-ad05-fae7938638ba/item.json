@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldAuthor",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\AuthorField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "e3a4cfbd-02af-454f-ad05-fae7938638ba",
+    "description": ""
+}
