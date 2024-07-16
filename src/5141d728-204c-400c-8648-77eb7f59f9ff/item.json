@@ -1,0 +1,11 @@
+{
+    "system_name": "JFeedFactory",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Feed\\FeedFactory",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "5141d728-204c-400c-8648-77eb7f59f9ff",
+    "description": ""
+}
