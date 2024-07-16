@@ -1,0 +1,11 @@
+{
+    "system_name": "JHtmlActionsDropdown",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\HTML\\Helpers\\ActionsDropdown",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "290f32aa-71d4-4ebc-9be5-5f8e305bc7e5",
+    "description": ""
+}
