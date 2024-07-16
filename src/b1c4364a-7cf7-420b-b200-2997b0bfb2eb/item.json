@@ -1,0 +1,11 @@
+{
+    "system_name": "JHtmlDate",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\HTML\\Helpers\\Date",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "b1c4364a-7cf7-420b-b200-2997b0bfb2eb",
+    "description": ""
+}
