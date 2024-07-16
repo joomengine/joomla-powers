@@ -1,0 +1,11 @@
+{
+    "system_name": "JClientFtp",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Client\\FtpClient",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "ba0b2e6c-54c1-472b-8164-2977eff95530",
+    "description": ""
+}
