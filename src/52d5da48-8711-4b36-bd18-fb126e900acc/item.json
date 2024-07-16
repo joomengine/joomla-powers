@@ -1,0 +1,11 @@
+{
+    "system_name": "JErrorPage",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Exception\\ExceptionHandler",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "52d5da48-8711-4b36-bd18-fb126e900acc",
+    "description": ""
+}
