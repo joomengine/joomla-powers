@@ -1,0 +1,11 @@
+{
+    "system_name": "JFeedPerson",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Feed\\FeedPerson",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "5f4d46e9-8f94-44ff-ad76-14477d357f77",
+    "description": ""
+}
