@@ -1,0 +1,11 @@
+{
+    "system_name": "JCache",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Cache\\Cache",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "f3f4adfb-f742-465f-9e8d-3d1615f2a5d6",
+    "description": ""
+}
