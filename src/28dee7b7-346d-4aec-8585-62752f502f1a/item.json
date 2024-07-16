@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFilterInt_Array",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Filter\\IntarrayFilter",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "28dee7b7-346d-4aec-8585-62752f502f1a",
+    "description": ""
+}
