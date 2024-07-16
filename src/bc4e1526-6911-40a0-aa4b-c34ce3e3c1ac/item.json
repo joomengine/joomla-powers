@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldPlugin_Status",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\PluginstatusField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "bc4e1526-6911-40a0-aa4b-c34ce3e3c1ac",
+    "description": ""
+}
