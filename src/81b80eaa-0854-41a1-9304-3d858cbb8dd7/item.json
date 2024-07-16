@@ -1,0 +1,11 @@
+{
+    "system_name": "JComponentRouterRulesMenu",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Component\\Router\\Rules\\MenuRules",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "81b80eaa-0854-41a1-9304-3d858cbb8dd7",
+    "description": ""
+}
