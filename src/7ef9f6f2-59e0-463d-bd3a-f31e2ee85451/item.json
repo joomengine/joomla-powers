@@ -1,0 +1,11 @@
+{
+    "system_name": "JHtmlIcons",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\HTML\\Helpers\\Icons",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "7ef9f6f2-59e0-463d-bd3a-f31e2ee85451",
+    "description": ""
+}
