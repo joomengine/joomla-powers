@@ -1,0 +1,11 @@
+{
+    "system_name": "JUri",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Uri\\Uri",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "eecc143e-b5cf-4c33-ba4d-97da1df61422",
+    "description": "The Joomla core uri class."
+}
