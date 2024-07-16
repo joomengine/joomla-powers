@@ -1,0 +1,11 @@
+{
+    "system_name": "JPluginHelper",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Plugin\\PluginHelper",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "7934665b-e432-4ec6-b38d-27bf32730eb9",
+    "description": ""
+}
