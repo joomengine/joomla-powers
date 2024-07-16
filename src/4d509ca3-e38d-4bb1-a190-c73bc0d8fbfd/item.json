@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldLimitbox",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\LimitboxField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "4d509ca3-e38d-4bb1-a190-c73bc0d8fbfd",
+    "description": ""
+}
