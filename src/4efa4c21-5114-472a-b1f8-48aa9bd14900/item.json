@@ -1,0 +1,11 @@
+{
+    "system_name": "JRouter",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Router\\Router",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "4efa4c21-5114-472a-b1f8-48aa9bd14900",
+    "description": "Class to create and parse routes"
+}
