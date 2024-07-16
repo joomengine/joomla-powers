@@ -1,0 +1,11 @@
+{
+    "system_name": "JHtmlBootstrap",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\HTML\\Helpers\\Bootstrap",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "524a8f19-1be0-44f7-8d8e-024f13919151",
+    "description": ""
+}
