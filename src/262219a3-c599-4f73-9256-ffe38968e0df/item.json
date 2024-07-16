@@ -1,0 +1,11 @@
+{
+    "system_name": "JToolbarButtonConfirm",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Toolbar\\Button\\ConfirmButton",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "262219a3-c599-4f73-9256-ffe38968e0df",
+    "description": ""
+}
