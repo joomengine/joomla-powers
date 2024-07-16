@@ -1,0 +1,11 @@
+{
+    "system_name": "JDatabaseQueryPdomysql",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Database\\Mysql\\MysqlQuery",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "52cd1c83-a2ec-47c6-9c3c-7d316165addc",
+    "description": ""
+}
