@@ -1,0 +1,11 @@
+{
+    "system_name": "JHelperContenthistory",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Helper\\ContentHistoryHelper",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "1cb6e8f7-e3a6-499a-972b-dcfbd9dd1c51",
+    "description": ""
+}
