@@ -1,0 +1,11 @@
+{
+    "system_name": "JSchemaChangeitemMysql",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Schema\\ChangeItem\\MysqlChangeItem",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "1d2df8c9-d6ca-444f-8fa0-c21df077b4e9",
+    "description": ""
+}
