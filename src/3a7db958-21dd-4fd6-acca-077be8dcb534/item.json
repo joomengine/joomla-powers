@@ -1,0 +1,11 @@
+{
+    "system_name": "JDatabaseDriverPgsql",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Database\\Pgsql\\PgsqlDriver",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "3a7db958-21dd-4fd6-acca-077be8dcb534",
+    "description": ""
+}
