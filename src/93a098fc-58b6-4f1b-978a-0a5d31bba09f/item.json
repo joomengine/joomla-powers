@@ -1,0 +1,11 @@
+{
+    "system_name": "JFilesystemHelper",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Filesystem\\FilesystemHelper",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "93a098fc-58b6-4f1b-978a-0a5d31bba09f",
+    "description": ""
+}
