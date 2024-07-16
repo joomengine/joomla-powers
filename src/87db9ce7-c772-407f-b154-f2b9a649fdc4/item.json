@@ -1,0 +1,11 @@
+{
+    "system_name": "JHtmlList",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\HTML\\Helpers\\ListHelper",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "87db9ce7-c772-407f-b154-f2b9a649fdc4",
+    "description": ""
+}
