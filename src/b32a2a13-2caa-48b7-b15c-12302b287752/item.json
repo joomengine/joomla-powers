@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldCaptcha",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\CaptchaField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "b32a2a13-2caa-48b7-b15c-12302b287752",
+    "description": ""
+}
