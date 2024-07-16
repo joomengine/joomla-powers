@@ -1,0 +1,11 @@
+{
+    "system_name": "JClientWrapperHelper",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Client\\ClientWrapper",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "06286fff-ee87-4b45-9f9f-9b77dbf3dde1",
+    "description": ""
+}
