@@ -1,0 +1,11 @@
+{
+    "system_name": "JTableObserverTags",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Table\\Observer\\Tags",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "fe63add8-0a40-4b3d-b548-f735fa6072fb",
+    "description": ""
+}
