@@ -1,0 +1,11 @@
+{
+    "system_name": "JApplicationHelper",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Application\\ApplicationHelper",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "081cdfea-37d6-47d4-a658-ad92e4055da6",
+    "description": ""
+}
