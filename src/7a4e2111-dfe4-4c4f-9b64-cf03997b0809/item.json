@@ -1,0 +1,11 @@
+{
+    "system_name": "JLogLoggerFormattedtext",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Log\\Logger\\FormattedtextLogger",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "7a4e2111-dfe4-4c4f-9b64-cf03997b0809",
+    "description": ""
+}
