@@ -1,0 +1,11 @@
+{
+    "system_name": "JApplicationAdministrator",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Application\\AdministratorApplication",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "038f1396-bba2-4f2c-aad9-94b954fe52f9",
+    "description": ""
+}
