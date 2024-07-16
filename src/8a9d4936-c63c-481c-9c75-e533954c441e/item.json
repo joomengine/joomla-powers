@@ -1,0 +1,11 @@
+{
+    "system_name": "JPathwaySite",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Pathway\\SitePathway",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "8a9d4936-c63c-481c-9c75-e533954c441e",
+    "description": ""
+}
