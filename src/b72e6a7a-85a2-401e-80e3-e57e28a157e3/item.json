@@ -1,0 +1,11 @@
+{
+    "system_name": "JInputJSON",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Input\\Json",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "b72e6a7a-85a2-401e-80e3-e57e28a157e3",
+    "description": ""
+}
