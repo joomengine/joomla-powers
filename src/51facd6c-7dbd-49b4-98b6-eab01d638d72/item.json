@@ -1,0 +1,11 @@
+{
+    "system_name": "JDocumentRaw",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Document\\RawDocument",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "51facd6c-7dbd-49b4-98b6-eab01d638d72",
+    "description": ""
+}
