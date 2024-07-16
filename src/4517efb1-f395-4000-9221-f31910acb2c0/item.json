@@ -1,0 +1,11 @@
+{
+    "system_name": "JSessionExceptionUnsupported",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Session\\Exception\\UnsupportedStorageException",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "4517efb1-f395-4000-9221-f31910acb2c0",
+    "description": ""
+}
