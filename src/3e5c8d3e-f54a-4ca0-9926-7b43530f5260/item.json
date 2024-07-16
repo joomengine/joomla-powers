@@ -1,0 +1,11 @@
+{
+    "system_name": "JImageFilter",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Image\\ImageFilter",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "3e5c8d3e-f54a-4ca0-9926-7b43530f5260",
+    "description": ""
+}
