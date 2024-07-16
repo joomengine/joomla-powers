@@ -1,0 +1,11 @@
+{
+    "system_name": "JFilterInput",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Filter\\InputFilter",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "193deb3e-0c3e-4610-8e55-450e463095b4",
+    "description": ""
+}
