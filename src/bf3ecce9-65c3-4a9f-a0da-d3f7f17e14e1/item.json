@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldHelpsite",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\HelpsiteField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "bf3ecce9-65c3-4a9f-a0da-d3f7f17e14e1",
+    "description": ""
+}
