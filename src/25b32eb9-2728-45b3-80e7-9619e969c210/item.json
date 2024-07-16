@@ -1,0 +1,11 @@
+{
+    "system_name": "JSchemaChangeset",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Schema\\ChangeSet",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "25b32eb9-2728-45b3-80e7-9619e969c210",
+    "description": ""
+}
