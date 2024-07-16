@@ -1,0 +1,11 @@
+{
+    "system_name": "JDatabaseDriverSqlite",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Database\\Sqlite\\SqliteDriver",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "325ac31d-c4bc-4f83-88e0-0cd4cd233f7f",
+    "description": ""
+}
