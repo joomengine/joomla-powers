@@ -1,0 +1,11 @@
+{
+    "system_name": "JLanguageTransliterate",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Language\\Transliterate",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "a643b662-7ec9-491a-ae28-de34667f0ea5",
+    "description": ""
+}
