@@ -1,0 +1,11 @@
+{
+    "system_name": "JForm",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Form",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "c4fe7377-f891-4218-b7e3-a40bc99c0a61",
+    "description": ""
+}
