@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldRegistrationDateRange",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\RegistrationdaterangeField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "5740ef5d-ad58-45c6-b63a-d9b3be84852e",
+    "description": ""
+}
