@@ -1,0 +1,11 @@
+{
+    "system_name": "JLanguageAssociations",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Language\\Associations",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "4486fa2e-643f-4ab3-b52d-c85972b9853c",
+    "description": ""
+}
