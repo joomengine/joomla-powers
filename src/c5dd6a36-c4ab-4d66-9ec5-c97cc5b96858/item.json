@@ -1,0 +1,11 @@
+{
+    "system_name": "JBrowser",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Environment\\Browser",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "c5dd6a36-c4ab-4d66-9ec5-c97cc5b96858",
+    "description": ""
+}
