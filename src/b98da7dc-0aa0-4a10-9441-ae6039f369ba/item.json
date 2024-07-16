@@ -1,0 +1,11 @@
+{
+    "system_name": "JLanguageStemmerPorteren",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Language\\Stemmer\\Porteren",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "b98da7dc-0aa0-4a10-9441-ae6039f369ba",
+    "description": ""
+}
