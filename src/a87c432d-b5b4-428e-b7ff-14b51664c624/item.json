@@ -1,0 +1,11 @@
+{
+    "system_name": "JRegistry",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Registry\\Registry",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "a87c432d-b5b4-428e-b7ff-14b51664c624",
+    "description": ""
+}
