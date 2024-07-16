@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldTel",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\TelephoneField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "62abd5ac-95d8-4263-abd4-29aba234bed9",
+    "description": ""
+}
