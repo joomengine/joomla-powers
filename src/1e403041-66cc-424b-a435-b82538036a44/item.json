@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldImageList",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\ImagelistField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "1e403041-66cc-424b-a435-b82538036a44",
+    "description": ""
+}
