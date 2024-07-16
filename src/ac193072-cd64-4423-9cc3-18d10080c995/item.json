@@ -1,0 +1,11 @@
+{
+    "system_name": "JResponseJson",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Response\\JsonResponse",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "ac193072-cd64-4423-9cc3-18d10080c995",
+    "description": ""
+}
