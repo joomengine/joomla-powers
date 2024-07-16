@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormRulePassword",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Rule\\PasswordRule",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "2bffaaff-58a2-4f14-be5b-d3548de6cbbb",
+    "description": ""
+}
