@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldPredefinedList",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\PredefinedListField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "8d5d180e-257e-4c57-8205-6c04771f6999",
+    "description": ""
+}
