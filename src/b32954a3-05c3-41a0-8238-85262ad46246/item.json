@@ -1,0 +1,11 @@
+{
+    "system_name": "JFolder",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Filesystem\\Folder",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "b32954a3-05c3-41a0-8238-85262ad46246",
+    "description": ""
+}
