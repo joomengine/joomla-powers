@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldComponents",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\ComponentsField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "3582a327-292f-48a4-b3e1-970bbc078411",
+    "description": ""
+}
