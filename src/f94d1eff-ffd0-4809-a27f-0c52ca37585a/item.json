@@ -1,0 +1,11 @@
+{
+    "system_name": "JFeedParserRssItunes",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Feed\\Parser\\Rss\\ItunesRssParser",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "f94d1eff-ffd0-4809-a27f-0c52ca37585a",
+    "description": ""
+}
