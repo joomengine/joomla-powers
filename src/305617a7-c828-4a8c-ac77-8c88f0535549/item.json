@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldTextarea",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\TextareaField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "305617a7-c828-4a8c-ac77-8c88f0535549",
+    "description": ""
+}
