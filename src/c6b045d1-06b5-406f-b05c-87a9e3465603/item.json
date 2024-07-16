@@ -1,0 +1,11 @@
+{
+    "system_name": "JAuthenticationHelper",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Helper\\AuthenticationHelper",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "c6b045d1-06b5-406f-b05c-87a9e3465603",
+    "description": ""
+}
