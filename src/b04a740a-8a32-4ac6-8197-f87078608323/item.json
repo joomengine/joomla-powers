@@ -1,0 +1,11 @@
+{
+    "system_name": "JSchemaChangeitemSqlsrv",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Schema\\ChangeItem\\SqlsrvChangeItem",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "b04a740a-8a32-4ac6-8197-f87078608323",
+    "description": ""
+}
