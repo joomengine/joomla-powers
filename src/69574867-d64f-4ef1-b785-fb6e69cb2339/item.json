@@ -1,0 +1,11 @@
+{
+    "system_name": "JTableContent",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Table\\Content",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "69574867-d64f-4ef1-b785-fb6e69cb2339",
+    "description": ""
+}
