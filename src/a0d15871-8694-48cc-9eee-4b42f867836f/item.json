@@ -1,0 +1,11 @@
+{
+    "system_name": "JViewCategories",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\MVC\\View\\CategoriesView",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "a0d15871-8694-48cc-9eee-4b42f867836f",
+    "description": ""
+}
