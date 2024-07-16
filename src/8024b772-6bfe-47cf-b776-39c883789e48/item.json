@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldEMail",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\EmailField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "8024b772-6bfe-47cf-b776-39c883789e48",
+    "description": ""
+}
