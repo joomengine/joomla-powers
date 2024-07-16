@@ -1,0 +1,11 @@
+{
+    "system_name": "JDatabaseDriverSqlazure",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Database\\Sqlazure\\SqlazureDriver",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "52e8fced-b8a6-4ab8-b249-55acd61504c2",
+    "description": ""
+}
