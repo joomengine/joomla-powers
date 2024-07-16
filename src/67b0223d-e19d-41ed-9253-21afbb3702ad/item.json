@@ -1,0 +1,11 @@
+{
+    "system_name": "JHttpTransportCurl",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Http\\Transport\\CurlTransport",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "67b0223d-e19d-41ed-9253-21afbb3702ad",
+    "description": ""
+}
