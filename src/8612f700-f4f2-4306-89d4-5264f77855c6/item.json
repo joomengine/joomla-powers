@@ -1,0 +1,11 @@
+{
+    "system_name": "JInstallerManifestPackage",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Installer\\Manifest\\PackageManifest",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "8612f700-f4f2-4306-89d4-5264f77855c6",
+    "description": ""
+}
