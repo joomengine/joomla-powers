@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldTimezone",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\TimezoneField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "2c1cbfcd-55ea-40b9-9cd3-5ec02d8093cd",
+    "description": ""
+}
