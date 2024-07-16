@@ -1,0 +1,11 @@
+{
+    "system_name": "JCacheStorageMemcache",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Cache\\Storage\\MemcacheStorage",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "41b7f904-cd24-46d2-aa81-52fb1a067a14",
+    "description": ""
+}
