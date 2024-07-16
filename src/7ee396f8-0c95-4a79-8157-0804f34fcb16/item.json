@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormRuleOptions",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Rule\\OptionsRule",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "7ee396f8-0c95-4a79-8157-0804f34fcb16",
+    "description": ""
+}
