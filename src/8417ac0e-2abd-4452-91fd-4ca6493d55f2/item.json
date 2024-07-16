@@ -1,0 +1,11 @@
+{
+    "system_name": "JHttp",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Http\\Http",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "8417ac0e-2abd-4452-91fd-4ca6493d55f2",
+    "description": "HTTP client class."
+}
