@@ -1,0 +1,11 @@
+{
+    "system_name": "JDocumentRendererFeedRss",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Document\\Renderer\\Feed\\RssRenderer",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "9292ee49-e310-47ea-ac3f-3d23bf454bb9",
+    "description": ""
+}
