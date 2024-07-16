@@ -1,0 +1,11 @@
+{
+    "system_name": "JDocumentImage",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Document\\ImageDocument",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "2e066e66-ace9-4a38-91f1-2c7cdd3bcbde",
+    "description": ""
+}
