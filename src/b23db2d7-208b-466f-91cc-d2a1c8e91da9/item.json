@@ -1,0 +1,11 @@
+{
+    "system_name": "JHttpResponse",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Http\\Response",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "b23db2d7-208b-466f-91cc-d2a1c8e91da9",
+    "description": ""
+}
