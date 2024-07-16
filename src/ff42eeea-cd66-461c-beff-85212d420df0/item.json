@@ -1,0 +1,11 @@
+{
+    "system_name": "JLogLoggerDatabase",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Log\\Logger\\DatabaseLogger",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "ff42eeea-cd66-461c-beff-85212d420df0",
+    "description": ""
+}
