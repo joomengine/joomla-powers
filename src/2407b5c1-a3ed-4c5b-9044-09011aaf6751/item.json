@@ -1,0 +1,11 @@
+{
+    "system_name": "JCryptCipherMcrypt",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Crypt\\Cipher\\McryptCipher",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "2407b5c1-a3ed-4c5b-9044-09011aaf6751",
+    "description": ""
+}
