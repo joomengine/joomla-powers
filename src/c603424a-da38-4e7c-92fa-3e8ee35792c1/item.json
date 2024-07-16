@@ -1,0 +1,11 @@
+{
+    "system_name": "JHtmlDraggablelist",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\HTML\\Helpers\\DraggableList",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "c603424a-da38-4e7c-92fa-3e8ee35792c1",
+    "description": ""
+}
