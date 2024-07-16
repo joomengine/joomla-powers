@@ -1,0 +1,11 @@
+{
+    "system_name": "JHttpTransportSocket",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Http\\Transport\\SocketTransport",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "b637202b-b1ac-4c99-81c6-03eda33c8ed5",
+    "description": ""
+}
