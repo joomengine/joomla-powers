@@ -1,0 +1,11 @@
+{
+    "system_name": "JComponentRecord",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Component\\ComponentRecord",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "5255b942-8d9a-4984-8091-9fffea8d12dc",
+    "description": ""
+}
