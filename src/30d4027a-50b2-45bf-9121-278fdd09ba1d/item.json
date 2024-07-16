@@ -1,0 +1,11 @@
+{
+    "system_name": "JSearchHelper",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Helper\\SearchHelper",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "30d4027a-50b2-45bf-9121-278fdd09ba1d",
+    "description": ""
+}
