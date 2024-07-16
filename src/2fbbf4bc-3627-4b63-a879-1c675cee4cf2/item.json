@@ -1,0 +1,11 @@
+{
+    "system_name": "JLanguageWrapperTransliterate",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Language\\Wrapper\\TransliterateWrapper",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "2fbbf4bc-3627-4b63-a879-1c675cee4cf2",
+    "description": ""
+}
