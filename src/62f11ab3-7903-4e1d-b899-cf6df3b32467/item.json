@@ -1,0 +1,11 @@
+{
+    "system_name": "JDatabaseExceptionUnsupported",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Database\\Exception\\UnsupportedAdapterException",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "62f11ab3-7903-4e1d-b899-cf6df3b32467",
+    "description": ""
+}
