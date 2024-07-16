@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldLastvisitDateRange",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\LastvisitdaterangeField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "32514363-e6c2-42b3-9d3f-4c3278bf0dcc",
+    "description": ""
+}
