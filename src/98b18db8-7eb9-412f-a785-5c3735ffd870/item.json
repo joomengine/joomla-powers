@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldUserState",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\UserstateField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "98b18db8-7eb9-412f-a785-5c3735ffd870",
+    "description": ""
+}
