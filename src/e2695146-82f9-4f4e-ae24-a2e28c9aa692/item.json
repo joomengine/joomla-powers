@@ -1,0 +1,11 @@
+{
+    "system_name": "JMailHelper",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Mail\\MailHelper",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "e2695146-82f9-4f4e-ae24-a2e28c9aa692",
+    "description": ""
+}
