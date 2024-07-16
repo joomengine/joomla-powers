@@ -1,0 +1,11 @@
+{
+    "system_name": "JDatabaseExceptionExecuting",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Database\\Exception\\ExecutionFailureException",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "54c9fc90-5f76-42fa-bf63-d3bfa56c3ad0",
+    "description": ""
+}
