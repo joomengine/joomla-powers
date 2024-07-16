@@ -1,0 +1,11 @@
+{
+    "system_name": "JDataSet",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Data\\DataSet",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "9dbdb40d-0e80-4de0-9401-45f09bae4f00",
+    "description": ""
+}
