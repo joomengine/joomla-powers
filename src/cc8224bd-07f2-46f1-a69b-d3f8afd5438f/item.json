@@ -1,0 +1,11 @@
+{
+    "system_name": "JLanguageMultilang",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Language\\Multilanguage",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "cc8224bd-07f2-46f1-a69b-d3f8afd5438f",
+    "description": ""
+}
