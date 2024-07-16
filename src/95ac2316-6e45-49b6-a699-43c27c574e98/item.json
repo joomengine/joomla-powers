@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormRuleCaptcha",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Rule\\CaptchaRule",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "95ac2316-6e45-49b6-a699-43c27c574e98",
+    "description": ""
+}
