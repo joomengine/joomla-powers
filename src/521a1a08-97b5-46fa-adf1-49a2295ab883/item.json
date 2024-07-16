@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldColor",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\ColorField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "521a1a08-97b5-46fa-adf1-49a2295ab883",
+    "description": ""
+}
