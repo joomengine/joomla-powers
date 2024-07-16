@@ -1,0 +1,11 @@
+{
+    "system_name": "JAccessRules",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Access\\Rules",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "d3fe9cbd-ff84-4501-9298-bbd213b8a348",
+    "description": ""
+}
