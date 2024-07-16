@@ -1,0 +1,11 @@
+{
+    "system_name": "JFilesystemWrapperFile",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Filesystem\\Wrapper\\FileWrapper",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "cad536bf-a916-439b-b814-adbb9c8d11ef",
+    "description": ""
+}
