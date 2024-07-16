@@ -1,0 +1,11 @@
+{
+    "system_name": "JDocumentRendererAtom",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Document\\Renderer\\Feed\\AtomRenderer",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "34b75849-7d6e-407e-9f16-dd3c1c58ddfc",
+    "description": ""
+}
