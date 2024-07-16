@@ -1,0 +1,11 @@
+{
+    "system_name": "JDocumentRenderer",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Document\\DocumentRenderer",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "e9d9761f-0c10-4c4a-a2f7-9c365805c2d5",
+    "description": ""
+}
