@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldUserGroupList",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\UsergrouplistField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "d35304f8-b5d8-4604-8aac-a292eaa4d7a8",
+    "description": ""
+}
