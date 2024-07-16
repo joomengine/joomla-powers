@@ -1,0 +1,15 @@
+{
+    "system_name": "JImageFilterSmooth",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Image\\Filter\\Smooth",
+            "joomla_version": "3"
+        },
+        "settings1": {
+            "namespace": "Joomla\\CMS\\Image\\Filter\\Smooth",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "16e40573-2dca-4e1a-b021-ddb68e71594b",
+    "description": ""
+}
