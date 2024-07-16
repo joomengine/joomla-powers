@@ -1,0 +1,11 @@
+{
+    "system_name": "JFeedParserRssMedia",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Feed\\Parser\\Rss\\MediaRssParser",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "20d4459b-a6ad-400a-8529-ccc016465392",
+    "description": ""
+}
