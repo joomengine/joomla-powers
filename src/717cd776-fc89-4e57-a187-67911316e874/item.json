@@ -1,0 +1,11 @@
+{
+    "system_name": "JUcm",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\UCM\\UCM",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "717cd776-fc89-4e57-a187-67911316e874",
+    "description": ""
+}
