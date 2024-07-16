@@ -1,0 +1,11 @@
+{
+    "system_name": "JFormFieldPlugins",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Form\\Field\\PluginsField",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "d88ab2ea-70d2-4da5-8a8f-44adc308f223",
+    "description": ""
+}
