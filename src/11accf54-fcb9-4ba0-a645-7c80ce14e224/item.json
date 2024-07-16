@@ -1,0 +1,11 @@
+{
+    "system_name": "JTableUser",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Table\\User",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "11accf54-fcb9-4ba0-a645-7c80ce14e224",
+    "description": ""
+}
