@@ -1,0 +1,11 @@
+{
+    "system_name": "JWeb",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Application\\WebApplication",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "d57b084b-bfba-45d2-9131-bcc40f16deaf",
+    "description": ""
+}
