@@ -8,7 +8,7 @@
 ```
 # JHtmlUser
 
-The HTML user class.
+The HTML user class. Hi there JUG
 
 The Joomla! Power feature allows you to use Joomla classes in your project without manually managing their namespaces. JCB will automatically add the correct namespaces to your files. If Joomla classes change in future versions, such as from Joomla 3 to 5, JCB will update them for you.
 
