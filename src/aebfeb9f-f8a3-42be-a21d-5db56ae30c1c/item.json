@@ -1,9 +1,13 @@
 {
-    "system_name": "ComponentHelper (admin)",
+    "system_name": "@ComponentHelper (admin)",
     "settings": {
         "settings0": {
             "namespace": "[[[NamespacePrefix]]]\\Component\\[[[ComponentNamespace]]]\\Administrator\\Helper\\[[[Component]]]Helper",
-            "joomla_version": "5"
+            "joomla_version": "0"
+        },
+        "settings1": {
+            "namespace": "Error\/Not\/For\/Joomla\/Three",
+            "joomla_version": "3"
         }
     },
     "guid": "aebfeb9f-f8a3-42be-a21d-5db56ae30c1c",
