@@ -29,6 +29,8 @@ This repository contains an index (see below) of all the Joomla! Powers within t
 
 # Index of Joomla! Powers
 
+ - **ComponentHelper (admin)** | [Details](src/aebfeb9f-f8a3-42be-a21d-5db56ae30c1c) | [Settings](src/aebfeb9f-f8a3-42be-a21d-5db56ae30c1c/item.json) | JPK: `Joomla---aebfeb9f_f8a3_42be_a21d_5db56ae30c1c---Power`
+ - **ComponentHelper (site)** | [Details](src/cf3b95c1-ba56-4193-8eb4-9164582b7f55) | [Settings](src/cf3b95c1-ba56-4193-8eb4-9164582b7f55/item.json) | JPK: `Joomla---cf3b95c1_ba56_4193_8eb4_9164582b7f55---Power`
  - **JAccess** | [Details](src/2d513d69-8c7c-4dab-bb84-c5ecafb91a9d) | [Settings](src/2d513d69-8c7c-4dab-bb84-c5ecafb91a9d/item.json) | JPK: `Joomla---2d513d69_8c7c_4dab_bb84_c5ecafb91a9d---Power`
  - **JAccessExceptionNotallowed** | [Details](src/2fa1c08d-c4ff-4cb0-8338-7221e95c1fe4) | [Settings](src/2fa1c08d-c4ff-4cb0-8338-7221e95c1fe4/item.json) | JPK: `Joomla---2fa1c08d_c4ff_4cb0_8338_7221e95c1fe4---Power`
  - **JAccessRule** | [Details](src/1e77d689-78b9-4418-809b-923edc4cb21b) | [Settings](src/1e77d689-78b9-4418-809b-923edc4cb21b/item.json) | JPK: `Joomla---1e77d689_78b9_4418_809b_923edc4cb21b---Power`
@@ -513,6 +515,7 @@ This repository contains an index (see below) of all the Joomla! Powers within t
  - **JViewLegacy** | [Details](src/3cca7cc5-481b-4f21-944c-4f85ec4b1b05) | [Settings](src/3cca7cc5-481b-4f21-944c-4f85ec4b1b05/item.json) | JPK: `Joomla---3cca7cc5_481b_4f21_944c_4f85ec4b1b05---Power`
  - **JWeb** | [Details](src/d57b084b-bfba-45d2-9131-bcc40f16deaf) | [Settings](src/d57b084b-bfba-45d2-9131-bcc40f16deaf/item.json) | JPK: `Joomla---d57b084b_bfba_45d2_9131_bcc40f16deaf---Power`
  - **JWebClient** | [Details](src/32ad40f6-cec1-48a6-8316-962714f08af9) | [Settings](src/32ad40f6-cec1-48a6-8316-962714f08af9/item.json) | JPK: `Joomla---32ad40f6_cec1_48a6_8316_962714f08af9---Power`
+ - **RouteHelper (site)** | [Details](src/92167f18-8543-40e8-92af-053ef4c210d1) | [Settings](src/92167f18-8543-40e8-92af-053ef4c210d1/item.json) | JPK: `Joomla---92167f18_8543_40e8_92af_053ef4c210d1---Power`
 > remember to replace the `---` with `___` in the JPK to activate that Joomla! Power in your code
 
 ---
