@@ -1,0 +1,11 @@
+{
+    "system_name": "ComponentHelper (admin)",
+    "settings": {
+        "settings0": {
+            "namespace": "[[[NamespacePrefix]]]\\Component\\[[[ComponentNamespace]]]\\Administrator\\Helper\\[[[Component]]]Helper",
+            "joomla_version": "5"
+        }
+    },
+    "guid": "aebfeb9f-f8a3-42be-a21d-5db56ae30c1c",
+    "description": "Component Administrator Helper"
+}
