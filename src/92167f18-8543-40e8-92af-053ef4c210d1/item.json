@@ -1,0 +1,11 @@
+{
+    "system_name": "RouteHelper (site)",
+    "settings": {
+        "settings0": {
+            "namespace": "[[[NamespacePrefix]]]\\Component\\[[[ComponentNamespace]]]\\Site\\Helper\\RouteHelper",
+            "joomla_version": "5"
+        }
+    },
+    "guid": "92167f18-8543-40e8-92af-053ef4c210d1",
+    "description": "Component Site Route Helper"
+}
