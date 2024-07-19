@@ -1,0 +1,11 @@
+{
+    "system_name": "ComponentHelper (site)",
+    "settings": {
+        "settings0": {
+            "namespace": "[[[NamespacePrefix]]]\\Component\\[[[ComponentNamespace]]]\\Site\\Helper\\[[[Component]]]Helper",
+            "joomla_version": "5"
+        }
+    },
+    "guid": "cf3b95c1-ba56-4193-8eb4-9164582b7f55",
+    "description": "Component Site Helper"
+}
