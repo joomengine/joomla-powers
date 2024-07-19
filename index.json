@@ -3386,5 +3386,26 @@
         "path": "src\/4256a427-9bfa-4572-b539-cc699ab8f18b",
         "jpk": "Joomla---4256a427_9bfa_4572_b539_cc699ab8f18b---Power",
         "guid": "4256a427-9bfa-4572-b539-cc699ab8f18b"
+    },
+    "92167f18-8543-40e8-92af-053ef4c210d1": {
+        "name": "RouteHelper (site)",
+        "settings": "src\/92167f18-8543-40e8-92af-053ef4c210d1\/item.json",
+        "path": "src\/92167f18-8543-40e8-92af-053ef4c210d1",
+        "jpk": "Joomla---92167f18_8543_40e8_92af_053ef4c210d1---Power",
+        "guid": "92167f18-8543-40e8-92af-053ef4c210d1"
+    },
+    "aebfeb9f-f8a3-42be-a21d-5db56ae30c1c": {
+        "name": "ComponentHelper (admin)",
+        "settings": "src\/aebfeb9f-f8a3-42be-a21d-5db56ae30c1c\/item.json",
+        "path": "src\/aebfeb9f-f8a3-42be-a21d-5db56ae30c1c",
+        "jpk": "Joomla---aebfeb9f_f8a3_42be_a21d_5db56ae30c1c---Power",
+        "guid": "aebfeb9f-f8a3-42be-a21d-5db56ae30c1c"
+    },
+    "cf3b95c1-ba56-4193-8eb4-9164582b7f55": {
+        "name": "ComponentHelper (site)",
+        "settings": "src\/cf3b95c1-ba56-4193-8eb4-9164582b7f55\/item.json",
+        "path": "src\/cf3b95c1-ba56-4193-8eb4-9164582b7f55",
+        "jpk": "Joomla---cf3b95c1_ba56_4193_8eb4_9164582b7f55---Power",
+        "guid": "cf3b95c1-ba56-4193-8eb4-9164582b7f55"
     }
 }
