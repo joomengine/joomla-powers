@@ -6,7 +6,7 @@
             "joomla_version": "0"
         },
         "settings1": {
-            "namespace": "Error\/Not\/For\/Joomla\/Three",
+            "namespace": "[[[Component]]]HelperRoute",
             "joomla_version": "3"
         }
     },
