@@ -1,0 +1,15 @@
+{
+    "system_name": "UserFactoryAwareTrait",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\User\\UserFactoryAwareTrait",
+            "joomla_version": "0"
+        },
+        "settings1": {
+            "namespace": "Error\/Not\/For\/Joomla\/Three",
+            "joomla_version": "3"
+        }
+    },
+    "guid": "a6b2c321-5de3-4425-b05f-e5340965fb80",
+    "description": "Not for Joomla 3"
+}
