@@ -1,0 +1,15 @@
+{
+    "system_name": "DatabaseAwareTrait",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Database\\DatabaseAwareTrait",
+            "joomla_version": "0"
+        },
+        "settings1": {
+            "namespace": "Error\/Not\/For\/Joomla\/Three",
+            "joomla_version": "3"
+        }
+    },
+    "guid": "ae15e6b6-f7de-43ad-be4b-71499ae88f45",
+    "description": "Not for Joomla 3"
+}
