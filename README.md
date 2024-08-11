@@ -31,6 +31,7 @@ This repository contains an index (see below) of all the Joomla! Powers within t
 
  - **ComponentHelper (admin)** | [Details](src/aebfeb9f-f8a3-42be-a21d-5db56ae30c1c) | [Settings](src/aebfeb9f-f8a3-42be-a21d-5db56ae30c1c/item.json) | JPK: `Joomla---aebfeb9f_f8a3_42be_a21d_5db56ae30c1c---Power`
  - **ComponentHelper (site)** | [Details](src/cf3b95c1-ba56-4193-8eb4-9164582b7f55) | [Settings](src/cf3b95c1-ba56-4193-8eb4-9164582b7f55/item.json) | JPK: `Joomla---cf3b95c1_ba56_4193_8eb4_9164582b7f55---Power`
+ - **DatabaseAwareTrait** | [Details](src/ae15e6b6-f7de-43ad-be4b-71499ae88f45) | [Settings](src/ae15e6b6-f7de-43ad-be4b-71499ae88f45/item.json) | JPK: `Joomla---ae15e6b6_f7de_43ad_be4b_71499ae88f45---Power`
  - **JAccess** | [Details](src/2d513d69-8c7c-4dab-bb84-c5ecafb91a9d) | [Settings](src/2d513d69-8c7c-4dab-bb84-c5ecafb91a9d/item.json) | JPK: `Joomla---2d513d69_8c7c_4dab_bb84_c5ecafb91a9d---Power`
  - **JAccessExceptionNotallowed** | [Details](src/2fa1c08d-c4ff-4cb0-8338-7221e95c1fe4) | [Settings](src/2fa1c08d-c4ff-4cb0-8338-7221e95c1fe4/item.json) | JPK: `Joomla---2fa1c08d_c4ff_4cb0_8338_7221e95c1fe4---Power`
  - **JAccessRule** | [Details](src/1e77d689-78b9-4418-809b-923edc4cb21b) | [Settings](src/1e77d689-78b9-4418-809b-923edc4cb21b/item.json) | JPK: `Joomla---1e77d689_78b9_4418_809b_923edc4cb21b---Power`
