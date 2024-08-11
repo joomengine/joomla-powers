@@ -3,11 +3,11 @@
     "settings": {
         "settings0": {
             "namespace": "Joomla\\CMS\\User\\UserFactoryInterface",
-            "joomla_version": "4"
+            "joomla_version": "0"
         },
         "settings1": {
-            "namespace": "Joomla\\CMS\\User\\UserFactoryInterface",
-            "joomla_version": "5"
+            "namespace": "Error\/Not\/For\/Joomla\/Three",
+            "joomla_version": "3"
         }
     },
     "guid": "c2980d12-c3ef-4e23-b4a2-e6af1f5900a9",
