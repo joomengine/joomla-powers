@@ -3407,5 +3407,12 @@
         "path": "src\/cf3b95c1-ba56-4193-8eb4-9164582b7f55",
         "jpk": "Joomla---cf3b95c1_ba56_4193_8eb4_9164582b7f55---Power",
         "guid": "cf3b95c1-ba56-4193-8eb4-9164582b7f55"
+    },
+    "c2980d12-c3ef-4e23-b4a2-e6af1f5900a9": {
+        "name": "UserFactoryInterface",
+        "settings": "src\/c2980d12-c3ef-4e23-b4a2-e6af1f5900a9\/item.json",
+        "path": "src\/c2980d12-c3ef-4e23-b4a2-e6af1f5900a9",
+        "jpk": "Joomla---c2980d12_c3ef_4e23_b4a2_e6af1f5900a9---Power",
+        "guid": "c2980d12-c3ef-4e23-b4a2-e6af1f5900a9"
     }
 }
