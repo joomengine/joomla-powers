@@ -3414,5 +3414,12 @@
         "path": "src\/c2980d12-c3ef-4e23-b4a2-e6af1f5900a9",
         "jpk": "Joomla---c2980d12_c3ef_4e23_b4a2_e6af1f5900a9---Power",
         "guid": "c2980d12-c3ef-4e23-b4a2-e6af1f5900a9"
+    },
+    "ae15e6b6-f7de-43ad-be4b-71499ae88f45": {
+        "name": "DatabaseAwareTrait",
+        "settings": "src\/ae15e6b6-f7de-43ad-be4b-71499ae88f45\/item.json",
+        "path": "src\/ae15e6b6-f7de-43ad-be4b-71499ae88f45",
+        "jpk": "Joomla---ae15e6b6_f7de_43ad_be4b_71499ae88f45---Power",
+        "guid": "ae15e6b6-f7de-43ad-be4b-71499ae88f45"
     }
 }
