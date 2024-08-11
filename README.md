@@ -517,6 +517,7 @@ This repository contains an index (see below) of all the Joomla! Powers within t
  - **JWeb** | [Details](src/d57b084b-bfba-45d2-9131-bcc40f16deaf) | [Settings](src/d57b084b-bfba-45d2-9131-bcc40f16deaf/item.json) | JPK: `Joomla---d57b084b_bfba_45d2_9131_bcc40f16deaf---Power`
  - **JWebClient** | [Details](src/32ad40f6-cec1-48a6-8316-962714f08af9) | [Settings](src/32ad40f6-cec1-48a6-8316-962714f08af9/item.json) | JPK: `Joomla---32ad40f6_cec1_48a6_8316_962714f08af9---Power`
  - **RouteHelper (site)** | [Details](src/92167f18-8543-40e8-92af-053ef4c210d1) | [Settings](src/92167f18-8543-40e8-92af-053ef4c210d1/item.json) | JPK: `Joomla---92167f18_8543_40e8_92af_053ef4c210d1---Power`
+ - **UserFactoryAwareTrait** | [Details](src/a6b2c321-5de3-4425-b05f-e5340965fb80) | [Settings](src/a6b2c321-5de3-4425-b05f-e5340965fb80/item.json) | JPK: `Joomla---a6b2c321_5de3_4425_b05f_e5340965fb80---Power`
  - **UserFactoryInterface** | [Details](src/c2980d12-c3ef-4e23-b4a2-e6af1f5900a9) | [Settings](src/c2980d12-c3ef-4e23-b4a2-e6af1f5900a9/item.json) | JPK: `Joomla---c2980d12_c3ef_4e23_b4a2_e6af1f5900a9---Power`
 > remember to replace the `---` with `___` in the JPK to activate that Joomla! Power in your code
 
