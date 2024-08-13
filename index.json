@@ -3428,5 +3428,12 @@
         "path": "src\/a6b2c321-5de3-4425-b05f-e5340965fb80",
         "jpk": "Joomla---a6b2c321_5de3_4425_b05f_e5340965fb80---Power",
         "guid": "a6b2c321-5de3-4425-b05f-e5340965fb80"
+    },
+    "c06c5116-6b9d-487c-9b09-5094ec4506a3": {
+        "name": "SubscriberInterface",
+        "settings": "src\/c06c5116-6b9d-487c-9b09-5094ec4506a3\/item.json",
+        "path": "src\/c06c5116-6b9d-487c-9b09-5094ec4506a3",
+        "jpk": "Joomla---c06c5116_6b9d_487c_9b09_5094ec4506a3---Power",
+        "guid": "c06c5116-6b9d-487c-9b09-5094ec4506a3"
     }
 }
