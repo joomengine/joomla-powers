@@ -1,0 +1,11 @@
+{
+    "system_name": "SubscriberInterface",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Event\\SubscriberInterface",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "c06c5116-6b9d-487c-9b09-5094ec4506a3",
+    "description": "Interface for event subscribers."
+}
