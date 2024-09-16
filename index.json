@@ -3456,5 +3456,12 @@
         "path": "src\/afbb897f-f5b8-465d-9213-dae5ccf3df3d",
         "jpk": "Joomla---afbb897f_f5b8_465d_9213_dae5ccf3df3d---Power",
         "guid": "afbb897f-f5b8-465d-9213-dae5ccf3df3d"
+    },
+    "f5e0753c-c8d9-4965-a606-9c45b37a6857": {
+        "name": "PrivacyExportDomain",
+        "settings": "src\/f5e0753c-c8d9-4965-a606-9c45b37a6857\/item.json",
+        "path": "src\/f5e0753c-c8d9-4965-a606-9c45b37a6857",
+        "jpk": "Joomla---f5e0753c_c8d9_4965_a606_9c45b37a6857---Power",
+        "guid": "f5e0753c-c8d9-4965-a606-9c45b37a6857"
     }
 }
