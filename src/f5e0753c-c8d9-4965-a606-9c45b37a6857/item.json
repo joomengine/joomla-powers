@@ -1,0 +1,11 @@
+{
+    "system_name": "PrivacyExportDomain",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Component\\Privacy\\Administrator\\Export\\Domain",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "f5e0753c-c8d9-4965-a606-9c45b37a6857",
+    "description": ""
+}
