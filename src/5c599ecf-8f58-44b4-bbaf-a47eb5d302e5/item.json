@@ -1,0 +1,11 @@
+{
+    "system_name": "PrivacyRemovalStatus",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Component\\Privacy\\Administrator\\Removal\\Status",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "5c599ecf-8f58-44b4-bbaf-a47eb5d302e5",
+    "description": ""
+}
