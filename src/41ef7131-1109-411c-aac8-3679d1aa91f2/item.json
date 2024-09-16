@@ -1,0 +1,11 @@
+{
+    "system_name": "PrivacyPlugin",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Component\\Privacy\\Administrator\\Plugin\\PrivacyPlugin",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "41ef7131-1109-411c-aac8-3679d1aa91f2",
+    "description": ""
+}
