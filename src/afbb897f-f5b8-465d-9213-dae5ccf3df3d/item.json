@@ -1,0 +1,11 @@
+{
+    "system_name": "PrivacyTableRequest",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Component\\Privacy\\Administrator\\Table\\RequestTable",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "afbb897f-f5b8-465d-9213-dae5ccf3df3d",
+    "description": "The request record being processed"
+}
