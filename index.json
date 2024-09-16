@@ -3435,5 +3435,26 @@
         "path": "src\/c06c5116-6b9d-487c-9b09-5094ec4506a3",
         "jpk": "Joomla---c06c5116_6b9d_487c_9b09_5094ec4506a3---Power",
         "guid": "c06c5116-6b9d-487c-9b09-5094ec4506a3"
+    },
+    "41ef7131-1109-411c-aac8-3679d1aa91f2": {
+        "name": "PrivacyPlugin",
+        "settings": "src\/41ef7131-1109-411c-aac8-3679d1aa91f2\/item.json",
+        "path": "src\/41ef7131-1109-411c-aac8-3679d1aa91f2",
+        "jpk": "Joomla---41ef7131_1109_411c_aac8_3679d1aa91f2---Power",
+        "guid": "41ef7131-1109-411c-aac8-3679d1aa91f2"
+    },
+    "5c599ecf-8f58-44b4-bbaf-a47eb5d302e5": {
+        "name": "PrivacyRemovalStatus",
+        "settings": "src\/5c599ecf-8f58-44b4-bbaf-a47eb5d302e5\/item.json",
+        "path": "src\/5c599ecf-8f58-44b4-bbaf-a47eb5d302e5",
+        "jpk": "Joomla---5c599ecf_8f58_44b4_bbaf_a47eb5d302e5---Power",
+        "guid": "5c599ecf-8f58-44b4-bbaf-a47eb5d302e5"
+    },
+    "afbb897f-f5b8-465d-9213-dae5ccf3df3d": {
+        "name": "PrivacyTableRequest",
+        "settings": "src\/afbb897f-f5b8-465d-9213-dae5ccf3df3d\/item.json",
+        "path": "src\/afbb897f-f5b8-465d-9213-dae5ccf3df3d",
+        "jpk": "Joomla---afbb897f_f5b8_465d_9213_dae5ccf3df3d---Power",
+        "guid": "afbb897f-f5b8-465d-9213-dae5ccf3df3d"
     }
 }
