@@ -1,0 +1,11 @@
+{
+    "system_name": "JArrayHelper",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Utilities\\ArrayHelper",
+            "joomla_version": "0"
+        }
+    },
+    "guid": "06aa47b5-293f-4a18-9f0d-986cf11a5cb9",
+    "description": "ArrayHelper is an array utility class for doing all sorts of odds and ends with arrays."
+}
