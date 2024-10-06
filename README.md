@@ -48,6 +48,7 @@ This repository contains an index (see below) of all the Joomla! Powers within t
  - **JApplicationSite** | [Details](src/f82894b5-d83a-4f44-a921-08848bae979c) | [Settings](src/f82894b5-d83a-4f44-a921-08848bae979c/item.json) | JPK: `Joomla---f82894b5_d83a_4f44_a921_08848bae979c---Power`
  - **JApplicationWeb** | [Details](src/2405b210-b10e-40e0-92f4-5783875f56cf) | [Settings](src/2405b210-b10e-40e0-92f4-5783875f56cf/item.json) | JPK: `Joomla---2405b210_b10e_40e0_92f4_5783875f56cf---Power`
  - **JApplicationWebClient** | [Details](src/af98ae86-763a-41c2-9b05-50da4b0e4eb9) | [Settings](src/af98ae86-763a-41c2-9b05-50da4b0e4eb9/item.json) | JPK: `Joomla---af98ae86_763a_41c2_9b05_50da4b0e4eb9---Power`
+ - **JArrayHelper** | [Details](src/06aa47b5-293f-4a18-9f0d-986cf11a5cb9) | [Settings](src/06aa47b5-293f-4a18-9f0d-986cf11a5cb9/item.json) | JPK: `Joomla---06aa47b5_293f_4a18_9f0d_986cf11a5cb9---Power`
  - **JAssociationExtensionHelper** | [Details](src/e88e262d-b08f-43f3-9f0d-adf352030ddd) | [Settings](src/e88e262d-b08f-43f3-9f0d-adf352030ddd/item.json) | JPK: `Joomla---e88e262d_b08f_43f3_9f0d_adf352030ddd---Power`
  - **JAssociationExtensionInterface** | [Details](src/1046fbd3-859f-40b6-8cd9-4f2a0f91413a) | [Settings](src/1046fbd3-859f-40b6-8cd9-4f2a0f91413a/item.json) | JPK: `Joomla---1046fbd3_859f_40b6_8cd9_4f2a0f91413a---Power`
  - **JAuthentication** | [Details](src/e7193dd0-5839-4e5f-9f86-1d2cb29f2116) | [Settings](src/e7193dd0-5839-4e5f-9f86-1d2cb29f2116/item.json) | JPK: `Joomla---e7193dd0_5839_4e5f_9f86_1d2cb29f2116---Power`
