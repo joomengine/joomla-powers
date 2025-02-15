@@ -8,7 +8,7 @@
 ```
 # JArrayHelper
 
-ArrayHelper is an array utility class for doing all sorts of odds and ends with arrays.
+Joomla core ArrayHelper is an array utility class for doing all sorts of odds and ends with arrays.
 
 The Joomla! Power feature allows you to use Joomla classes in your project without manually managing their namespaces. JCB will automatically add the correct namespaces to your files. If Joomla classes change in future versions, such as from Joomla 3 to 5, JCB will update them for you.
 
