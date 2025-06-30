@@ -3477,5 +3477,12 @@
         "path": "src\/91327a40-fe8f-4ff6-bbe6-f4248d8c7069",
         "jpk": "Joomla---91327a40_fe8f_4ff6_bbe6_f4248d8c7069---Power",
         "guid": "91327a40-fe8f-4ff6-bbe6-f4248d8c7069"
+    },
+    "025399e0-cab7-4cc8-8f91-62e077039acd": {
+        "name": "@EmailHelper (admin)",
+        "settings": "src\/025399e0-cab7-4cc8-8f91-62e077039acd\/item.json",
+        "path": "src\/025399e0-cab7-4cc8-8f91-62e077039acd",
+        "jpk": "Joomla---025399e0_cab7_4cc8_8f91_62e077039acd---Power",
+        "guid": "025399e0-cab7-4cc8-8f91-62e077039acd"
     }
 }
