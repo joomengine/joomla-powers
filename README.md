@@ -1,32 +1,39 @@
+# Joomla! Power
+
+### What Are Joomla Powers in JCB?
+Joomla Powers in JCB are a smart way to include Joomla classes in your custom code — **without hardcoding their full class names or import paths**.
+
+Instead of writing `\Joomla\CMS\Factory::getApplication()->enqueueMessage(...);` manually, you can simply place a **Joomla Power Key (JPK)** in your code, like this:
+
 ```
-     ██╗ ██████╗  ██████╗ ███╗   ███╗██╗      █████╗ 
-     ██║██╔═══██╗██╔═══██╗████╗ ████║██║     ██╔══██╗
-     ██║██║   ██║██║   ██║██╔████╔██║██║     ███████║
-██   ██║██║   ██║██║   ██║██║╚██╔╝██║██║     ██╔══██║
-╚█████╔╝╚██████╔╝╚██████╔╝██║ ╚═╝ ██║███████╗██║  ██║
- ╚════╝  ╚═════╝  ╚═════╝ ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝
-██████╗  ██████╗ ██╗    ██╗███████╗██████╗ ███████╗  
-██╔══██╗██╔═══██╗██║    ██║██╔════╝██╔══██╗██╔════╝  
-██████╔╝██║   ██║██║ █╗ ██║█████╗  ██████╔╝███████╗  
-██╔═══╝ ██║   ██║██║███╗██║██╔══╝  ██╔══██╗╚════██║  
-██║     ╚██████╔╝╚███╔███╔╝███████╗██║  ██║███████║  
-╚═╝      ╚═════╝  ╚══╝╚══╝ ╚══════╝╚═╝  ╚═╝╚══════╝
+Joomla---39403062_84fb_46e0_bac4_0023f766e827---Power::getApplication()->enqueueMessage(...);
 ```
 
-### What is JCB Joomla Powers?
-The Joomla Component Builder (JCB) Joomla Power features are designed to enhance JCB's functionality and streamline the development process. The Joomla powers enable developers to effectively leverage Joomla classes in their custom code without needing to manually add the `use` statements for those classes to the file headers. JCB automatically updates these `use` statements in the necessary headers when it detects a Joomla power key in the custom code.
+> Replace each `---` with `___` when using the key inside your code.
 
+JCB will automatically:
 
+- Resolve this JPK to the correct class path for your current Joomla version.
+- Add the correct `use` statement to the top of the file.
+- Detect and resolve naming collisions by automatically generating an `as` alias (e.g., `use Joomla\CMS\Factory as CMSFactory;`).
+- Replace the JPK in your code with the correct class name (either the original or aliased name).
 
-By doing this, we can control the `use` statements dynamically from a central point. This is particularly beneficial when transitioning from Joomla 3 to Joomla 4, as it allows us to seamlessly switch from certain classes to their respective Joomla framework classes and vice versa. Maintaining these `use` statements in the Joomla Power area ensures that JCB handles the inclusion and updating of class names to prevent conflicts with other classes.
+---
+### Why This Matters
+Joomla occasionally moves classes between namespaces (e.g., from `Joomla\CMS\` to `Joomla\Framework\`).
 
+By using JPKs, you no longer need to manually update class paths when switching between Joomla 3, 4, or 5+.  
+**Your code becomes version-independent** — JCB handles the class namespacing and **use statement** injection during compilation.
 
+You write clean, readable logic — and JCB ensures compatibility under the hood.
 
-This approach is convenient and allows developers to focus on the bespoke parts of their application logic without worrying about class declarations.
+---
+### What's in This Repository?
+This repository contains a **index of Joomla Powers** to be used in a JCB instance.
 
+The list below shows all Joomla Powers available in this repository — each one usable via its unique JPK.
 
-This repository contains an index (see below) of all the Joomla! Powers within the JCB core GUI. These Joomla! Powers are automatically added to the repository by our maintainers, ensuring a well-organized and accessible collection of Joomla Classes are maintained.
-
+---
 # Index of Joomla! Powers
 
  - **ComponentHelper (admin)** | [Details](src/aebfeb9f-f8a3-42be-a21d-5db56ae30c1c) | [Settings](src/aebfeb9f-f8a3-42be-a21d-5db56ae30c1c/item.json) | JPK: `Joomla---aebfeb9f_f8a3_42be_a21d_5db56ae30c1c---Power`
@@ -195,6 +202,7 @@ This repository contains an index (see below) of all the Joomla! Powers within t
  - **JFeedParserRssItunes** | [Details](src/f94d1eff-ffd0-4809-a27f-0c52ca37585a) | [Settings](src/f94d1eff-ffd0-4809-a27f-0c52ca37585a/item.json) | JPK: `Joomla---f94d1eff_ffd0_4809_a27f_0c52ca37585a---Power`
  - **JFeedParserRssMedia** | [Details](src/20d4459b-a6ad-400a-8529-ccc016465392) | [Settings](src/20d4459b-a6ad-400a-8529-ccc016465392/item.json) | JPK: `Joomla---20d4459b_a6ad_400a_8529_ccc016465392---Power`
  - **JFeedPerson** | [Details](src/5f4d46e9-8f94-44ff-ad76-14477d357f77) | [Settings](src/5f4d46e9-8f94-44ff-ad76-14477d357f77/item.json) | JPK: `Joomla---5f4d46e9_8f94_44ff_ad76_14477d357f77---Power`
+ - **JFieldsHelper** | [Details](src/91327a40-fe8f-4ff6-bbe6-f4248d8c7069) | [Settings](src/91327a40-fe8f-4ff6-bbe6-f4248d8c7069/item.json) | JPK: `Joomla---91327a40_fe8f_4ff6_bbe6_f4248d8c7069---Power`
  - **JFile** | [Details](src/55e9e8f0-3c5e-483a-a063-7c7565b00ed7) | [Settings](src/55e9e8f0-3c5e-483a-a063-7c7565b00ed7/item.json) | JPK: `Joomla---55e9e8f0_3c5e_483a_a063_7c7565b00ed7---Power`
  - **JFilesystemHelper** | [Details](src/93a098fc-58b6-4f1b-978a-0a5d31bba09f) | [Settings](src/93a098fc-58b6-4f1b-978a-0a5d31bba09f/item.json) | JPK: `Joomla---93a098fc_58b6_4f1b_978a_0a5d31bba09f---Power`
  - **JFilesystemPatcher** | [Details](src/48e08187-e797-4072-a6e7-bd0d6dcb32c5) | [Settings](src/48e08187-e797-4072-a6e7-bd0d6dcb32c5/item.json) | JPK: `Joomla---48e08187_e797_4072_a6e7_bd0d6dcb32c5---Power`
@@ -527,26 +535,7 @@ This repository contains an index (see below) of all the Joomla! Powers within t
  - **UserFactoryInterface** | [Details](src/c2980d12-c3ef-4e23-b4a2-e6af1f5900a9) | [Settings](src/c2980d12-c3ef-4e23-b4a2-e6af1f5900a9/item.json) | JPK: `Joomla---c2980d12_c3ef_4e23_b4a2_e6af1f5900a9---Power`
 > remember to replace the `---` with `___` in the JPK to activate that Joomla! Power in your code
 
----
-```
-     ██╗ ██████╗  ██████╗ ███╗   ███╗██╗      █████╗
-     ██║██╔═══██╗██╔═══██╗████╗ ████║██║     ██╔══██╗
-     ██║██║   ██║██║   ██║██╔████╔██║██║     ███████║
-██   ██║██║   ██║██║   ██║██║╚██╔╝██║██║     ██╔══██║
-╚█████╔╝╚██████╔╝╚██████╔╝██║ ╚═╝ ██║███████╗██║  ██║
- ╚════╝  ╚═════╝  ╚═════╝ ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝
- ██████╗ ██████╗ ███╗   ███╗██████╗  ██████╗ ███╗   ██╗███████╗███╗   ██╗████████╗
-██╔════╝██╔═══██╗████╗ ████║██╔══██╗██╔═══██╗████╗  ██║██╔════╝████╗  ██║╚══██╔══╝
-██║     ██║   ██║██╔████╔██║██████╔╝██║   ██║██╔██╗ ██║█████╗  ██╔██╗ ██║   ██║
-██║     ██║   ██║██║╚██╔╝██║██╔═══╝ ██║   ██║██║╚██╗██║██╔══╝  ██║╚██╗██║   ██║
-╚██████╗╚██████╔╝██║ ╚═╝ ██║██║     ╚██████╔╝██║ ╚████║███████╗██║ ╚████║   ██║
- ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝      ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚═╝  ╚═══╝   ╚═╝
-██████╗ ██╗   ██╗██╗██╗     ██████╗ ███████╗██████╗
-██╔══██╗██║   ██║██║██║     ██╔══██╗██╔════╝██╔══██╗
-██████╔╝██║   ██║██║██║     ██║  ██║█████╗  ██████╔╝
-██╔══██╗██║   ██║██║██║     ██║  ██║██╔══╝  ██╔══██╗
-██████╔╝╚██████╔╝██║███████╗██████╔╝███████╗██║  ██║
-╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚══════╝╚═╝  ╚═╝
-```
-> Build with [Joomla Component Builder](https://git.vdm.dev/joomla/Component-Builder)
+### All used in [Joomla Component Builder](https://www.joomlacomponentbuilder.com) - [Source](https://git.vdm.dev/joomla/Component-Builder) - [Mirror](https://github.com/vdm-io/Joomla-Component-Builder) - [Download](https://git.vdm.dev/joomla/pkg-component-builder/releases)
 
+---
+[![Joomla Volunteer Portal](https://img.shields.io/badge/-Joomla-gold?logo=joomla)](https://volunteers.joomla.org/joomlers/1396-llewellyn-van-der-merwe "Join Llewellyn on the Joomla Volunteer Portal: Shaping the Future Together!") [![Octoleo](https://img.shields.io/badge/-Octoleo-black?logo=linux)](https://git.vdm.dev/octoleo "--quiet") [![Llewellyn](https://img.shields.io/badge/-Llewellyn-ffffff?logo=gitea)](https://git.vdm.dev/Llewellyn "Collaborate and Innovate with Llewellyn on Git: Building a Better Code Future!") [![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=telegram)](https://t.me/Joomla_component_builder "Join Llewellyn and the Community on Telegram: Building Joomla Components Together!") [![Mastodon](https://img.shields.io/badge/-Mastodon-9e9eec?logo=mastodon)](https://joomla.social/@llewellyn "Connect and Engage with Llewellyn on Joomla Social: Empowering Communities, One Post at a Time!") [![X (Twitter)](https://img.shields.io/badge/-X-black?logo=x)](https://x.com/llewellynvdm "Join the Conversation with Llewellyn on X: Where Ideas Take Flight!") [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/Llewellynvdm "Build, Innovate, and Thrive with Llewellyn on GitHub: Turning Ideas into Impact!") [![YouTube](https://img.shields.io/badge/-YouTube-ff0000?logo=youtube)](https://www.youtube.com/@OctoYou "Explore, Learn, and Create with Llewellyn on YouTube: Your Gateway to Inspiration!") [![n8n](https://img.shields.io/badge/-n8n-black?logo=n8n)](https://n8n.io/creators/octoleo "Effortless Automation and Impactful Workflows with Llewellyn on n8n!") [![Docker Hub](https://img.shields.io/badge/-Docker-grey?logo=docker)](https://hub.docker.com/u/llewellyn "Llewellyn on Docker: Containerize Your Creativity!") [![Open Collective](https://img.shields.io/badge/-Donate-green?logo=opencollective)](https://opencollective.com/joomla-component-builder "Donate towards JCB: Help Llewellyn financially so he can continue developing this great tool!") [![GPG Key](https://img.shields.io/badge/-GPG-blue?logo=gnupg)](https://git.vdm.dev/Llewellyn/gpg "Unlock Trust and Security with Llewellyn's GPG Key: Your Gateway to Verified Connections!")
