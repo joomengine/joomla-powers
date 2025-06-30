@@ -534,6 +534,7 @@ The list below shows all Joomla Powers available in this repository — each one
  - **PrivacyTableRequest** | [Details](src/afbb897f-f5b8-465d-9213-dae5ccf3df3d) | [Settings](src/afbb897f-f5b8-465d-9213-dae5ccf3df3d/item.json) | JPK: `Joomla---afbb897f_f5b8_465d_9213_dae5ccf3df3d---Power`
  - **RouteHelper (site)** | [Details](src/92167f18-8543-40e8-92af-053ef4c210d1) | [Settings](src/92167f18-8543-40e8-92af-053ef4c210d1/item.json) | JPK: `Joomla---92167f18_8543_40e8_92af_053ef4c210d1---Power`
  - **SubscriberInterface** | [Details](src/c06c5116-6b9d-487c-9b09-5094ec4506a3) | [Settings](src/c06c5116-6b9d-487c-9b09-5094ec4506a3/item.json) | JPK: `Joomla---c06c5116_6b9d_487c_9b09_5094ec4506a3---Power`
+ - **ToolbarFactoryInterface** | [Details](src/5d2ae99b-1ea1-44f0-9b59-f1aa7eab9e2e) | [Settings](src/5d2ae99b-1ea1-44f0-9b59-f1aa7eab9e2e/item.json) | JPK: `Joomla---5d2ae99b_1ea1_44f0_9b59_f1aa7eab9e2e---Power`
  - **UserFactoryAwareTrait** | [Details](src/a6b2c321-5de3-4425-b05f-e5340965fb80) | [Settings](src/a6b2c321-5de3-4425-b05f-e5340965fb80/item.json) | JPK: `Joomla---a6b2c321_5de3_4425_b05f_e5340965fb80---Power`
  - **UserFactoryInterface** | [Details](src/c2980d12-c3ef-4e23-b4a2-e6af1f5900a9) | [Settings](src/c2980d12-c3ef-4e23-b4a2-e6af1f5900a9/item.json) | JPK: `Joomla---c2980d12_c3ef_4e23_b4a2_e6af1f5900a9---Power`
 > remember to replace the `---` with `___` in the JPK to activate that Joomla! Power in your code
