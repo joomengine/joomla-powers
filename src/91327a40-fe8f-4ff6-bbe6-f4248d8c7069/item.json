@@ -1,0 +1,11 @@
+{
+    "system_name": "JFieldsHelper",
+    "guid": "91327a40-fe8f-4ff6-bbe6-f4248d8c7069",
+    "description": "The component field helper class",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\Component\\Fields\\Administrator\\Helper\\FieldsHelper",
+            "joomla_version": "5"
+        }
+    }
+}
