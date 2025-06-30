@@ -1,0 +1,15 @@
+{
+    "system_name": "@EmailHelper (admin)",
+    "guid": "025399e0-cab7-4cc8-8f91-62e077039acd",
+    "description": "Abstract::static Email Helper",
+    "settings": {
+        "settings0": {
+            "namespace": "[[[NamespacePrefix]]]\\Component\\[[[ComponentNamespace]]]\\Administrator\\Helper\\[[[Component]]]Email",
+            "joomla_version": "0"
+        },
+        "settings1": {
+            "namespace": "[[[Component]]]Email",
+            "joomla_version": "3"
+        }
+    }
+}
