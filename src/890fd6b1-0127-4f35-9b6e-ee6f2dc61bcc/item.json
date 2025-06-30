@@ -1,0 +1,15 @@
+{
+    "system_name": "MailerInterface",
+    "guid": "890fd6b1-0127-4f35-9b6e-ee6f2dc61bcc",
+    "description": "Provides a common interface to send emails with.",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Mail\\MailerInterface",
+            "joomla_version": "0"
+        },
+        "settings1": {
+            "namespace": "Error\/Not\/For\/Joomla\/Threeeeee",
+            "joomla_version": "3"
+        }
+    }
+}
