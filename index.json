@@ -3498,5 +3498,12 @@
         "path": "src\/890fd6b1-0127-4f35-9b6e-ee6f2dc61bcc",
         "jpk": "Joomla---890fd6b1_0127_4f35_9b6e_ee6f2dc61bcc---Power",
         "guid": "890fd6b1-0127-4f35-9b6e-ee6f2dc61bcc"
+    },
+    "5d2ae99b-1ea1-44f0-9b59-f1aa7eab9e2e": {
+        "name": "ToolbarFactoryInterface",
+        "settings": "src\/5d2ae99b-1ea1-44f0-9b59-f1aa7eab9e2e\/item.json",
+        "path": "src\/5d2ae99b-1ea1-44f0-9b59-f1aa7eab9e2e",
+        "jpk": "Joomla---5d2ae99b_1ea1_44f0_9b59_f1aa7eab9e2e---Power",
+        "guid": "5d2ae99b-1ea1-44f0-9b59-f1aa7eab9e2e"
     }
 }
