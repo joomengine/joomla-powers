@@ -3484,5 +3484,12 @@
         "path": "src\/025399e0-cab7-4cc8-8f91-62e077039acd",
         "jpk": "Joomla---025399e0_cab7_4cc8_8f91_62e077039acd---Power",
         "guid": "025399e0-cab7-4cc8-8f91-62e077039acd"
+    },
+    "3e2779e9-b33f-42b8-a13b-53f08d99f15b": {
+        "name": "MailerFactoryInterface",
+        "settings": "src\/3e2779e9-b33f-42b8-a13b-53f08d99f15b\/item.json",
+        "path": "src\/3e2779e9-b33f-42b8-a13b-53f08d99f15b",
+        "jpk": "Joomla---3e2779e9_b33f_42b8_a13b_53f08d99f15b---Power",
+        "guid": "3e2779e9-b33f-42b8-a13b-53f08d99f15b"
     }
 }
