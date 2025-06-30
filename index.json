@@ -3470,5 +3470,12 @@
         "path": "src\/06aa47b5-293f-4a18-9f0d-986cf11a5cb9",
         "jpk": "Joomla---06aa47b5_293f_4a18_9f0d_986cf11a5cb9---Power",
         "guid": "06aa47b5-293f-4a18-9f0d-986cf11a5cb9"
+    },
+    "91327a40-fe8f-4ff6-bbe6-f4248d8c7069": {
+        "name": "JFieldsHelper",
+        "settings": "src\/91327a40-fe8f-4ff6-bbe6-f4248d8c7069\/item.json",
+        "path": "src\/91327a40-fe8f-4ff6-bbe6-f4248d8c7069",
+        "jpk": "Joomla---91327a40_fe8f_4ff6_bbe6_f4248d8c7069---Power",
+        "guid": "91327a40-fe8f-4ff6-bbe6-f4248d8c7069"
     }
 }
