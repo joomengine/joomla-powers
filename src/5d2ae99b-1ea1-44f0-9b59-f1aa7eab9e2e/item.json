@@ -1,0 +1,15 @@
+{
+    "system_name": "ToolbarFactoryInterface",
+    "guid": "5d2ae99b-1ea1-44f0-9b59-f1aa7eab9e2e",
+    "description": "Interface for creating toolbar objects",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Toolbar\\ToolbarFactoryInterface",
+            "joomla_version": "0"
+        },
+        "settings1": {
+            "namespace": "Error\/Not\/For\/Joomla\/Threeeeee",
+            "joomla_version": "3"
+        }
+    }
+}
