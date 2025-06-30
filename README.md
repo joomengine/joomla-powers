@@ -526,6 +526,7 @@ The list below shows all Joomla Powers available in this repository — each one
  - **JViewLegacy** | [Details](src/3cca7cc5-481b-4f21-944c-4f85ec4b1b05) | [Settings](src/3cca7cc5-481b-4f21-944c-4f85ec4b1b05/item.json) | JPK: `Joomla---3cca7cc5_481b_4f21_944c_4f85ec4b1b05---Power`
  - **JWeb** | [Details](src/d57b084b-bfba-45d2-9131-bcc40f16deaf) | [Settings](src/d57b084b-bfba-45d2-9131-bcc40f16deaf/item.json) | JPK: `Joomla---d57b084b_bfba_45d2_9131_bcc40f16deaf---Power`
  - **JWebClient** | [Details](src/32ad40f6-cec1-48a6-8316-962714f08af9) | [Settings](src/32ad40f6-cec1-48a6-8316-962714f08af9/item.json) | JPK: `Joomla---32ad40f6_cec1_48a6_8316_962714f08af9---Power`
+ - **MailerFactoryInterface** | [Details](src/3e2779e9-b33f-42b8-a13b-53f08d99f15b) | [Settings](src/3e2779e9-b33f-42b8-a13b-53f08d99f15b/item.json) | JPK: `Joomla---3e2779e9_b33f_42b8_a13b_53f08d99f15b---Power`
  - **PrivacyExportDomain** | [Details](src/f5e0753c-c8d9-4965-a606-9c45b37a6857) | [Settings](src/f5e0753c-c8d9-4965-a606-9c45b37a6857/item.json) | JPK: `Joomla---f5e0753c_c8d9_4965_a606_9c45b37a6857---Power`
  - **PrivacyPlugin** | [Details](src/41ef7131-1109-411c-aac8-3679d1aa91f2) | [Settings](src/41ef7131-1109-411c-aac8-3679d1aa91f2/item.json) | JPK: `Joomla---41ef7131_1109_411c_aac8_3679d1aa91f2---Power`
  - **PrivacyRemovalStatus** | [Details](src/5c599ecf-8f58-44b4-bbaf-a47eb5d302e5) | [Settings](src/5c599ecf-8f58-44b4-bbaf-a47eb5d302e5/item.json) | JPK: `Joomla---5c599ecf_8f58_44b4_bbaf_a47eb5d302e5---Power`
