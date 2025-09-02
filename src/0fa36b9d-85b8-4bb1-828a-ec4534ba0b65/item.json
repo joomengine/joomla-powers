@@ -1,0 +1,15 @@
+{
+    "system_name": "AbstractEvent",
+    "guid": "0fa36b9d-85b8-4bb1-828a-ec4534ba0b65",
+    "description": "",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Event\\AbstractEvent",
+            "joomla_version": "0"
+        },
+        "settings1": {
+            "namespace": "Error\/Not\/For\/Joomla\/Three",
+            "joomla_version": "3"
+        }
+    }
+}
