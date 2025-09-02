@@ -3512,5 +3512,12 @@
         "path": "src\/a6ee04f5-33c7-4a9b-aa6d-6a03f3715a88",
         "jpk": "Joomla---a6ee04f5_33c7_4a9b_aa6d_6a03f3715a88---Power",
         "guid": "a6ee04f5-33c7-4a9b-aa6d-6a03f3715a88"
+    },
+    "0fa36b9d-85b8-4bb1-828a-ec4534ba0b65": {
+        "name": "AbstractEvent",
+        "settings": "src\/0fa36b9d-85b8-4bb1-828a-ec4534ba0b65\/item.json",
+        "path": "src\/0fa36b9d-85b8-4bb1-828a-ec4534ba0b65",
+        "jpk": "Joomla---0fa36b9d_85b8_4bb1_828a_ec4534ba0b65---Power",
+        "guid": "0fa36b9d-85b8-4bb1-828a-ec4534ba0b65"
     }
 }
