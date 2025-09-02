@@ -1,6 +1,23 @@
 ### Joomla! Power
 # AbstractEvent
 
+This class implements the base Event object used system-wide to offer orthogonality. Core objects such as Models,
+Controllers, etc create such events on-the-fly and dispatch them through the application's Dispatcher (colloquially
+known as the "Joomla! plugin system"). This way a suitable plugin, typically a "system" plugin, can modify the
+behaviour of any internal class, providing system-wide services such as tags, content versioning, comments or even
+low-level services such as the implementation of created/modified/locked behaviours, record hit counter etc.
+
+You can create a new Event with something like this:
+
+$event = AbstractEvent::create('onModelBeforeSomething', $myModel, $arguments);
+
+You can access the subject object from your event Listener using $event['subject']. It is up to your listener to
+determine whether it should apply its functionality against the subject.
+
+This AbstractEvent class implements a mutable event which is allowed to change its arguments at runtime. This is
+generally unadvisable. It's best to use AbstractImmutableEvent instead and constrict all your interaction to the
+subject class.
+
 | Namespace | Joomla Version |
 |-----------|----------------|
 | `use Joomla\CMS\Event\AbstractEvent;` | ![All](https://img.shields.io/badge/All-purple?style=flat-square) |
