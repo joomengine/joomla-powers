@@ -3505,5 +3505,12 @@
         "path": "src\/5d2ae99b-1ea1-44f0-9b59-f1aa7eab9e2e",
         "jpk": "Joomla---5d2ae99b_1ea1_44f0_9b59_f1aa7eab9e2e---Power",
         "guid": "5d2ae99b-1ea1-44f0-9b59-f1aa7eab9e2e"
+    },
+    "a6ee04f5-33c7-4a9b-aa6d-6a03f3715a88": {
+        "name": "CMSApplicationInterface",
+        "settings": "src\/a6ee04f5-33c7-4a9b-aa6d-6a03f3715a88\/item.json",
+        "path": "src\/a6ee04f5-33c7-4a9b-aa6d-6a03f3715a88",
+        "jpk": "Joomla---a6ee04f5_33c7_4a9b_aa6d_6a03f3715a88---Power",
+        "guid": "a6ee04f5-33c7-4a9b-aa6d-6a03f3715a88"
     }
 }
