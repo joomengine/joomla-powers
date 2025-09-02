@@ -37,6 +37,7 @@ The list below shows all Joomla Powers available in this repository — each one
 # Index of Joomla! Powers
 
  - **@EmailHelper (admin)** | [Details](src/025399e0-cab7-4cc8-8f91-62e077039acd) | [Settings](src/025399e0-cab7-4cc8-8f91-62e077039acd/item.json) | JPK: `Joomla---025399e0_cab7_4cc8_8f91_62e077039acd---Power`
+ - **CMSApplicationInterface** | [Details](src/a6ee04f5-33c7-4a9b-aa6d-6a03f3715a88) | [Settings](src/a6ee04f5-33c7-4a9b-aa6d-6a03f3715a88/item.json) | JPK: `Joomla---a6ee04f5_33c7_4a9b_aa6d_6a03f3715a88---Power`
  - **ComponentHelper (admin)** | [Details](src/aebfeb9f-f8a3-42be-a21d-5db56ae30c1c) | [Settings](src/aebfeb9f-f8a3-42be-a21d-5db56ae30c1c/item.json) | JPK: `Joomla---aebfeb9f_f8a3_42be_a21d_5db56ae30c1c---Power`
  - **ComponentHelper (site)** | [Details](src/cf3b95c1-ba56-4193-8eb4-9164582b7f55) | [Settings](src/cf3b95c1-ba56-4193-8eb4-9164582b7f55/item.json) | JPK: `Joomla---cf3b95c1_ba56_4193_8eb4_9164582b7f55---Power`
  - **DatabaseAwareTrait** | [Details](src/ae15e6b6-f7de-43ad-be4b-71499ae88f45) | [Settings](src/ae15e6b6-f7de-43ad-be4b-71499ae88f45/item.json) | JPK: `Joomla---ae15e6b6_f7de_43ad_be4b_71499ae88f45---Power`
