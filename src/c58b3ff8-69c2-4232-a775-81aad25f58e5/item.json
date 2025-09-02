@@ -1,0 +1,15 @@
+{
+    "system_name": "AbstractImmutableEvent",
+    "guid": "c58b3ff8-69c2-4232-a775-81aad25f58e5",
+    "description": "This class implements the immutable base Event object used system-wide to offer orthogonality.",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Event\\AbstractImmutableEvent",
+            "joomla_version": "0"
+        },
+        "settings1": {
+            "namespace": "Error\/Not\/For\/Joomla\/Three",
+            "joomla_version": "3"
+        }
+    }
+}
