@@ -3519,5 +3519,12 @@
         "path": "src\/0fa36b9d-85b8-4bb1-828a-ec4534ba0b65",
         "jpk": "Joomla---0fa36b9d_85b8_4bb1_828a_ec4534ba0b65---Power",
         "guid": "0fa36b9d-85b8-4bb1-828a-ec4534ba0b65"
+    },
+    "c58b3ff8-69c2-4232-a775-81aad25f58e5": {
+        "name": "AbstractImmutableEvent",
+        "settings": "src\/c58b3ff8-69c2-4232-a775-81aad25f58e5\/item.json",
+        "path": "src\/c58b3ff8-69c2-4232-a775-81aad25f58e5",
+        "jpk": "Joomla---c58b3ff8_69c2_4232_a775_81aad25f58e5---Power",
+        "guid": "c58b3ff8-69c2-4232-a775-81aad25f58e5"
     }
 }
