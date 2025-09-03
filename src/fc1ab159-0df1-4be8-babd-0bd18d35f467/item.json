@@ -1,0 +1,15 @@
+{
+    "system_name": "BeforeDisplayEvent",
+    "guid": "fc1ab159-0df1-4be8-babd-0bd18d35f467",
+    "description": "Class for Content event.",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Event\\Content\\BeforeDisplayEvent",
+            "joomla_version": "0"
+        },
+        "settings1": {
+            "namespace": "Error\/Not\/For\/Joomla\/Three",
+            "joomla_version": "3"
+        }
+    }
+}
