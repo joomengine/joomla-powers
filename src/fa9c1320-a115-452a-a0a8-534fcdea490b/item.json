@@ -1,0 +1,15 @@
+{
+    "system_name": "AfterTitleEvent",
+    "guid": "fa9c1320-a115-452a-a0a8-534fcdea490b",
+    "description": "Class for Content event.",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Event\\Content\\AfterTitleEvent",
+            "joomla_version": "0"
+        },
+        "settings1": {
+            "namespace": "Error\/Not\/For\/Joomla\/Three",
+            "joomla_version": "3"
+        }
+    }
+}
