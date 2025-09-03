@@ -3526,5 +3526,33 @@
         "path": "src\/c58b3ff8-69c2-4232-a775-81aad25f58e5",
         "jpk": "Joomla---c58b3ff8_69c2_4232_a775_81aad25f58e5---Power",
         "guid": "c58b3ff8-69c2-4232-a775-81aad25f58e5"
+    },
+    "6ee61914-64ed-4a3a-b156-dfc4891ae00d": {
+        "name": "ContentPrepareEvent",
+        "settings": "src\/6ee61914-64ed-4a3a-b156-dfc4891ae00d\/item.json",
+        "path": "src\/6ee61914-64ed-4a3a-b156-dfc4891ae00d",
+        "jpk": "Joomla---6ee61914_64ed_4a3a_b156_dfc4891ae00d---Power",
+        "guid": "6ee61914-64ed-4a3a-b156-dfc4891ae00d"
+    },
+    "a42c4e8e-ead1-442d-8b9a-99236a1ee9a9": {
+        "name": "AfterDisplayEvent",
+        "settings": "src\/a42c4e8e-ead1-442d-8b9a-99236a1ee9a9\/item.json",
+        "path": "src\/a42c4e8e-ead1-442d-8b9a-99236a1ee9a9",
+        "jpk": "Joomla---a42c4e8e_ead1_442d_8b9a_99236a1ee9a9---Power",
+        "guid": "a42c4e8e-ead1-442d-8b9a-99236a1ee9a9"
+    },
+    "fa9c1320-a115-452a-a0a8-534fcdea490b": {
+        "name": "AfterTitleEvent",
+        "settings": "src\/fa9c1320-a115-452a-a0a8-534fcdea490b\/item.json",
+        "path": "src\/fa9c1320-a115-452a-a0a8-534fcdea490b",
+        "jpk": "Joomla---fa9c1320_a115_452a_a0a8_534fcdea490b---Power",
+        "guid": "fa9c1320-a115-452a-a0a8-534fcdea490b"
+    },
+    "fc1ab159-0df1-4be8-babd-0bd18d35f467": {
+        "name": "BeforeDisplayEvent",
+        "settings": "src\/fc1ab159-0df1-4be8-babd-0bd18d35f467\/item.json",
+        "path": "src\/fc1ab159-0df1-4be8-babd-0bd18d35f467",
+        "jpk": "Joomla---fc1ab159_0df1_4be8_babd_0bd18d35f467---Power",
+        "guid": "fc1ab159-0df1-4be8-babd-0bd18d35f467"
     }
 }
