@@ -1,0 +1,15 @@
+{
+    "system_name": "AfterDisplayEvent",
+    "guid": "a42c4e8e-ead1-442d-8b9a-99236a1ee9a9",
+    "description": "Class for Content event.",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Event\\Content\\AfterDisplayEvent",
+            "joomla_version": "0"
+        },
+        "settings1": {
+            "namespace": "Error\/Not\/For\/Joomla\/Three",
+            "joomla_version": "3"
+        }
+    }
+}
