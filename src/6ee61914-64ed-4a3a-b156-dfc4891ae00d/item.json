@@ -1,0 +1,15 @@
+{
+    "system_name": "ContentPrepareEvent",
+    "guid": "6ee61914-64ed-4a3a-b156-dfc4891ae00d",
+    "description": "Class for Content event.",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\CMS\\Event\\Content\\ContentPrepareEvent",
+            "joomla_version": "0"
+        },
+        "settings1": {
+            "namespace": "Error\/Not\/For\/Joomla\/Three",
+            "joomla_version": "3"
+        }
+    }
+}
