@@ -47,6 +47,7 @@ The list below shows all Joomla Powers available in this repository — each one
  - **ComponentHelper (site)** | [Details](src/cf3b95c1-ba56-4193-8eb4-9164582b7f55) | [Settings](src/cf3b95c1-ba56-4193-8eb4-9164582b7f55/item.json) | JPK: `Joomla---cf3b95c1_ba56_4193_8eb4_9164582b7f55---Power`
  - **ContentPrepareEvent** | [Details](src/6ee61914-64ed-4a3a-b156-dfc4891ae00d) | [Settings](src/6ee61914-64ed-4a3a-b156-dfc4891ae00d/item.json) | JPK: `Joomla---6ee61914_64ed_4a3a_b156_dfc4891ae00d---Power`
  - **DatabaseAwareTrait** | [Details](src/ae15e6b6-f7de-43ad-be4b-71499ae88f45) | [Settings](src/ae15e6b6-f7de-43ad-be4b-71499ae88f45/item.json) | JPK: `Joomla---ae15e6b6_f7de_43ad_be4b_71499ae88f45---Power`
+ - **DropdownButton** | [Details](src/f5a65880-6185-4f43-8d55-770616692a40) | [Settings](src/f5a65880-6185-4f43-8d55-770616692a40/item.json) | JPK: `Joomla---f5a65880_6185_4f43_8d55_770616692a40---Power`
  - **JAccess** | [Details](src/2d513d69-8c7c-4dab-bb84-c5ecafb91a9d) | [Settings](src/2d513d69-8c7c-4dab-bb84-c5ecafb91a9d/item.json) | JPK: `Joomla---2d513d69_8c7c_4dab_bb84_c5ecafb91a9d---Power`
  - **JAccessExceptionNotallowed** | [Details](src/2fa1c08d-c4ff-4cb0-8338-7221e95c1fe4) | [Settings](src/2fa1c08d-c4ff-4cb0-8338-7221e95c1fe4/item.json) | JPK: `Joomla---2fa1c08d_c4ff_4cb0_8338_7221e95c1fe4---Power`
  - **JAccessRule** | [Details](src/1e77d689-78b9-4418-809b-923edc4cb21b) | [Settings](src/1e77d689-78b9-4418-809b-923edc4cb21b/item.json) | JPK: `Joomla---1e77d689_78b9_4418_809b_923edc4cb21b---Power`
