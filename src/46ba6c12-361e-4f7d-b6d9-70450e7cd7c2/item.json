@@ -1,0 +1,11 @@
+{
+    "system_name": "JStringHelper",
+    "guid": "46ba6c12-361e-4f7d-b6d9-70450e7cd7c2",
+    "description": "String handling class for UTF-8 data wrapping the phputf8 library. All functions assume the validity of UTF-8 strings.",
+    "settings": {
+        "settings0": {
+            "namespace": "Joomla\\String\\StringHelper",
+            "joomla_version": "0"
+        }
+    }
+}
