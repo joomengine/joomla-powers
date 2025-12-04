@@ -475,6 +475,7 @@ The list below shows all Joomla Powers available in this repository — each one
  - **JStream** | [Details](src/3b625fe9-b66d-4d0c-af3b-b657fa279cd2) | [Settings](src/3b625fe9-b66d-4d0c-af3b-b657fa279cd2/item.json) | JPK: `Joomla---3b625fe9_b66d_4d0c_af3b_b657fa279cd2---Power`
  - **JStreamString** | [Details](src/fdc5c1aa-7dce-49ce-b35c-917155aa4d53) | [Settings](src/fdc5c1aa-7dce-49ce-b35c-917155aa4d53/item.json) | JPK: `Joomla---fdc5c1aa_7dce_49ce_b35c_917155aa4d53---Power`
  - **JStringController** | [Details](src/9c1997f5-592a-471f-a6a6-ec205bf20b58) | [Settings](src/9c1997f5-592a-471f-a6a6-ec205bf20b58/item.json) | JPK: `Joomla---9c1997f5_592a_471f_a6a6_ec205bf20b58---Power`
+ - **JStringHelper** | [Details](src/46ba6c12-361e-4f7d-b6d9-70450e7cd7c2) | [Settings](src/46ba6c12-361e-4f7d-b6d9-70450e7cd7c2/item.json) | JPK: `Joomla---46ba6c12_361e_4f7d_b6d9_70450e7cd7c2---Power`
  - **JStringInflector** | [Details](src/0b0a3a94-d3c4-4960-8f6c-1fe928e866ab) | [Settings](src/0b0a3a94-d3c4-4960-8f6c-1fe928e866ab/item.json) | JPK: `Joomla---0b0a3a94_d3c4_4960_8f6c_1fe928e866ab---Power`
  - **JStringNormalise** | [Details](src/acb6d6f1-44b2-43ae-88d0-17c5f1fc5ff7) | [Settings](src/acb6d6f1-44b2-43ae-88d0-17c5f1fc5ff7/item.json) | JPK: `Joomla---acb6d6f1_44b2_43ae_88d0_17c5f1fc5ff7---Power`
  - **JStringPunycode** | [Details](src/b6882f3d-a8bc-4d82-ae7b-5f0fede36979) | [Settings](src/b6882f3d-a8bc-4d82-ae7b-5f0fede36979/item.json) | JPK: `Joomla---b6882f3d_a8bc_4d82_ae7b_5f0fede36979---Power`
